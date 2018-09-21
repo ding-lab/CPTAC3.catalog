@@ -2,6 +2,8 @@
 
 Holds details about CPTAC3 data at GDC and in Ding Lab.
 
+*Analysis as of 9/21/18*
+
 ## Reference information
 
 [Pipeline Development Roadmap](https://docs.google.com/spreadsheets/d/1Q0GdJpyqJAJBAwk7VkI0Jbqtyldnm4qRjwLjxgLLxRE/edit?usp=drive_web&ouid=101417742046588217932)
@@ -21,6 +23,11 @@ Current versions of BamMap files are tagged 20180918.  They correspond to analys
 ### Files
 [Source](https://docs.google.com/spreadsheets/d/1Q0GdJpyqJAJBAwk7VkI0Jbqtyldnm4qRjwLjxgLLxRE/edit#gid=1679748692)
 
+Note, after 9/19/18, file below
+    katmai:/diskmnt/Projects/cptac/GDC_import/import.config/CPTAC3.LUAD.b4/CPTAC3.LUAD.b4.BamMap.dat
+is equivalant to
+    katmai:/home/mwyczalk_test/Projects/CPTAC3/import/import.CPTAC3.LUAD.b4.B/merge_BamMap/CPTAC3.LUAD.b4.merged.BamMap.dat
+
 ```
 Denali:
     /diskmnt/Projects/cptac_downloads/data/GDC_import/import.config/CPTAC3.b1/CPTAC3.b1.BamMap.dat
@@ -36,7 +43,7 @@ Katmai:
     /diskmnt/Projects/cptac/GDC_import/import.config/CPTAC3.LUAD.b3/CPTAC3.LUAD.b3.BamMap.dat
     /diskmnt/Projects/cptac/GDC_import/import.config/CPTAC3.CCRC.b5/CPTAC3.CCRC.b5.BamMap.dat
     /diskmnt/Projects/cptac/GDC_import/import.config/CPTAC3.d3/CPTAC3.d3.BamMap.dat
-    /diskmnt/Projects/cptac/GDC_import/import.config/CPTAC3.LUAD.b4/CPTAC3.LUAD.b4.BamMap.dat
+    /home/mwyczalk_test/Projects/CPTAC3/import/import.CPTAC3.LUAD.b4.B/merge_BamMap/CPTAC3.LUAD.b4.merged.BamMap.dat
 MGI
     /gscmnt/gc2521/dinglab/mwyczalk/somatic-wrapper-data/GDC_import/import.config/CPTAC3.b1/CPTAC3.b1.BamMap.dat
     /gscuser/mwyczalk/projects/CPTAC3/import/b2.summary/CPTAC3.b2.BamMap.MGI.dat
