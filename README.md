@@ -8,6 +8,12 @@ Holds details about CPTAC3 data at GDC and in Ding Lab.
 
 [Pipeline Development Roadmap](https://docs.google.com/spreadsheets/d/1Q0GdJpyqJAJBAwk7VkI0Jbqtyldnm4qRjwLjxgLLxRE/edit?usp=drive_web&ouid=101417742046588217932)
 
+## Cases file
+
+Complete list of 325 cases associated with CPTAC3 Y1 project, including their diseases and nominal batch.
+Obtained from,
+epazote:/Users/mwyczalk/Projects/CPTAC3/CPTAC3.Cases/cases.analysis/dat/CPTAC3.C325.cases.dat
+
 ## SR file
 
 List of all hg19 WGS, WXS, RNA-Seq sequence data available at GDC for 325 cases.  Current version 
