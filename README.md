@@ -59,6 +59,17 @@ MGI
     /gscmnt/gc2619/dinglab_cptac3/GDC_import/import.config/CPTAC3.LUAD.b4/CPTAC3.LUAD.b4.BamMap.dat
 ```
 
+## Updates
+
+### 20180926
+
+Copied BAM / FASTQ associated with LUAD.b4.B and 0918-Sync from Katmai to MGI.  Details of move:
+
+* MGI: `/gscuser/mwyczalk/projects/CPTAC3/import/examine_import/README`
+* Katmai:
+    * `/home/mwyczalk_test/Projects/CPTAC3/import/import.CPTAC3.LUAD.b4.B/MGI-upload`
+    * `/home/mwyczalk_test/Projects/CPTAC3/import/export_to_MGI` 
+
 ## Contact
 
 Matthew Wyczalkowski <m.wyczalkowski@wustl.edu>
