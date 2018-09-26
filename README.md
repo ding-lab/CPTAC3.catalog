@@ -2,7 +2,7 @@
 
 Holds details about CPTAC3 data at GDC and in Ding Lab.
 
-*Analysis as of 9/21/18*
+*Analysis as of 9/26/18*
 
 ## Reference information
 
@@ -12,13 +12,27 @@ Holds details about CPTAC3 data at GDC and in Ding Lab.
 
 Complete list of 325 cases associated with CPTAC3 Y1 project, including their diseases and nominal batch.
 Obtained from,
-epazote:/Users/mwyczalk/Projects/CPTAC3/CPTAC3.Cases/cases.analysis/dat/CPTAC3.C325.cases.dat
+`epazote:/Users/mwyczalk/Projects/CPTAC3/CPTAC3.Cases/cases.analysis/dat/CPTAC3.C325.cases.dat`
 
 ## SR file
 
 List of all hg19 WGS, WXS, RNA-Seq sequence data available at GDC for 325 cases.  Current version 
 is 20180917, from
-denali:/home/mwyczalk_test/Projects/CPTAC3/Discover/discover.CPTAC3.C322/dat.20180917/CPTAC3.C325.SR.dat
+`denali:/home/mwyczalk_test/Projects/CPTAC3/Discover/discover.CPTAC3.C322/dat.20180917/CPTAC3.C325.SR.dat`
+
+The following cases have two tumor BAMs for WGS/WXS, and four tumor RNA-Seq FASTQs:
+* C3L-00908
+* C3N-00545
+* C3N-01825
+
+Mathangi writes (9/20/18):
+```
+All 3 have the exact same reason. We sent an aliquot for sequencing and then we
+had to marginally fail pathology, but genomics came fine for both hence we have
+2 versions. The 545 is a lung sample and it is up to the lung team to pick
+which one they want to use after checking proteomic data.  Same with 1825. If I
+find out, I will let you know.
+```
 
 ## BamMap files
 
@@ -28,42 +42,6 @@ Current versions of BamMap files are tagged 20180918.  They correspond to analys
 
 ### Files
 [Source](https://docs.google.com/spreadsheets/d/1Q0GdJpyqJAJBAwk7VkI0Jbqtyldnm4qRjwLjxgLLxRE/edit#gid=1679748692)
-
-Note, after 9/19/18, file below
-    katmai:/diskmnt/Projects/cptac/GDC_import/import.config/CPTAC3.LUAD.b4/CPTAC3.LUAD.b4.BamMap.dat
-is equivalant to
-    katmai:/home/mwyczalk_test/Projects/CPTAC3/import/import.CPTAC3.LUAD.b4.B/merge_BamMap/CPTAC3.LUAD.b4.merged.BamMap.dat
-
-```
-Denali:
-    /diskmnt/Projects/cptac_downloads/data/GDC_import/import.config/CPTAC3.b1/CPTAC3.b1.BamMap.dat
-    /diskmnt/Projects/cptac_downloads/data/GDC_import/import.config/CPTAC3.b2/CPTAC3.b2.BamMap.dat
-    /diskmnt/Projects/cptac_downloads/data/GDC_import/import.config/CPTAC3.b3/CPTAC3.b3.BamMap.dat
-    /diskmnt/Projects/cptac_downloads/data/GDC_import/import.config/CPTAC3.b1.LUAD/CPTAC3.b1.LUAD.BamMap.dat
-    /diskmnt/Projects/cptac_downloads/data/GDC_import/import.config/CPTAC3.b12-TAN/CPTAC3.b12-TAN.BamMap.dat
-    /diskmnt/Projects/cptac_downloads/data/GDC_import/import.config/CPTAC3.b4/CPTAC3.b4.BamMap.dat
-    /diskmnt/Projects/cptac_downloads/data/GDC_import/import.config/CPTAC3.b2.LUAD/CPTAC3.b2.LUAD.BamMap.dat
-Katmai:
-    /diskmnt/Projects/cptac/GDC_import/import.config/CPTAC3.b4.b/CPTAC3.b4.b.BamMap.dat
-    /diskmnt/Projects/cptac/GDC_import/import.config/CPTAC3.b2.LUAD/CPTAC3.b2.LUAD.BamMap.WGS.dat
-    /diskmnt/Projects/cptac/GDC_import/import.config/CPTAC3.LUAD.b3/CPTAC3.LUAD.b3.BamMap.dat
-    /diskmnt/Projects/cptac/GDC_import/import.config/CPTAC3.CCRC.b5/CPTAC3.CCRC.b5.BamMap.dat
-    /diskmnt/Projects/cptac/GDC_import/import.config/CPTAC3.d3/CPTAC3.d3.BamMap.dat
-    /home/mwyczalk_test/Projects/CPTAC3/import/import.CPTAC3.LUAD.b4.B/merge_BamMap/CPTAC3.LUAD.b4.merged.BamMap.dat
-MGI
-    /gscmnt/gc2521/dinglab/mwyczalk/somatic-wrapper-data/GDC_import/import.config/CPTAC3.b1/CPTAC3.b1.BamMap.dat
-    /gscuser/mwyczalk/projects/CPTAC3/import/b2.summary/CPTAC3.b2.BamMap.MGI.dat
-    /gscuser/mwyczalk/projects/CPTAC3/import/b2.summary/CPTAC3.b2.BamMap.MGI.dat
-    /gscmnt/gc2741/ding/CPTAC3-data/GDC_import/import.config/CPTAC3.b3/CPTAC3.b3.BamMap.dat
-    /gscmnt/gc2619/dinglab_cptac3/GDC_import/import.config/CPTAC3.LUAD.b1/CPTAC3.LUAD.b1.BamMap.dat
-    /gscmnt/gc2619/dinglab_cptac3/GDC_import/import.config/CPTAC3.b12-TAN/CPTAC3.b12-TAN.BamMap.dat
-    /gscmnt/gc2619/dinglab_cptac3/GDC_import/import.config/CPTAC3.b4/CPTAC3.b4.BamMap.dat
-    /gscmnt/gc2619/dinglab_cptac3/GDC_import/import.config/CPTAC3.b2.LUAD/CPTAC3.b2.LUAD.BamMap.dat
-    /gscmnt/gc2741/ding/CPTAC3-data/GDC_import/import.config/CPTAC3.CCRC.b5/CPTAC3.CCRC.b5.BamMap.dat
-    /gscmnt/gc2741/ding/CPTAC3-data/GDC_import/import.config/CPTAC3.LUAD.b3/CPTAC3.LUAD.b3.BamMap.dat
-    /gscmnt/gc2741/ding/CPTAC3-data/GDC_import/import.config/CPTAC3.d3/CPTAC3.d3.BamMap.dat
-    /gscmnt/gc2619/dinglab_cptac3/GDC_import/import.config/CPTAC3.LUAD.b4/CPTAC3.LUAD.b4.BamMap.dat
-```
 
 ## Updates
 
