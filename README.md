@@ -43,6 +43,17 @@ Current versions of BamMap files are tagged 20180918.  They correspond to analys
 ### Files
 [Source](https://docs.google.com/spreadsheets/d/1Q0GdJpyqJAJBAwk7VkI0Jbqtyldnm4qRjwLjxgLLxRE/edit#gid=1679748692)
 
+## hg38
+
+katmai.hg38.BamMap.dat based on hg38 WXS BamMap on katmai
+
+* Analysis based on CPTAC3.hg38.b2.HAR.dat
+* Analysis location: katmai:/home/mwyczalk_test/Projects/CPTAC3/import/import.CPTAC3.hg38.b1/HAR.b2-analysis
+* Only WXS was downloaded in this import
+* 12 samples missing - these did not appear in CPTAC3.hg38.b1.HAR.dat
+  * see /home/mwyczalk_test/Projects/CPTAC3/import/import.CPTAC3.hg38.b1/HAR.b2-analysis/README.md
+
+
 ## Updates
 
 ### 20180926
