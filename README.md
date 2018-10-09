@@ -65,6 +65,12 @@ Copied BAM / FASTQ associated with LUAD.b4.B and 0918-Sync from Katmai to MGI.  
     * `/home/mwyczalk_test/Projects/CPTAC3/import/import.CPTAC3.LUAD.b4.B/MGI-upload`
     * `/home/mwyczalk_test/Projects/CPTAC3/import/export_to_MGI` 
 
+# dat/BamMap.hg38.MGI.20181008.dat
+
+Intermediate BamMap generated during an incomplete download of hg38 CCRC WXS data requested by Song.
+Analysis takes place on MGI here: `/gscuser/mwyczalk/projects/CPTAC3/import/examine_import`
+This is temporary and will be updated / renamed when transfer complete
+
 ## Contact
 
 Matthew Wyczalkowski <m.wyczalkowski@wustl.edu>
