@@ -43,6 +43,17 @@ Current versions of BamMap files are tagged 20180918.  They correspond to analys
 ### Files
 [Source](https://docs.google.com/spreadsheets/d/1Q0GdJpyqJAJBAwk7VkI0Jbqtyldnm4qRjwLjxgLLxRE/edit#gid=1679748692)
 
+## hg38
+
+katmai.hg38.BamMap.dat based on hg38 WXS BamMap on katmai
+
+* Analysis based on CPTAC3.hg38.b2.HAR.dat
+* Analysis location: katmai:/home/mwyczalk_test/Projects/CPTAC3/import/import.CPTAC3.hg38.b1/HAR.b2-analysis
+* Only WXS was downloaded in this import
+* 12 samples missing - these did not appear in CPTAC3.hg38.b1.HAR.dat
+  * see /home/mwyczalk_test/Projects/CPTAC3/import/import.CPTAC3.hg38.b1/HAR.b2-analysis/README.md
+
+
 ## Updates
 
 ### 20180926
@@ -53,6 +64,12 @@ Copied BAM / FASTQ associated with LUAD.b4.B and 0918-Sync from Katmai to MGI.  
 * Katmai:
     * `/home/mwyczalk_test/Projects/CPTAC3/import/import.CPTAC3.LUAD.b4.B/MGI-upload`
     * `/home/mwyczalk_test/Projects/CPTAC3/import/export_to_MGI` 
+
+# dat/BamMap.hg38.MGI.20181008.dat
+
+Intermediate BamMap generated during an incomplete download of hg38 CCRC WXS data requested by Song.
+Analysis takes place on MGI here: `/gscuser/mwyczalk/projects/CPTAC3/import/examine_import`
+This is temporary and will be updated / renamed when transfer complete
 
 ## Contact
 
