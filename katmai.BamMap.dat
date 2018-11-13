@@ -1,4 +1,4 @@
-# SampleName	Case	Disease	ExpStrategy	SampType	DataPath	FileSize	DataFormat	Reference	UUID
+# sample_name	case	disease	experimental_strategy	sample_type	data_path	filesize	data_format	reference	UUID
 11LU013.WGS.N	11LU013	LUAD	WGS	blood_normal	/diskmnt/Projects/cptac/GDC_import/data/44a17830-c27e-4c78-8754-0c0aa33ac33a/CPT0040210002.WholeGenome.RP-1303.bam	63400815626	BAM	hg19	44a17830-c27e-4c78-8754-0c0aa33ac33a
 11LU013.WGS.T	11LU013	LUAD	WGS	tumor	/diskmnt/Projects/cptac/GDC_import/data/5577f58b-1223-46da-8329-17df4700506c/CPT0053040010.WholeGenome.RP-1303.bam	87673499819	BAM	hg19	5577f58b-1223-46da-8329-17df4700506c
 11LU013.WXS.N.hg38	11LU013	LUAD	WXS	blood_normal	/diskmnt/Projects/cptac/GDC_import/data/91f48c07-d1a5-479b-9abe-06ec6218a849/e04e7004-0cc8-42d0-9276-a290b24940ce_gdc_realn.bam	45154785185	BAM	hg38	91f48c07-d1a5-479b-9abe-06ec6218a849

@@ -1,4 +1,4 @@
-# SampleName	Case	Disease	ExpStrategy	SampType	DataPath	FileSize	DataFormat	Reference	UUID
+# sample_name	case	disease	experimental_strategy	sample_type	data_path	filesize	data_format	reference	UUID
 11LU013.RNA-Seq.R1.T	11LU013	LUAD	RNA-Seq	tumor	/diskmnt/Projects/cptac_downloads/data/GDC_import/data/c01167e5-f61b-4816-8910-97d5f225122d/170905_UNC31-K00269_0079_AHLCF7BBXX_ACTTGA_S20_L005_R1_001.fastq.gz	4303659823	FASTQ	NA	c01167e5-f61b-4816-8910-97d5f225122d
 11LU013.RNA-Seq.R2.T	11LU013	LUAD	RNA-Seq	tumor	/diskmnt/Projects/cptac_downloads/data/GDC_import/data/94a49466-5947-4dce-b1cb-616d50b84046/170905_UNC31-K00269_0079_AHLCF7BBXX_ACTTGA_S20_L005_R2_001.fastq.gz	4658332238	FASTQ	NA	94a49466-5947-4dce-b1cb-616d50b84046
 11LU013.WXS.N	11LU013	LUAD	WXS	blood_normal	/diskmnt/Projects/cptac_downloads/data/GDC_import/data/29f82e93-1da2-4c11-9cdb-5ee1aaf05549/CPT0040210002.WholeExome.RP-1303.bam	32888241174	BAM	hg19	29f82e93-1da2-4c11-9cdb-5ee1aaf05549
