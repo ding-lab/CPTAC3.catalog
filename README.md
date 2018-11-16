@@ -4,10 +4,15 @@ Holds details about CPTAC3 data at GDC and in Ding Lab.
 
 ## Overview 
 
-* `CPTAC3.C325.cases.dat`: All cases associated with CPTAC3 Y1 project
-* `CPTAC3.C325.SR.dat`: Details about all sequence data (WGS, WXS, RNA-Seq) at GDC associated with the C325 cases
-* `CPTAC3.hg38.HAR.dat`: Details 360 about "harmonized" hg38 cases at GDC.  Does not include RNA-seq information
+* `CPTAC3.C325.cases.dat`: 325 cases associated with CPTAC3 Y1 project, with batch names
+* `CPTAC3.cases.dat`: 628 cases associated with CPTAC3 project.  This is the master list
+* `CPTAC3.SR.dat`: Details about all sequence data (WGS, WXS, RNA-Seq) at GDC associated with the 628 cases
 * `*.BamMap.dat`: "BamMap" files for various systems indicating locations of downloaded hg19, hg38, and FASTQ sequence data
+* `CPTAC3.SR.hg19.summary.txt` and `CPTAC3.SR.hg19.summary.txt`:
+* `CPTAC3.Demographics.dat`: 
+* `CPTAC_Proteomics_Data_Catalog.tsv`: 
+
+
 
 ## Details
 ### Reference information
@@ -43,6 +48,17 @@ find out, I will let you know.
 ### BamMap files
 
 These change frequently.  See `git log FILE` for details about each
+
+
+### Other issues
+
+The following cases have data in MGI.BamMap.dat which doesn't appear in SR:
+```
+C3L-01744	UCEC
+C3L-01861	CCRCC
+C3L-01885	CCRCC
+```
+Analysis on epazote:/Users/mwyczalk/Projects/CPTAC3/CPTAC3.catalog/testing.disease
 
 ## Contact
 
