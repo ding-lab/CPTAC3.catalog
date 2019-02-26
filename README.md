@@ -56,6 +56,12 @@ tumor and adjacent normal RNA-Seq data (TT, AA because FASTQ data comes in pairs
 these are available as harmonized hg38 WGS and WXS, and harmonized hg38 RNA-Seq chimeric, genomic, and transcriptome BAMs are available 
 for tumor and adjacent normal.
 
+## Additional modifications
+
+The file `SampleRename.dat` contains aliquot ID and sample name suffix as first and second columns, respectively.
+It is currently used in step `3b_append_suffix.sh` of https://github.com/ding-lab/discover.CPTAC3.b1 to add suffixes (-core and -bulk, currently)
+to samples identified by aliquot ID (UUID would also work).  This is necessary to distinguish -bulk and -core samples easily.
+
 ## Contact
 
 Matthew Wyczalkowski <m.wyczalkowski@wustl.edu>
