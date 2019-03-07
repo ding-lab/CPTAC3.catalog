@@ -19,6 +19,9 @@ Holds details about CPTAC3 data at GDC and in Ding Lab.
     * WXS.hg38 - Harmonized WXS data
     * RNA.hg38 - Harmonized RNA-Seq data
         * Harmonization generates chimeric, genomic, and transcriptome BAM files, so each entry will have 3 of each sample type
+* `*.BamMap-summary.txt` - summary of files available on a given system as well as GDC.
+    * For given system (e.g., katmai), format is similar to CPTAC3.file-summary.txt, except that upper-case symbol indicates presence on given system
+      and lower-case symbol indicates that that sample is in GDC but not on system
 
 
 ## Details
@@ -55,6 +58,15 @@ This indicates that the kidney case C3L-00079 has tumor, blood normal, and adjac
 tumor and adjacent normal RNA-Seq data (TT, AA because FASTQ data comes in pairs); and tumor and adjacent miRNA data in FASTQ format.  All
 these are available as harmonized hg38 WGS and WXS, and harmonized hg38 RNA-Seq chimeric, genomic, and transcriptome BAMs are available 
 for tumor and adjacent normal.
+
+### BamMap summary
+As an example from `MGI.BamMap-summary.txt`:
+```
+CCRCC	    WGS.hg19 t n a	    WXS.hg19 t n a	    RNA.fq TT  AA	    miRNA.fq t  a	    WGS.hg38 T N a	    WXS.hg38 T N A	    RNA.hg38 Ttt  Aaa
+```
+This indicates that all RNA-Seq FASTQ, harmonized WGS tumor and blood normal, all harmonized WXS, and genomic hg38 RNA-Seq data are available at MGI.
+Lower case letters indicate which data are available at GDC but not at MGI. 
+
 
 ## Additional modifications
 
