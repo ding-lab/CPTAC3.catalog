@@ -1,0 +1,726 @@
+11LU013	LUAD	    WGS.hg19 t n 	    WXS.hg19 T N 	    RNA.fq TT  	    miRNA.fq t  	    WGS.hg38 t n 	    WXS.hg38 t n 	    RNA.hg38 ttt  
+11LU016	LUAD	    WGS.hg19 t n 	    WXS.hg19 t n 	    RNA.fq tt  	    miRNA.fq t  	    WGS.hg38 t n 	    WXS.hg38 t n 	    RNA.hg38 ttt  
+11LU022	LUAD	    WGS.hg19 t n 	    WXS.hg19 t n 	    RNA.fq tt  	    miRNA.fq t  	    WGS.hg38 t n 	    WXS.hg38 t n 	    RNA.hg38 ttt  
+11LU035	LUAD	    WGS.hg19 t n 	    WXS.hg19 t n 	    RNA.fq tt  	    miRNA.fq t  	    WGS.hg38 t n 	    WXS.hg38 t n 	    RNA.hg38 ttt  
+C3L-00001	LUAD	    WGS.hg19 t n a	    WXS.hg19 t n a	    RNA.fq tt  aa	    miRNA.fq t  a	    WGS.hg38 t n a	    WXS.hg38 t n a	    RNA.hg38 ttt  aaa
+C3L-00004	CCRCC	    WGS.hg19 T N a	    WXS.hg19 T N A	    RNA.fq TT  AA	    miRNA.fq t  a	    WGS.hg38 t n a	    WXS.hg38 t n a	    RNA.hg38 ttt  aaa
+C3L-00006	UCEC	    WGS.hg19 T N a	    WXS.hg19 T N A	    RNA.fq TT  AA	    miRNA.fq t  a	    WGS.hg38 t n a	    WXS.hg38 t n a	    RNA.hg38 ttt  aaa
+C3L-00008	UCEC	    WGS.hg19 t n 	    WXS.hg19 T N 	    RNA.fq TT  	    miRNA.fq t  	    WGS.hg38 t n 	    WXS.hg38 t n 	    RNA.hg38 ttt  
+C3L-00009	LUAD	    WGS.hg19 t n a	    WXS.hg19 t n a	    RNA.fq tt  aa	    miRNA.fq t  a	    WGS.hg38 t n a	    WXS.hg38 t n a	    RNA.hg38 ttt  aaa
+C3L-00010	CCRCC	    WGS.hg19 T N a	    WXS.hg19 T N A	    RNA.fq TT  AA	    miRNA.fq t  a	    WGS.hg38 t n a	    WXS.hg38 t n a	    RNA.hg38 ttt  aaa
+C3L-00011	CCRCC	    WGS.hg19 T N a	    WXS.hg19 T N A	    RNA.fq TT  AA	    miRNA.fq t  a	    WGS.hg38 t n a	    WXS.hg38 t n a	    RNA.hg38 ttt  aaa
+C3L-00016	GBM	    WGS.hg19 t n 	    WXS.hg19 t n 	    RNA.fq tt  	    miRNA.fq t  	    WGS.hg38 t n 	    WXS.hg38 t n 	    RNA.hg38 ttt  
+C3L-00017	PDA	    WGS.hg19 t n a	    WXS.hg19 t n a	    RNA.fq tt  aa	    miRNA.fq t  a	    WGS.hg38 t n a	    WXS.hg38 t n a	    RNA.hg38 ttt  aaa
+C3L-00019	GBM	    WGS.hg19 t n 	    WXS.hg19 t n 	    RNA.fq tt  	    miRNA.fq t  	    WGS.hg38 t n 	    WXS.hg38 t n 	    RNA.hg38 ttt  
+C3L-00026	CCRCC	    WGS.hg19 T N a	    WXS.hg19 T N A	    RNA.fq TT  AA	    miRNA.fq t  a	    WGS.hg38 t n a	    WXS.hg38 t n a	    RNA.hg38 ttt  aaa
+C3L-00029	SAR	    WGS.hg19 t n 	    WXS.hg19 t n 	    RNA.fq tt  	    miRNA.fq t  	    WGS.hg38 t n 	    WXS.hg38 t n 	    RNA.hg38 ttt  
+C3L-00032	UCEC	    WGS.hg19 T N 	    WXS.hg19 T N 	    RNA.fq TT  	    miRNA.fq t  	    WGS.hg38 t n 	    WXS.hg38 t n 	    RNA.hg38 ttt  
+C3L-00035	SAR	    WGS.hg19 t n a	    WXS.hg19 t n a	    RNA.fq tt  aa	    miRNA.fq t  a	    WGS.hg38 t n a	    WXS.hg38 t n a	    RNA.hg38 ttt  aaa
+C3L-00079	CCRCC	    WGS.hg19 t n a	    WXS.hg19 T N A	    RNA.fq TT  AA	    miRNA.fq t  a	    WGS.hg38 t n a	    WXS.hg38 t n a	    RNA.hg38 ttt  aaa
+C3L-00080	LUAD	    WGS.hg19 t n a	    WXS.hg19 t n a	    RNA.fq tt  aa	    miRNA.fq t  a	    WGS.hg38 t n a	    WXS.hg38 t n a	    RNA.hg38 ttt  aaa
+C3L-00081	LSCC	    WGS.hg19 t n a	    WXS.hg19 t n a	    RNA.fq tt  aa	    miRNA.fq t  a	    WGS.hg38 t n a	    WXS.hg38 t n a	    RNA.hg38 ttt  aaa
+C3L-00083	LUAD	    WGS.hg19 t n a	    WXS.hg19 T N A	    RNA.fq TT  AA	    miRNA.fq T  a	    WGS.hg38 t n a	    WXS.hg38 t n a	    RNA.hg38 ttt  aaa
+C3L-00084	UCEC	    WGS.hg19 T N 	    WXS.hg19 T N 	    RNA.fq TT  	    miRNA.fq   	    WGS.hg38 t n 	    WXS.hg38 t n 	    RNA.hg38 ttt  
+C3L-00086	UCEC	    WGS.hg19 t n 	    WXS.hg19 t n 	    RNA.fq tt  	    miRNA.fq T  	    WGS.hg38 t n 	    WXS.hg38 t n 	    RNA.hg38 ttt  
+C3L-00088	CCRCC	    WGS.hg19 T N a	    WXS.hg19 T N A	    RNA.fq TT  AA	    miRNA.fq t  a	    WGS.hg38 t n a	    WXS.hg38 t n a	    RNA.hg38 ttt  aaa
+C3L-00090	UCEC	    WGS.hg19 T N 	    WXS.hg19 T N 	    RNA.fq TT  	    miRNA.fq t  	    WGS.hg38 t n 	    WXS.hg38 t n 	    RNA.hg38 ttt  
+C3L-00093	LUAD	    WGS.hg19 t n a	    WXS.hg19 t n a	    RNA.fq tt  aa	    miRNA.fq t  a	    WGS.hg38 t n a	    WXS.hg38 t n a	    RNA.hg38 ttt  aaa
+C3L-00094	LUAD	    WGS.hg19 t n a	    WXS.hg19 t n a	    RNA.fq tt  aa	    miRNA.fq t  a	    WGS.hg38 t n a	    WXS.hg38 t n a	    RNA.hg38 ttt  aaa
+C3L-00095	LUAD	    WGS.hg19 t n a	    WXS.hg19 t n a	    RNA.fq tt  aa	    miRNA.fq t  a	    WGS.hg38 t n a	    WXS.hg38 t n a	    RNA.hg38 ttt  aaa
+C3L-00096	CCRCC	    WGS.hg19 t n a	    WXS.hg19 t n a	    RNA.fq tt  aa	    miRNA.fq t  a	    WGS.hg38 t n a	    WXS.hg38 t n a	    RNA.hg38 ttt  aaa
+C3L-00097	CCRCC	    WGS.hg19 T N a	    WXS.hg19 T N A	    RNA.fq TT  AA	    miRNA.fq t  a	    WGS.hg38 t n a	    WXS.hg38 t n a	    RNA.hg38 ttt  aaa
+C3L-00098	UCEC	    WGS.hg19 t n 	    WXS.hg19 T N 	    RNA.fq TT  	    miRNA.fq   	    WGS.hg38 t n 	    WXS.hg38 t n 	    RNA.hg38 ttt  
+C3L-00102	PDA	    WGS.hg19 t n a	    WXS.hg19 t n a	    RNA.fq tt  aa	    miRNA.fq t  a	    WGS.hg38 t n a	    WXS.hg38 t n a	    RNA.hg38 ttt  aaa
+C3L-00103	CCRCC	    WGS.hg19 T N a	    WXS.hg19 T N A	    RNA.fq TT  AA	    miRNA.fq t  a	    WGS.hg38 t n a	    WXS.hg38 t n a	    RNA.hg38 ttt  aaa
+C3L-00104	GBM	    WGS.hg19 t n 	    WXS.hg19 t n 	    RNA.fq tt  	    miRNA.fq T  	    WGS.hg38 t n 	    WXS.hg38 t n 	    RNA.hg38 ttt  
+C3L-00136	UCEC	    WGS.hg19 t n 	    WXS.hg19 T N 	    RNA.fq TT  	    miRNA.fq   	    WGS.hg38 t n 	    WXS.hg38 t n 	    RNA.hg38 ttt  
+C3L-00137	UCEC	    WGS.hg19 t n 	    WXS.hg19 T N 	    RNA.fq TT  	    miRNA.fq   	    WGS.hg38 t n 	    WXS.hg38 t n 	    RNA.hg38 ttt  
+C3L-00139	UCEC	    WGS.hg19 T N 	    WXS.hg19 T N 	    RNA.fq TT  	    miRNA.fq t  	    WGS.hg38 t n 	    WXS.hg38 t n 	    RNA.hg38 ttt  
+C3L-00140	LUAD	    WGS.hg19 t n a	    WXS.hg19 t n a	    RNA.fq tt  aa	    miRNA.fq   a	    WGS.hg38 t n a	    WXS.hg38 t n a	    RNA.hg38 ttt  aaa
+C3L-00143	UCEC	    WGS.hg19 t n 	    WXS.hg19 T N 	    RNA.fq TT  	    miRNA.fq t  	    WGS.hg38 t n 	    WXS.hg38 t n 	    RNA.hg38 ttt  
+C3L-00144	LUAD	    WGS.hg19 t n a	    WXS.hg19 t n a	    RNA.fq tt  aa	    miRNA.fq   a	    WGS.hg38 t n a	    WXS.hg38 t n a	    RNA.hg38 ttt  aaa
+C3L-00145	UCEC	    WGS.hg19 T N 	    WXS.hg19 T N 	    RNA.fq TT  	    miRNA.fq t  	    WGS.hg38 t n 	    WXS.hg38 t n 	    RNA.hg38 ttt  
+C3L-00156	UCEC	    WGS.hg19 t n 	    WXS.hg19 T N 	    RNA.fq TT  	    miRNA.fq   	    WGS.hg38 t n 	    WXS.hg38 t n 	    RNA.hg38 ttt  
+C3L-00157	UCEC	    WGS.hg19 t n 	    WXS.hg19 T N 	    RNA.fq TT  	    miRNA.fq   	    WGS.hg38 t n 	    WXS.hg38 t n 	    RNA.hg38 ttt  
+C3L-00161	UCEC	    WGS.hg19 t n 	    WXS.hg19 T N 	    RNA.fq TT  	    miRNA.fq   	    WGS.hg38 t n 	    WXS.hg38 t n 	    RNA.hg38 ttt  
+C3L-00183	CCRCC	    WGS.hg19 T N 	    WXS.hg19 T N 	    RNA.fq TT  	    miRNA.fq t  	    WGS.hg38 t n 	    WXS.hg38 t n 	    RNA.hg38 ttt  
+C3L-00189	PDA	    WGS.hg19 t n 	    WXS.hg19 t n 	    RNA.fq tt  	    miRNA.fq t  	    WGS.hg38 t n 	    WXS.hg38 t n 	    RNA.hg38 ttt  
+C3L-00263	LUAD	    WGS.hg19 T N 	    WXS.hg19 T N a	    RNA.fq TT  aa	    miRNA.fq t  a	    WGS.hg38 t n 	    WXS.hg38 t n a	    RNA.hg38 ttt  aaa
+C3L-00265	GBM	    WGS.hg19 t n 	    WXS.hg19 t n 	    RNA.fq tt  	    miRNA.fq t  	    WGS.hg38 t n 	    WXS.hg38 t n 	    RNA.hg38 ttt  
+C3L-00275	CM	    WGS.hg19 t n 	    WXS.hg19 t n 	    RNA.fq tt  	    miRNA.fq   	    WGS.hg38 t n 	    WXS.hg38 t n 	    RNA.hg38 ttt  
+C3L-00277	PDA	    WGS.hg19 t n a	    WXS.hg19 t n a	    RNA.fq tt  	    miRNA.fq t  	    WGS.hg38 t n a	    WXS.hg38 t n a	    RNA.hg38 ttt  
+C3L-00278	GBM	    WGS.hg19 t n 	    WXS.hg19 t n 	    RNA.fq tt  	    miRNA.fq t  	    WGS.hg38 t n 	    WXS.hg38 t n 	    RNA.hg38 ttt  
+C3L-00279	LUAD	    WGS.hg19 t n a	    WXS.hg19 T N A	    RNA.fq TT  AA	    miRNA.fq t  a	    WGS.hg38 t n a	    WXS.hg38 t n a	    RNA.hg38 ttt  aaa
+C3L-00349	GBM	    WGS.hg19 t n 	    WXS.hg19 t n 	    RNA.fq tt  	    miRNA.fq t  	    WGS.hg38 t n 	    WXS.hg38 t n 	    RNA.hg38 ttt  
+C3L-00356	UCEC	    WGS.hg19 T N 	    WXS.hg19 T N 	    RNA.fq TT  	    miRNA.fq   	    WGS.hg38 t n 	    WXS.hg38 t n 	    RNA.hg38 ttt  
+C3L-00358	UCEC	    WGS.hg19 T N 	    WXS.hg19 T N 	    RNA.fq TT  	    miRNA.fq   	    WGS.hg38 t n 	    WXS.hg38 t n 	    RNA.hg38 ttt  
+C3L-00359	CCRCC	    WGS.hg19 T N 	    WXS.hg19 T N 	    RNA.fq TT  	    miRNA.fq t  	    WGS.hg38 t n 	    WXS.hg38 t n 	    RNA.hg38 ttt  
+C3L-00360	CCRCC	    WGS.hg19 T N a	    WXS.hg19 T N a	    RNA.fq TT  AA	    miRNA.fq t  a	    WGS.hg38 t n a	    WXS.hg38 t n a	    RNA.hg38 ttt  aaa
+C3L-00361	UCEC	    WGS.hg19 T N a	    WXS.hg19 T N A	    RNA.fq TT  AA	    miRNA.fq t  a	    WGS.hg38 t n a	    WXS.hg38 t n a	    RNA.hg38 ttt  aaa
+C3L-00362	UCEC	    WGS.hg19 T N 	    WXS.hg19 T N 	    RNA.fq TT  	    miRNA.fq t  	    WGS.hg38 t n 	    WXS.hg38 t n 	    RNA.hg38 ttt  
+C3L-00365	GBM	    WGS.hg19 t n 	    WXS.hg19 t n 	    RNA.fq tt  	    miRNA.fq t  	    WGS.hg38 t n 	    WXS.hg38 t n 	    RNA.hg38 ttt  
+C3L-00368	LUAD	    WGS.hg19 t n a	    WXS.hg19 t n a	    RNA.fq tt  aa	    miRNA.fq T  a	    WGS.hg38 t n a	    WXS.hg38 t n a	    RNA.hg38 ttt  aaa
+C3L-00369	CCRCC	    WGS.hg19 T N a	    WXS.hg19 T N A	    RNA.fq TT  AA	    miRNA.fq t  a	    WGS.hg38 t n a	    WXS.hg38 t n a	    RNA.hg38 ttt  aaa
+C3L-00395	PDA	    WGS.hg19 t n 	    WXS.hg19 t n 	    RNA.fq tt  aa	    miRNA.fq t  a	    WGS.hg38 t n 	    WXS.hg38 t n 	    RNA.hg38 ttt  aaa
+C3L-00401	PDA	    WGS.hg19 t n 	    WXS.hg19 t n 	    RNA.fq tt  	    miRNA.fq t  	    WGS.hg38 t n 	    WXS.hg38 t n 	    RNA.hg38 ttt  
+C3L-00412	LUAD	    WGS.hg19 t n a	    WXS.hg19 t n a	    RNA.fq tt  aa	    miRNA.fq t  a	    WGS.hg38 t n a	    WXS.hg38 t n a	    RNA.hg38 ttt  aaa
+C3L-00413	UCEC	    WGS.hg19 t n 	    WXS.hg19 T N 	    RNA.fq TT  	    miRNA.fq t  	    WGS.hg38 t n 	    WXS.hg38 t n 	    RNA.hg38 ttt  
+C3L-00415	LSCC	    WGS.hg19 t n a	    WXS.hg19 t n a	    RNA.fq tt  aa	    miRNA.fq   a	    WGS.hg38 t n a	    WXS.hg38 t n a	    RNA.hg38 ttt  aaa
+C3L-00416	CCRCC	    WGS.hg19 T N a	    WXS.hg19 T N A	    RNA.fq TT  AA	    miRNA.fq t  a	    WGS.hg38 t n a	    WXS.hg38 t n a	    RNA.hg38 ttt  aaa
+C3L-00418	CCRCC	    WGS.hg19 t n a	    WXS.hg19 T N A	    RNA.fq TT  AA	    miRNA.fq t  a	    WGS.hg38 t n a	    WXS.hg38 t n a	    RNA.hg38 ttt  aaa
+C3L-00422	LUAD	    WGS.hg19 t n a	    WXS.hg19 T N A	    RNA.fq TT  AA	    miRNA.fq t  a	    WGS.hg38 t n a	    WXS.hg38 t n a	    RNA.hg38 ttt  aaa
+C3L-00424	GBM	    WGS.hg19 t n 	    WXS.hg19 t n 	    RNA.fq tt  	    miRNA.fq t  	    WGS.hg38 t n 	    WXS.hg38 t n 	    RNA.hg38 ttt  
+C3L-00429	GBM	    WGS.hg19 t n 	    WXS.hg19 t n 	    RNA.fq tt  	    miRNA.fq T  	    WGS.hg38 t n 	    WXS.hg38 t n 	    RNA.hg38 ttt  
+C3L-00445	LUAD	    WGS.hg19 t n a	    WXS.hg19 t n a	    RNA.fq tt  aa	    miRNA.fq   	    WGS.hg38   	    WXS.hg38   	    RNA.hg38   
+C3L-00447	CCRCC	    WGS.hg19 T N a	    WXS.hg19 T N A	    RNA.fq TT  AA	    miRNA.fq t  a	    WGS.hg38 t n a	    WXS.hg38 t n a	    RNA.hg38 ttt  aaa
+C3L-00448	CCRCC	    WGS.hg19 t n a	    WXS.hg19 T N A	    RNA.fq TT  AA	    miRNA.fq t  a	    WGS.hg38 t n a	    WXS.hg38 t n a	    RNA.hg38 ttt  aaa
+C3L-00449	UCEC	    WGS.hg19 T N 	    WXS.hg19 T N 	    RNA.fq TT  	    miRNA.fq t  	    WGS.hg38 t n 	    WXS.hg38 t n 	    RNA.hg38 ttt  
+C3L-00452	AML	    WGS.hg19   	    WXS.hg19   	    RNA.fq   	    miRNA.fq   	    WGS.hg38   	    WXS.hg38   	    RNA.hg38   
+C3L-00453	AML	    WGS.hg19   	    WXS.hg19   	    RNA.fq   	    miRNA.fq   	    WGS.hg38   	    WXS.hg38   	    RNA.hg38   
+C3L-00455	AML	    WGS.hg19   	    WXS.hg19   	    RNA.fq   	    miRNA.fq   	    WGS.hg38   	    WXS.hg38   	    RNA.hg38   
+C3L-00457	AML	    WGS.hg19   	    WXS.hg19   	    RNA.fq   	    miRNA.fq   	    WGS.hg38   	    WXS.hg38   	    RNA.hg38   
+C3L-00458	AML	    WGS.hg19   	    WXS.hg19   	    RNA.fq   	    miRNA.fq   	    WGS.hg38   	    WXS.hg38   	    RNA.hg38   
+C3L-00459	AML	    WGS.hg19   	    WXS.hg19   	    RNA.fq   	    miRNA.fq   	    WGS.hg38   	    WXS.hg38   	    RNA.hg38   
+C3L-00460	AML	    WGS.hg19   	    WXS.hg19   	    RNA.fq   	    miRNA.fq   	    WGS.hg38   	    WXS.hg38   	    RNA.hg38   
+C3L-00461	AML	    WGS.hg19   	    WXS.hg19   	    RNA.fq   	    miRNA.fq   	    WGS.hg38   	    WXS.hg38   	    RNA.hg38   
+C3L-00465	AML	    WGS.hg19   	    WXS.hg19   	    RNA.fq   	    miRNA.fq   	    WGS.hg38   	    WXS.hg38   	    RNA.hg38   
+C3L-00503	LSCC	    WGS.hg19 t n 	    WXS.hg19 t n a	    RNA.fq tt  aa	    miRNA.fq t  a	    WGS.hg38 t n 	    WXS.hg38 t n a	    RNA.hg38 ttt  aaa
+C3L-00506	GBM	    WGS.hg19 t n 	    WXS.hg19 t n 	    RNA.fq tt  	    miRNA.fq   	    WGS.hg38 t n 	    WXS.hg38 t n 	    RNA.hg38 ttt  
+C3L-00510	LUAD	    WGS.hg19 t n a	    WXS.hg19 t n a	    RNA.fq tt  aa	    miRNA.fq T  a	    WGS.hg38 t n a	    WXS.hg38 t n a	    RNA.hg38 ttt  aaa
+C3L-00528	GBM	    WGS.hg19 t n 	    WXS.hg19 t n 	    RNA.fq tt  	    miRNA.fq t  	    WGS.hg38 t n 	    WXS.hg38 t n 	    RNA.hg38 ttt  
+C3L-00561	CCRCC	    WGS.hg19 T N a	    WXS.hg19 T N A	    RNA.fq TT  AA	    miRNA.fq t  a	    WGS.hg38 t n a	    WXS.hg38 t n a	    RNA.hg38 ttt  aaa
+C3L-00563	UCEC	    WGS.hg19 T N 	    WXS.hg19 T N 	    RNA.fq TT  	    miRNA.fq T  	    WGS.hg38 t n 	    WXS.hg38 t n 	    RNA.hg38 ttt  
+C3L-00564	SAR	    WGS.hg19 t n 	    WXS.hg19 t n 	    RNA.fq tt  	    miRNA.fq t  	    WGS.hg38 t n 	    WXS.hg38 t n 	    RNA.hg38 ttt  
+C3L-00567	SAR	    WGS.hg19 t n a	    WXS.hg19 t n a	    RNA.fq tt  aa	    miRNA.fq t  a	    WGS.hg38 t n a	    WXS.hg38 t n a	    RNA.hg38 ttt  aaa
+C3L-00568	LSCC	    WGS.hg19 t n a	    WXS.hg19 t n a	    RNA.fq tt  aa	    miRNA.fq   a	    WGS.hg38 t n a	    WXS.hg38 t n a	    RNA.hg38 ttt  aaa
+C3L-00581	CCRCC	    WGS.hg19 T N a	    WXS.hg19 T N A	    RNA.fq TT  AA	    miRNA.fq t  a	    WGS.hg38 t n a	    WXS.hg38 t n a	    RNA.hg38 ttt  aaa
+C3L-00583	CCRCC	    WGS.hg19 T N a	    WXS.hg19 T N A	    RNA.fq TT  AA	    miRNA.fq t  a	    WGS.hg38 t n a	    WXS.hg38 t n a	    RNA.hg38 ttt  aaa
+C3L-00586	UCEC	    WGS.hg19 T N a	    WXS.hg19 T N A	    RNA.fq TT  AA	    miRNA.fq t  a	    WGS.hg38 t n a	    WXS.hg38 t n a	    RNA.hg38 ttt  aaa
+C3L-00589	PDA	    WGS.hg19 t n a	    WXS.hg19 t n a	    RNA.fq tt  aa	    miRNA.fq T  a	    WGS.hg38 t n a	    WXS.hg38 t n a	    RNA.hg38 ttt  aaa
+C3L-00591	GBM	    WGS.hg19 t n 	    WXS.hg19 t n 	    RNA.fq tt  	    miRNA.fq   	    WGS.hg38 t n 	    WXS.hg38 t n 	    RNA.hg38 ttt  
+C3L-00598	PDA	    WGS.hg19 t n 	    WXS.hg19 t n 	    RNA.fq tt  	    miRNA.fq t  	    WGS.hg38 t n 	    WXS.hg38 t n 	    RNA.hg38 ttt  
+C3L-00599	PDA	    WGS.hg19 t n 	    WXS.hg19 t n 	    RNA.fq tt  	    miRNA.fq t  	    WGS.hg38 t n 	    WXS.hg38 t n 	    RNA.hg38 ttt  
+C3L-00601	UCEC	    WGS.hg19 T N a	    WXS.hg19 T N A	    RNA.fq TT  AA	    miRNA.fq t  a	    WGS.hg38 t n a	    WXS.hg38 t n a	    RNA.hg38 ttt  aaa
+C3L-00603	LSCC	    WGS.hg19 t n a	    WXS.hg19 t n a	    RNA.fq tt  aa	    miRNA.fq T  a	    WGS.hg38 t n a	    WXS.hg38 t n a	    RNA.hg38 ttt  aaa
+C3L-00604	LUAD	    WGS.hg19 t n a	    WXS.hg19 t n a	    RNA.fq tt  aa	    miRNA.fq T  a	    WGS.hg38 t n a	    WXS.hg38 t n a	    RNA.hg38 ttt  aaa
+C3L-00605	UCEC	    WGS.hg19 T N 	    WXS.hg19 T N 	    RNA.fq TT  	    miRNA.fq T  	    WGS.hg38 t n 	    WXS.hg38 t n 	    RNA.hg38 ttt  
+C3L-00606	CCRCC	    WGS.hg19 t n a	    WXS.hg19 T N A	    RNA.fq TT  AA	    miRNA.fq t  a	    WGS.hg38 t n a	    WXS.hg38 t n a	    RNA.hg38 ttt  aaa
+C3L-00607	CCRCC	    WGS.hg19 T N a	    WXS.hg19 T N A	    RNA.fq TT  AA	    miRNA.fq T  a	    WGS.hg38 t n a	    WXS.hg38 t n a	    RNA.hg38 ttt  aaa
+C3L-00610	CCRCC	    WGS.hg19 t n 	    WXS.hg19 t n 	    RNA.fq tt  	    miRNA.fq T  	    WGS.hg38 t n 	    WXS.hg38 t n 	    RNA.hg38 ttt  
+C3L-00622	PDA	    WGS.hg19 t n 	    WXS.hg19 t n 	    RNA.fq tt  aa	    miRNA.fq t  a	    WGS.hg38 t n 	    WXS.hg38 t n 	    RNA.hg38 ttt  aaa
+C3L-00625	PDA	    WGS.hg19 t n a	    WXS.hg19 t n a	    RNA.fq tt  	    miRNA.fq t  	    WGS.hg38 t n a	    WXS.hg38 t n a	    RNA.hg38 ttt  
+C3L-00629	CM	    WGS.hg19 t n 	    WXS.hg19 t n 	    RNA.fq tt  	    miRNA.fq t  	    WGS.hg38 t n 	    WXS.hg38 t n 	    RNA.hg38 ttt  
+C3L-00631	GBM	    WGS.hg19 t n 	    WXS.hg19 t n 	    RNA.fq tt  	    miRNA.fq t  	    WGS.hg38 t n 	    WXS.hg38 t n 	    RNA.hg38 ttt  
+C3L-00640	PDA	    WGS.hg19 t n a	    WXS.hg19 t n a	    RNA.fq tt  aa	    miRNA.fq t  a	    WGS.hg38 t n a	    WXS.hg38 t n a	    RNA.hg38 ttt  aaa
+C3L-00671	GBM	    WGS.hg19 t n 	    WXS.hg19 t n 	    RNA.fq tt  	    miRNA.fq t  	    WGS.hg38 t n 	    WXS.hg38 t n 	    RNA.hg38 ttt  
+C3L-00674	GBM	    WGS.hg19 t n 	    WXS.hg19 t n 	    RNA.fq tt  	    miRNA.fq t  	    WGS.hg38 t n 	    WXS.hg38 t n 	    RNA.hg38 ttt  
+C3L-00677	GBM	    WGS.hg19 t n 	    WXS.hg19 t n 	    RNA.fq tt  	    miRNA.fq t  	    WGS.hg38 t n 	    WXS.hg38 t n 	    RNA.hg38 ttt  
+C3L-00765	CCRCC	    WGS.hg19 t n 	    WXS.hg19 t n 	    RNA.fq tt  	    miRNA.fq t  	    WGS.hg38 t n 	    WXS.hg38 t n 	    RNA.hg38 ttt  
+C3L-00766	CCRCC	    WGS.hg19 t n 	    WXS.hg19 t n 	    RNA.fq tt  	    miRNA.fq t  	    WGS.hg38 t n 	    WXS.hg38 t n 	    RNA.hg38 ttt  
+C3L-00767	UCEC	    WGS.hg19 T N 	    WXS.hg19 T N 	    RNA.fq TT  	    miRNA.fq T  	    WGS.hg38 t n 	    WXS.hg38 t n 	    RNA.hg38 ttt  
+C3L-00769	UCEC	    WGS.hg19 T N 	    WXS.hg19 T N 	    RNA.fq TT  	    miRNA.fq T  	    WGS.hg38 t n 	    WXS.hg38 t n 	    RNA.hg38 ttt  
+C3L-00770	UCEC	    WGS.hg19 T N 	    WXS.hg19 T N 	    RNA.fq TT  	    miRNA.fq T  	    WGS.hg38 t n 	    WXS.hg38 t n 	    RNA.hg38 ttt  
+C3L-00771	UCEC	    WGS.hg19 T N 	    WXS.hg19 T N 	    RNA.fq TT  	    miRNA.fq T  	    WGS.hg38 t n 	    WXS.hg38 t n 	    RNA.hg38 ttt  
+C3L-00780	UCEC	    WGS.hg19 T N 	    WXS.hg19 T N 	    RNA.fq TT  	    miRNA.fq t  	    WGS.hg38 t n 	    WXS.hg38 t n 	    RNA.hg38 ttt  
+C3L-00781	UCEC	    WGS.hg19 t n 	    WXS.hg19 T N 	    RNA.fq TT  	    miRNA.fq   	    WGS.hg38 t n 	    WXS.hg38 t n 	    RNA.hg38 ttt  
+C3L-00789	CCRCC	    WGS.hg19 t n 	    WXS.hg19 t n 	    RNA.fq tt  	    miRNA.fq T  	    WGS.hg38 t n 	    WXS.hg38 t n 	    RNA.hg38 ttt  
+C3L-00790	CCRCC	    WGS.hg19 t n 	    WXS.hg19 t n 	    RNA.fq tt  	    miRNA.fq t  	    WGS.hg38 t n 	    WXS.hg38 t n 	    RNA.hg38 ttt  
+C3L-00791	CCRCC	    WGS.hg19 T N 	    WXS.hg19 T N 	    RNA.fq TT  	    miRNA.fq T  	    WGS.hg38 t n 	    WXS.hg38 t n 	    RNA.hg38 ttt  
+C3L-00792	CCRCC	    WGS.hg19 t n 	    WXS.hg19 T N 	    RNA.fq TT  	    miRNA.fq T  	    WGS.hg38 t n 	    WXS.hg38 t n 	    RNA.hg38 ttt  
+C3L-00796	CCRCC	    WGS.hg19 t n 	    WXS.hg19 T N 	    RNA.fq TT  	    miRNA.fq t  	    WGS.hg38 t n 	    WXS.hg38 t n 	    RNA.hg38 ttt  
+C3L-00799	CCRCC	    WGS.hg19 t n 	    WXS.hg19 T N 	    RNA.fq TT  	    miRNA.fq T  	    WGS.hg38 t n 	    WXS.hg38 t n 	    RNA.hg38 ttt  
+C3L-00800	CCRCC	    WGS.hg19 t n 	    WXS.hg19 t n 	    RNA.fq tt  	    miRNA.fq t  	    WGS.hg38 t n 	    WXS.hg38 t n 	    RNA.hg38 ttt  
+C3L-00812	CCRCC	    WGS.hg19 t n 	    WXS.hg19 t n 	    RNA.fq tt  	    miRNA.fq t  	    WGS.hg38 t n 	    WXS.hg38 t n 	    RNA.hg38 ttt  
+C3L-00813	CCRCC	    WGS.hg19 t n 	    WXS.hg19 T N 	    RNA.fq TT  	    miRNA.fq t  	    WGS.hg38 t n 	    WXS.hg38 t n 	    RNA.hg38 ttt  
+C3L-00814	CCRCC	    WGS.hg19 T N a	    WXS.hg19 T N A	    RNA.fq TT  AA	    miRNA.fq t  a	    WGS.hg38 t n a	    WXS.hg38 t n a	    RNA.hg38 ttt  aaa
+C3L-00815	CCRCC	    WGS.hg19 t n 	    WXS.hg19 t n 	    RNA.fq tt  	    miRNA.fq t  	    WGS.hg38 t n 	    WXS.hg38 t n 	    RNA.hg38 ttt  
+C3L-00817	CCRCC	    WGS.hg19 T N 	    WXS.hg19 T N 	    RNA.fq TT  	    miRNA.fq t  	    WGS.hg38 t n 	    WXS.hg38 t n 	    RNA.hg38 ttt  
+C3L-00819	PDA	    WGS.hg19 t n a	    WXS.hg19 t n a	    RNA.fq tt  aa	    miRNA.fq t  a	    WGS.hg38 t n a	    WXS.hg38 t n a	    RNA.hg38 ttt  aaa
+C3L-00881	PDA	    WGS.hg19 t n a	    WXS.hg19 t n a	    RNA.fq tt  	    miRNA.fq T  	    WGS.hg38 t n a	    WXS.hg38 t n a	    RNA.hg38 ttt  
+C3L-00885	PDA	    WGS.hg19 t n 	    WXS.hg19 t n 	    RNA.fq tt  	    miRNA.fq t  	    WGS.hg38 t n 	    WXS.hg38 t n 	    RNA.hg38 ttt  
+C3L-00893	LUAD	    WGS.hg19 T N a	    WXS.hg19 T N A	    RNA.fq TT  AA	    miRNA.fq t  a	    WGS.hg38 t n a	    WXS.hg38 t n a	    RNA.hg38 ttt  aaa
+C3L-00902	CCRCC	    WGS.hg19 t n a	    WXS.hg19 t n a	    RNA.fq tt  aa	    miRNA.fq t  a	    WGS.hg38 t n a	    WXS.hg38 t n a	    RNA.hg38 ttt  aaa
+C3L-00904	LSCC	    WGS.hg19 t n a	    WXS.hg19 t n a	    RNA.fq tt  aa	    miRNA.fq t  a	    WGS.hg38 t n a	    WXS.hg38 t n a	    RNA.hg38 ttt  aaa
+C3L-00905	UCEC	    WGS.hg19 T N 	    WXS.hg19 T N 	    RNA.fq TT  	    miRNA.fq T  	    WGS.hg38 t n 	    WXS.hg38 t n 	    RNA.hg38 ttt  
+C3L-00907	CCRCC	    WGS.hg19 t n a	    WXS.hg19 T N A	    RNA.fq TT  AA	    miRNA.fq t  a	    WGS.hg38 t n a	    WXS.hg38 t n a	    RNA.hg38 ttt  aaa
+C3L-00908	CCRCC	    WGS.hg19 Tt N a	    WXS.hg19 Tt N A	    RNA.fq TTtt  AA	    miRNA.fq t  a	    WGS.hg38 tt n a	    WXS.hg38 tt n a	    RNA.hg38 tttttt  aaa
+C3L-00910	CCRCC	    WGS.hg19 t n a	    WXS.hg19 T N A	    RNA.fq TT  AA	    miRNA.fq t  a	    WGS.hg38 t n a	    WXS.hg38 t n a	    RNA.hg38 ttt  aaa
+C3L-00913	LUAD	    WGS.hg19 t n a	    WXS.hg19 t n a	    RNA.fq tt  aa	    miRNA.fq t  a	    WGS.hg38 t n a	    WXS.hg38 t n a	    RNA.hg38 ttt  aaa
+C3L-00917	CCRCC	    WGS.hg19 T N a	    WXS.hg19 T N A	    RNA.fq TT  AA	    miRNA.fq t  a	    WGS.hg38 t n a	    WXS.hg38 t n a	    RNA.hg38 ttt  aaa
+C3L-00918	UCEC	    WGS.hg19 T N 	    WXS.hg19 T N 	    RNA.fq TT  	    miRNA.fq T  	    WGS.hg38 t n 	    WXS.hg38 t n 	    RNA.hg38 ttt  
+C3L-00921	UCEC	    WGS.hg19 t n 	    WXS.hg19 T N 	    RNA.fq TT  	    miRNA.fq t  	    WGS.hg38 t n 	    WXS.hg38 t n 	    RNA.hg38 ttt  
+C3L-00923	LSCC	    WGS.hg19 t n a	    WXS.hg19 t n a	    RNA.fq tt  aa	    miRNA.fq T  a	    WGS.hg38 t n a	    WXS.hg38 t n a	    RNA.hg38 ttt  aaa
+C3L-00927	LSCC	    WGS.hg19 t n a	    WXS.hg19 t n a	    RNA.fq tt  aa	    miRNA.fq T  a	    WGS.hg38 t n a	    WXS.hg38 t n a	    RNA.hg38 ttt  aaa
+C3L-00928	PDA	    WGS.hg19 t n a	    WXS.hg19 t n a	    RNA.fq tt  	    miRNA.fq T  	    WGS.hg38 t n a	    WXS.hg38 t n a	    RNA.hg38 ttt  
+C3L-00930	UCEC	    WGS.hg19 T N 	    WXS.hg19 T N 	    RNA.fq TT  	    miRNA.fq t  	    WGS.hg38 t n 	    WXS.hg38 t n 	    RNA.hg38 ttt  
+C3L-00932	UCEC	    WGS.hg19 T N a	    WXS.hg19 T N A	    RNA.fq TT  AA	    miRNA.fq T  a	    WGS.hg38 t n a	    WXS.hg38 t n a	    RNA.hg38 ttt  aaa
+C3L-00935	UCEC	    WGS.hg19 t n a	    WXS.hg19 t n a	    RNA.fq tt  aa	    miRNA.fq   a	    WGS.hg38 t n a	    WXS.hg38 t n a	    RNA.hg38 ttt  aaa
+C3L-00938	UCEC	    WGS.hg19 t n 	    WXS.hg19 T N 	    RNA.fq TT  	    miRNA.fq T  	    WGS.hg38 t n 	    WXS.hg38 t n 	    RNA.hg38 ttt  
+C3L-00942	UCEC	    WGS.hg19 T N 	    WXS.hg19 T N 	    RNA.fq TT  	    miRNA.fq T  	    WGS.hg38 t n 	    WXS.hg38 t n 	    RNA.hg38 ttt  
+C3L-00943	UCEC	    WGS.hg19 t n 	    WXS.hg19 t n 	    RNA.fq tt  	    miRNA.fq T  	    WGS.hg38 t n 	    WXS.hg38 t n 	    RNA.hg38 ttt  
+C3L-00946	UCEC	    WGS.hg19 T N 	    WXS.hg19 T N 	    RNA.fq TT  	    miRNA.fq T  	    WGS.hg38 t n 	    WXS.hg38 t n 	    RNA.hg38 ttt  
+C3L-00947	UCEC	    WGS.hg19 T N 	    WXS.hg19 T N 	    RNA.fq TT  	    miRNA.fq T  	    WGS.hg38 t n 	    WXS.hg38 t n 	    RNA.hg38 ttt  
+C3L-00949	UCEC	    WGS.hg19 T N 	    WXS.hg19 T N 	    RNA.fq TT  	    miRNA.fq T  	    WGS.hg38 t n 	    WXS.hg38 t n 	    RNA.hg38 ttt  
+C3L-00961	UCEC	    WGS.hg19 T N 	    WXS.hg19 T N 	    RNA.fq TT  	    miRNA.fq T  	    WGS.hg38 t n 	    WXS.hg38 t n 	    RNA.hg38 ttt  
+C3L-00963	UCEC	    WGS.hg19 T N 	    WXS.hg19 T N 	    RNA.fq TT  	    miRNA.fq T  	    WGS.hg38 t n 	    WXS.hg38 t n 	    RNA.hg38 ttt  
+C3L-00965	LSCC	    WGS.hg19 t n 	    WXS.hg19 t n 	    RNA.fq tt  	    miRNA.fq t  	    WGS.hg38 t n 	    WXS.hg38 t n 	    RNA.hg38 ttt  
+C3L-00966	CCRCC	    WGS.hg19 t n a	    WXS.hg19 t n a	    RNA.fq tt  aa	    miRNA.fq t  a	    WGS.hg38 t n a	    WXS.hg38 t n a	    RNA.hg38 ttt  aaa
+C3L-00968	CCRCC	    WGS.hg19 t n a	    WXS.hg19 t n a	    RNA.fq tt  aa	    miRNA.fq t  a	    WGS.hg38 t n a	    WXS.hg38 t n a	    RNA.hg38 ttt  aaa
+C3L-00969	CCRCC	    WGS.hg19 t n a	    WXS.hg19 t n a	    RNA.fq tt  aa	    miRNA.fq t  a	    WGS.hg38 t n a	    WXS.hg38 t n a	    RNA.hg38 ttt  aaa
+C3L-00970	CCRCC	    WGS.hg19 t n a	    WXS.hg19 t n a	    RNA.fq tt  aa	    miRNA.fq t  a	    WGS.hg38 t n a	    WXS.hg38 t n a	    RNA.hg38 ttt  aaa
+C3L-00973	LUAD	    WGS.hg19 t n a	    WXS.hg19 t n a	    RNA.fq tt  aa	    miRNA.fq t  a	    WGS.hg38 t n a	    WXS.hg38 t n a	    RNA.hg38 ttt  aaa
+C3L-00993	LSCC	    WGS.hg19 t n a	    WXS.hg19 t n a	    RNA.fq tt  aa	    miRNA.fq t  a	    WGS.hg38 t n a	    WXS.hg38 t n a	    RNA.hg38 ttt  aaa
+C3L-01000	LUAD	    WGS.hg19 t n a	    WXS.hg19 t n a	    RNA.fq tt  aa	    miRNA.fq   	    WGS.hg38   	    WXS.hg38   	    RNA.hg38   
+C3L-01031	PDA	    WGS.hg19 t n a	    WXS.hg19 t n a	    RNA.fq tt  	    miRNA.fq t  	    WGS.hg38 t n a	    WXS.hg38 t n a	    RNA.hg38 ttt  
+C3L-01032	PDA	    WGS.hg19   	    WXS.hg19 tt n 	    RNA.fq tt  	    miRNA.fq   	    WGS.hg38   	    WXS.hg38   	    RNA.hg38   
+C3L-01036	PDA	    WGS.hg19 t n a	    WXS.hg19 t n a	    RNA.fq tt  	    miRNA.fq t  	    WGS.hg38 t n a	    WXS.hg38 t n a	    RNA.hg38 ttt  
+C3L-01040	GBM	    WGS.hg19 t n 	    WXS.hg19 t n 	    RNA.fq tt  	    miRNA.fq t  	    WGS.hg38 t n 	    WXS.hg38 t n 	    RNA.hg38 ttt  
+C3L-01043	GBM	    WGS.hg19 t n 	    WXS.hg19 t n 	    RNA.fq tt  	    miRNA.fq t  	    WGS.hg38 t n 	    WXS.hg38 t n 	    RNA.hg38 ttt  
+C3L-01045	GBM	    WGS.hg19 t n 	    WXS.hg19 t n 	    RNA.fq tt  	    miRNA.fq   	    WGS.hg38 t n 	    WXS.hg38 t n 	    RNA.hg38 ttt  
+C3L-01046	GBM	    WGS.hg19 t n 	    WXS.hg19 t n 	    RNA.fq tt  	    miRNA.fq t  	    WGS.hg38 t n 	    WXS.hg38 t n 	    RNA.hg38 ttt  
+C3L-01048	GBM	    WGS.hg19 t n 	    WXS.hg19 t n 	    RNA.fq tt  	    miRNA.fq   	    WGS.hg38   	    WXS.hg38   	    RNA.hg38   
+C3L-01049	GBM	    WGS.hg19 t n 	    WXS.hg19 t n 	    RNA.fq tt  	    miRNA.fq   	    WGS.hg38   	    WXS.hg38   	    RNA.hg38   
+C3L-01051	PDA	    WGS.hg19 t n a	    WXS.hg19 t n a	    RNA.fq tt  	    miRNA.fq t  	    WGS.hg38 t n a	    WXS.hg38 t n a	    RNA.hg38 ttt  
+C3L-01052	PDA	    WGS.hg19 t n a	    WXS.hg19 t n a	    RNA.fq tt  	    miRNA.fq t  	    WGS.hg38 t n a	    WXS.hg38 t n a	    RNA.hg38 ttt  
+C3L-01053	PDA	    WGS.hg19 t n a	    WXS.hg19 t n a	    RNA.fq tt  	    miRNA.fq t  	    WGS.hg38 t n a	    WXS.hg38 t n a	    RNA.hg38 ttt  
+C3L-01054	PDA	    WGS.hg19 t n a	    WXS.hg19 t n a	    RNA.fq tt  	    miRNA.fq t  	    WGS.hg38 t n a	    WXS.hg38 t n a	    RNA.hg38 ttt  
+C3L-01061	GBM	    WGS.hg19 t n 	    WXS.hg19 t n 	    RNA.fq tt  	    miRNA.fq   	    WGS.hg38   	    WXS.hg38   	    RNA.hg38   
+C3L-01142	GBM	    WGS.hg19 t n 	    WXS.hg19 t n 	    RNA.fq tt  	    miRNA.fq   	    WGS.hg38   	    WXS.hg38   	    RNA.hg38   
+C3L-01146	GBM	    WGS.hg19 t n 	    WXS.hg19 t n 	    RNA.fq tt  	    miRNA.fq   	    WGS.hg38   	    WXS.hg38   	    RNA.hg38   
+C3L-01149	GBM	    WGS.hg19 t n 	    WXS.hg19 t n 	    RNA.fq tt  	    miRNA.fq   	    WGS.hg38   	    WXS.hg38   	    RNA.hg38   
+C3L-01154	GBM	    WGS.hg19 t n 	    WXS.hg19 t n 	    RNA.fq tt  	    miRNA.fq   	    WGS.hg38   	    WXS.hg38   	    RNA.hg38   
+C3L-01155	GBM	    WGS.hg19 t n 	    WXS.hg19 t n 	    RNA.fq tt  	    miRNA.fq   	    WGS.hg38   	    WXS.hg38   	    RNA.hg38   
+C3L-01156	GBM	    WGS.hg19 t n 	    WXS.hg19 t n 	    RNA.fq tt  	    miRNA.fq   	    WGS.hg38   	    WXS.hg38   	    RNA.hg38   
+C3L-01157	GBM	    WGS.hg19 t n 	    WXS.hg19 t n 	    RNA.fq tt  	    miRNA.fq   	    WGS.hg38   	    WXS.hg38   	    RNA.hg38   
+C3L-01158	PDA	    WGS.hg19   	    WXS.hg19 tt n a	    RNA.fq tt  	    miRNA.fq   	    WGS.hg38   	    WXS.hg38   	    RNA.hg38   
+C3L-01160	PDA	    WGS.hg19   	    WXS.hg19 tt n 	    RNA.fq tt  	    miRNA.fq   	    WGS.hg38   	    WXS.hg38   	    RNA.hg38   
+C3L-01246	UCEC	    WGS.hg19 T N 	    WXS.hg19 T N 	    RNA.fq TT  	    miRNA.fq   	    WGS.hg38 t n 	    WXS.hg38 t n 	    RNA.hg38 ttt  
+C3L-01247	UCEC	    WGS.hg19 T N 	    WXS.hg19 T N 	    RNA.fq TT  	    miRNA.fq t  	    WGS.hg38 t n 	    WXS.hg38 t n 	    RNA.hg38 ttt  
+C3L-01248	UCEC	    WGS.hg19 T N 	    WXS.hg19 T N 	    RNA.fq TT  	    miRNA.fq t  	    WGS.hg38 t n 	    WXS.hg38 t n 	    RNA.hg38 ttt  
+C3L-01249	UCEC	    WGS.hg19 T N 	    WXS.hg19 T N 	    RNA.fq TT  	    miRNA.fq t  	    WGS.hg38 t n 	    WXS.hg38 t n 	    RNA.hg38 ttt  
+C3L-01252	UCEC	    WGS.hg19 T N 	    WXS.hg19 T N 	    RNA.fq TT  	    miRNA.fq t  	    WGS.hg38 t n 	    WXS.hg38 t n 	    RNA.hg38 ttt  
+C3L-01253	UCEC	    WGS.hg19 T N 	    WXS.hg19 T N 	    RNA.fq TT  	    miRNA.fq t  	    WGS.hg38 t n 	    WXS.hg38 t n 	    RNA.hg38 ttt  
+C3L-01256	UCEC	    WGS.hg19 T N 	    WXS.hg19 T N 	    RNA.fq TT  	    miRNA.fq t  	    WGS.hg38 t n 	    WXS.hg38 t n 	    RNA.hg38 ttt  
+C3L-01257	UCEC	    WGS.hg19 T N 	    WXS.hg19 T N 	    RNA.fq TT  	    miRNA.fq t  	    WGS.hg38 t n 	    WXS.hg38 t n 	    RNA.hg38 ttt  
+C3L-01274	UCEC	    WGS.hg19 t n 	    WXS.hg19 t n 	    RNA.fq tt  	    miRNA.fq t  	    WGS.hg38 t n 	    WXS.hg38 t n 	    RNA.hg38 ttt  
+C3L-01275	UCEC	    WGS.hg19 T N 	    WXS.hg19 T N 	    RNA.fq TT  	    miRNA.fq t  	    WGS.hg38 t n 	    WXS.hg38 t n 	    RNA.hg38 ttt  
+C3L-01277	UCEC	    WGS.hg19 t n 	    WXS.hg19 t n 	    RNA.fq tt  aa	    miRNA.fq T  a	    WGS.hg38 t n 	    WXS.hg38 t n 	    RNA.hg38 ttt  aaa
+C3L-01279	CCRCC	    WGS.hg19 t n a	    WXS.hg19 t n a	    RNA.fq tt  aa	    miRNA.fq t  a	    WGS.hg38 t n a	    WXS.hg38 t n a	    RNA.hg38 ttt  aaa
+C3L-01281	CCRCC	    WGS.hg19 T N a	    WXS.hg19 T N A	    RNA.fq TT  AA	    miRNA.fq t  a	    WGS.hg38 t n a	    WXS.hg38 t n a	    RNA.hg38 ttt  aaa
+C3L-01282	UCEC	    WGS.hg19 T N a	    WXS.hg19 T N A	    RNA.fq TT  AA	    miRNA.fq t  a	    WGS.hg38 t n a	    WXS.hg38 t n a	    RNA.hg38 ttt  aaa
+C3L-01283	CCRCC	    WGS.hg19 t n 	    WXS.hg19 T N 	    RNA.fq TT  	    miRNA.fq t  	    WGS.hg38 t n 	    WXS.hg38 t n 	    RNA.hg38 ttt  
+C3L-01284	UCEC	    WGS.hg19 T N 	    WXS.hg19 T N 	    RNA.fq TT  	    miRNA.fq t  	    WGS.hg38 t n 	    WXS.hg38 t n 	    RNA.hg38 ttt  
+C3L-01285	LSCC	    WGS.hg19 t n a	    WXS.hg19 t n a	    RNA.fq tt  aa	    miRNA.fq T  a	    WGS.hg38 t n a	    WXS.hg38 t n a	    RNA.hg38 ttt  aaa
+C3L-01286	CCRCC	    WGS.hg19 t n a	    WXS.hg19 T N A	    RNA.fq TT  AA	    miRNA.fq t  a	    WGS.hg38 t n a	    WXS.hg38 t n a	    RNA.hg38 ttt  aaa
+C3L-01287	CCRCC	    WGS.hg19 T N a	    WXS.hg19 T N A	    RNA.fq TT  AA	    miRNA.fq t  a	    WGS.hg38 t n a	    WXS.hg38 t n a	    RNA.hg38 ttt  aaa
+C3L-01288	CCRCC	    WGS.hg19 t n 	    WXS.hg19 T N 	    RNA.fq TT  	    miRNA.fq t  	    WGS.hg38 t n 	    WXS.hg38 t n 	    RNA.hg38 ttt  
+C3L-01291	AML	    WGS.hg19   	    WXS.hg19   	    RNA.fq   	    miRNA.fq   	    WGS.hg38   	    WXS.hg38   	    RNA.hg38   
+C3L-01296	AML	    WGS.hg19   	    WXS.hg19   	    RNA.fq   	    miRNA.fq   	    WGS.hg38   	    WXS.hg38   	    RNA.hg38   
+C3L-01302	CCRCC	    WGS.hg19 T N a	    WXS.hg19 T N a	    RNA.fq TT  AA	    miRNA.fq t  a	    WGS.hg38 t n a	    WXS.hg38 t n a	    RNA.hg38 ttt  aaa
+C3L-01304	UCEC	    WGS.hg19 T N a	    WXS.hg19 T N A	    RNA.fq TT  AA	    miRNA.fq t  a	    WGS.hg38 t n a	    WXS.hg38 t n a	    RNA.hg38 ttt  aaa
+C3L-01307	UCEC	    WGS.hg19 T N a	    WXS.hg19 T N A	    RNA.fq TT  AA	    miRNA.fq t  a	    WGS.hg38 t n a	    WXS.hg38 t n a	    RNA.hg38 ttt  aaa
+C3L-01311	UCEC	    WGS.hg19 T N a	    WXS.hg19 T N A	    RNA.fq TT  AA	    miRNA.fq t  a	    WGS.hg38 t n a	    WXS.hg38 t n a	    RNA.hg38 ttt  aaa
+C3L-01312	UCEC	    WGS.hg19 T N 	    WXS.hg19 T N 	    RNA.fq TT  	    miRNA.fq T  	    WGS.hg38 t n 	    WXS.hg38 t n 	    RNA.hg38 ttt  
+C3L-01313	CCRCC	    WGS.hg19 T N a	    WXS.hg19 T N a	    RNA.fq TT  AA	    miRNA.fq t  a	    WGS.hg38 t n a	    WXS.hg38 t n a	    RNA.hg38 ttt  aaa
+C3L-01327	GBM	    WGS.hg19 t n 	    WXS.hg19 t n 	    RNA.fq tt  	    miRNA.fq   	    WGS.hg38 t n 	    WXS.hg38 t n 	    RNA.hg38 ttt  
+C3L-01328	PDA	    WGS.hg19 t n a	    WXS.hg19 t n a	    RNA.fq tt  aa	    miRNA.fq t  a	    WGS.hg38 t n a	    WXS.hg38 t n a	    RNA.hg38 ttt  aaa
+C3L-01330	LUAD	    WGS.hg19 t n a	    WXS.hg19 t n a	    RNA.fq tt  aa	    miRNA.fq t  a	    WGS.hg38 t n a	    WXS.hg38 t n a	    RNA.hg38 ttt  aaa
+C3L-01352	CCRCC	    WGS.hg19 T N 	    WXS.hg19 T N 	    RNA.fq TT  	    miRNA.fq t  	    WGS.hg38 t n 	    WXS.hg38 t n 	    RNA.hg38 ttt  
+C3L-01355	UCEC	    WGS.hg19 t n 	    WXS.hg19 t n 	    RNA.fq tt  	    miRNA.fq t  	    WGS.hg38 t n 	    WXS.hg38 t n 	    RNA.hg38 ttt  
+C3L-01453	PDA	    WGS.hg19 t n a	    WXS.hg19 t n a	    RNA.fq tt  aa	    miRNA.fq t  a	    WGS.hg38 t n a	    WXS.hg38 t n a	    RNA.hg38 ttt  aaa
+C3L-01455	LSCC	    WGS.hg19 t n a	    WXS.hg19 t n a	    RNA.fq tt  aa	    miRNA.fq t  a	    WGS.hg38 t n a	    WXS.hg38 t n a	    RNA.hg38 ttt  aaa
+C3L-01459	CCRCC	    WGS.hg19 t n 	    WXS.hg19 t n 	    RNA.fq tt  	    miRNA.fq t  	    WGS.hg38 t n 	    WXS.hg38 t n 	    RNA.hg38 ttt  
+C3L-01462	CCRCC	    WGS.hg19 t n a	    WXS.hg19 t n a	    RNA.fq tt  aa	    miRNA.fq t  a	    WGS.hg38 t n a	    WXS.hg38 t n a	    RNA.hg38 ttt  aaa
+C3L-01464	CCRCC	    WGS.hg19 t n 	    WXS.hg19 t n 	    RNA.fq tt  aa	    miRNA.fq t  a	    WGS.hg38 t n 	    WXS.hg38 t n 	    RNA.hg38 ttt  aaa
+C3L-01465	CCRCC	    WGS.hg19 t n 	    WXS.hg19 t n 	    RNA.fq tt  	    miRNA.fq t  	    WGS.hg38 t n 	    WXS.hg38 t n 	    RNA.hg38 ttt  
+C3L-01470	CCRCC	    WGS.hg19 t n 	    WXS.hg19 t n 	    RNA.fq tt  	    miRNA.fq t  	    WGS.hg38 t n 	    WXS.hg38 t n 	    RNA.hg38 ttt  
+C3L-01551	SAR	    WGS.hg19 t n 	    WXS.hg19 t n 	    RNA.fq tt  	    miRNA.fq t  	    WGS.hg38 t n 	    WXS.hg38 t n 	    RNA.hg38 ttt  
+C3L-01553	CCRCC	    WGS.hg19 t n 	    WXS.hg19 t n 	    RNA.fq tt  	    miRNA.fq t  	    WGS.hg38 t n 	    WXS.hg38 t n 	    RNA.hg38 ttt  
+C3L-01557	CCRCC	    WGS.hg19 t n 	    WXS.hg19 T N 	    RNA.fq TT  	    miRNA.fq t  	    WGS.hg38 t n 	    WXS.hg38 t n 	    RNA.hg38 ttt  
+C3L-01560	CCRCC	    WGS.hg19 t n 	    WXS.hg19 T N 	    RNA.fq TT  	    miRNA.fq t  	    WGS.hg38 t n 	    WXS.hg38 t n 	    RNA.hg38 ttt  
+C3L-01598	PDA	    WGS.hg19 t n a	    WXS.hg19 t n a	    RNA.fq tt  	    miRNA.fq T  	    WGS.hg38 t n a	    WXS.hg38 t n a	    RNA.hg38 ttt  
+C3L-01599	UCEC	    WGS.hg19 t n 	    WXS.hg19 t n 	    RNA.fq tt  	    miRNA.fq t  	    WGS.hg38 t n 	    WXS.hg38 t n 	    RNA.hg38 ttt  
+C3L-01601	SAR	    WGS.hg19 t n a	    WXS.hg19 t n a	    RNA.fq tt  aa	    miRNA.fq T  a	    WGS.hg38 t n a	    WXS.hg38 t n a	    RNA.hg38 ttt  aaa
+C3L-01603	CCRCC	    WGS.hg19 T N a	    WXS.hg19 T N A	    RNA.fq TT  AA	    miRNA.fq t  a	    WGS.hg38 t n a	    WXS.hg38 t n a	    RNA.hg38 ttt  aaa
+C3L-01604	UCEC	    WGS.hg19 t n 	    WXS.hg19 t n 	    RNA.fq tt  	    miRNA.fq t  	    WGS.hg38 t n 	    WXS.hg38 t n 	    RNA.hg38 ttt  
+C3L-01606	LSCC	    WGS.hg19 t n a	    WXS.hg19 t n a	    RNA.fq tt  aa	    miRNA.fq T  a	    WGS.hg38 t n a	    WXS.hg38 t n a	    RNA.hg38 ttt  aaa
+C3L-01607	CCRCC	    WGS.hg19 t n a	    WXS.hg19 T N A	    RNA.fq TT  AA	    miRNA.fq T  a	    WGS.hg38 t n a	    WXS.hg38 t n a	    RNA.hg38 ttt  aaa
+C3L-01631	UCEC	    WGS.hg19 t n 	    WXS.hg19 t n 	    RNA.fq tt  	    miRNA.fq T  	    WGS.hg38 t n 	    WXS.hg38 t n 	    RNA.hg38 ttt  
+C3L-01632	LUAD	    WGS.hg19 t n a	    WXS.hg19 t n a	    RNA.fq tt  aa	    miRNA.fq T  a	    WGS.hg38 t n a	    WXS.hg38 t n a	    RNA.hg38 ttt  aaa
+C3L-01633	UCEC	    WGS.hg19 t n 	    WXS.hg19 t n 	    RNA.fq tt  	    miRNA.fq T  	    WGS.hg38 t n 	    WXS.hg38 t n 	    RNA.hg38 ttt  
+C3L-01637	PDA	    WGS.hg19 t n a	    WXS.hg19 t n a	    RNA.fq tt  aa	    miRNA.fq T  a	    WGS.hg38 t n a	    WXS.hg38 t n a	    RNA.hg38 ttt  aaa
+C3L-01639	UCEC	    WGS.hg19 t n a	    WXS.hg19 t n a	    RNA.fq tt  aa	    miRNA.fq T  a	    WGS.hg38 t n a	    WXS.hg38 t n a	    RNA.hg38 ttt  aaa
+C3L-01662	PDA	    WGS.hg19 t n 	    WXS.hg19 t n 	    RNA.fq tt  	    miRNA.fq T  	    WGS.hg38 t n 	    WXS.hg38 t n 	    RNA.hg38 ttt  
+C3L-01663	LSCC	    WGS.hg19 t n a	    WXS.hg19 t n a	    RNA.fq tt  aa	    miRNA.fq T  a	    WGS.hg38 t n a	    WXS.hg38 t n a	    RNA.hg38 ttt  aaa
+C3L-01664	UCEC	    WGS.hg19 t n 	    WXS.hg19 t n 	    RNA.fq tt  	    miRNA.fq t  	    WGS.hg38 t n 	    WXS.hg38 t n 	    RNA.hg38 ttt  
+C3L-01665	CCRCC	    WGS.hg19 t n a	    WXS.hg19 t n a	    RNA.fq tt  aa	    miRNA.fq t  a	    WGS.hg38 t n a	    WXS.hg38 t n a	    RNA.hg38 ttt  aaa
+C3L-01682	LUAD	    WGS.hg19 t n a	    WXS.hg19 T N A	    RNA.fq TT  AA	    miRNA.fq t  a	    WGS.hg38 t n a	    WXS.hg38 t n a	    RNA.hg38 ttt  aaa
+C3L-01683	LUAD	    WGS.hg19 t n a	    WXS.hg19 t n a	    RNA.fq tt  aa	    miRNA.fq t  a	    WGS.hg38 t n a	    WXS.hg38 t n a	    RNA.hg38 ttt  aaa
+C3L-01687	PDA	    WGS.hg19 t n 	    WXS.hg19 t n 	    RNA.fq tt  	    miRNA.fq T  	    WGS.hg38 t n 	    WXS.hg38 t n 	    RNA.hg38 ttt  
+C3L-01689	PDA	    WGS.hg19 t n a	    WXS.hg19 t n a	    RNA.fq tt  aa	    miRNA.fq T  a	    WGS.hg38 t n a	    WXS.hg38 t n a	    RNA.hg38 ttt  aaa
+C3L-01702	PDA	    WGS.hg19 t n 	    WXS.hg19 t n 	    RNA.fq tt  	    miRNA.fq T  	    WGS.hg38 t n 	    WXS.hg38 t n 	    RNA.hg38 ttt  
+C3L-01703	PDA	    WGS.hg19 t n 	    WXS.hg19 t n a	    RNA.fq tt  aa	    miRNA.fq T  a	    WGS.hg38 t n 	    WXS.hg38 t n a	    RNA.hg38 ttt  aaa
+C3L-01729	UCEC	    WGS.hg19 t n 	    WXS.hg19 t n 	    RNA.fq tt  	    miRNA.fq t  	    WGS.hg38 t n 	    WXS.hg38 t n 	    RNA.hg38 ttt  
+C3L-01732	UCEC	    WGS.hg19 t n 	    WXS.hg19 t n 	    RNA.fq tt  	    miRNA.fq T  	    WGS.hg38 t n 	    WXS.hg38 t n 	    RNA.hg38 ttt  
+C3L-01739	UCEC	    WGS.hg19 t n 	    WXS.hg19 t n 	    RNA.fq tt  	    miRNA.fq T  	    WGS.hg38 t n 	    WXS.hg38 t n 	    RNA.hg38 ttt  
+C3L-01744	UCEC	    WGS.hg19 T N 	    WXS.hg19 T N 	    RNA.fq TT  	    miRNA.fq T  	    WGS.hg38 t n 	    WXS.hg38 t n 	    RNA.hg38 ttt  
+C3L-01749	UCEC	    WGS.hg19 t n 	    WXS.hg19 t n 	    RNA.fq tt  	    miRNA.fq t  	    WGS.hg38 t n 	    WXS.hg38 t n 	    RNA.hg38 ttt  
+C3L-01833	UCEC	    WGS.hg19 t n 	    WXS.hg19 t n 	    RNA.fq tt  	    miRNA.fq t  	    WGS.hg38 t n 	    WXS.hg38 t n 	    RNA.hg38 ttt  
+C3L-01834	GBM	    WGS.hg19  n 	    WXS.hg19 t n 	    RNA.fq tt  	    miRNA.fq t  	    WGS.hg38  n 	    WXS.hg38 t n 	    RNA.hg38 ttt  
+C3L-01836	CCRCC	    WGS.hg19 t n a	    WXS.hg19 t n a	    RNA.fq tt  aa	    miRNA.fq t  a	    WGS.hg38 t n a	    WXS.hg38 t n a	    RNA.hg38 ttt  aaa
+C3L-01838	LSCC	    WGS.hg19 t n 	    WXS.hg19 t n 	    RNA.fq tt  	    miRNA.fq T  	    WGS.hg38 t n 	    WXS.hg38 t n 	    RNA.hg38 ttt  
+C3L-01839	GBM	    WGS.hg19 t n 	    WXS.hg19 t n 	    RNA.fq tt  	    miRNA.fq T  	    WGS.hg38 t n 	    WXS.hg38 t n 	    RNA.hg38 ttt  
+C3L-01840	UCEC	    WGS.hg19 t n 	    WXS.hg19 t n 	    RNA.fq tt  	    miRNA.fq T  	    WGS.hg38 t n 	    WXS.hg38 t n 	    RNA.hg38 ttt  
+C3L-01861	CCRCC	    WGS.hg19 T N a	    WXS.hg19 T N A	    RNA.fq TT  AA	    miRNA.fq t  a	    WGS.hg38 t n a	    WXS.hg38 t n a	    RNA.hg38 ttt  aaa
+C3L-01862	LUAD	    WGS.hg19 t n 	    WXS.hg19 t n 	    RNA.fq tt  	    miRNA.fq T  	    WGS.hg38 t n 	    WXS.hg38 t n 	    RNA.hg38 ttt  
+C3L-01864	UCEC	    WGS.hg19 t n 	    WXS.hg19 t n 	    RNA.fq tt  	    miRNA.fq T  	    WGS.hg38 t n 	    WXS.hg38 t n 	    RNA.hg38 ttt  
+C3L-01869	CCRCC	    WGS.hg19 t n a	    WXS.hg19 t n a	    RNA.fq tt  aa	    miRNA.fq t  a	    WGS.hg38 t n a	    WXS.hg38 t n a	    RNA.hg38 ttt  aaa
+C3L-01882	CCRCC	    WGS.hg19 t n a	    WXS.hg19 T N A	    RNA.fq TT  AA	    miRNA.fq T  a	    WGS.hg38 t n a	    WXS.hg38 t n a	    RNA.hg38 ttt  aaa
+C3L-01883	SAR	    WGS.hg19 t n a	    WXS.hg19 t n a	    RNA.fq tt  aa	    miRNA.fq T  a	    WGS.hg38 t n a	    WXS.hg38 t n a	    RNA.hg38 ttt  aaa
+C3L-01884	LUAD	    WGS.hg19 t n a	    WXS.hg19 t n a	    RNA.fq tt  aa	    miRNA.fq   	    WGS.hg38   	    WXS.hg38   	    RNA.hg38   
+C3L-01885	CCRCC	    WGS.hg19 T N a	    WXS.hg19 T N A	    RNA.fq TT  AA	    miRNA.fq T  a	    WGS.hg38 t n a	    WXS.hg38 t n a	    RNA.hg38 ttt  aaa
+C3L-01887	GBM	    WGS.hg19 t n 	    WXS.hg19 t n 	    RNA.fq tt  	    miRNA.fq t  	    WGS.hg38 t n 	    WXS.hg38 t n 	    RNA.hg38 ttt  
+C3L-01889	LUAD	    WGS.hg19 T N a	    WXS.hg19 T N A	    RNA.fq TT  AA	    miRNA.fq T  a	    WGS.hg38 t n a	    WXS.hg38 t n a	    RNA.hg38 ttt  aaa
+C3L-01890	LUAD	    WGS.hg19 t n a	    WXS.hg19  n a	    RNA.fq tt  aa	    miRNA.fq T  a	    WGS.hg38 t n a	    WXS.hg38  n a	    RNA.hg38 ttt  aaa
+C3L-01913	UCEC	    WGS.hg19 t n 	    WXS.hg19 t n 	    RNA.fq tt  	    miRNA.fq T  	    WGS.hg38 t n 	    WXS.hg38 t n 	    RNA.hg38 ttt  
+C3L-01924	LUAD	    WGS.hg19 t n a	    WXS.hg19 t n a	    RNA.fq tt  aa	    miRNA.fq t  a	    WGS.hg38 t n a	    WXS.hg38 t n a	    RNA.hg38 ttt  aaa
+C3L-01925	UCEC	    WGS.hg19 t n 	    WXS.hg19 t n 	    RNA.fq tt  	    miRNA.fq t  	    WGS.hg38 t n 	    WXS.hg38 t n 	    RNA.hg38 ttt  
+C3L-01929	CCRCC	    WGS.hg19 t n 	    WXS.hg19 t n 	    RNA.fq tt  	    miRNA.fq T  	    WGS.hg38 t n 	    WXS.hg38 t n 	    RNA.hg38 ttt  
+C3L-01951	CCRCC	    WGS.hg19 t n 	    WXS.hg19 t n 	    RNA.fq tt  	    miRNA.fq T  	    WGS.hg38 t n 	    WXS.hg38 t n 	    RNA.hg38 ttt  
+C3L-01952	CCRCC	    WGS.hg19 t n 	    WXS.hg19 t n 	    RNA.fq tt  	    miRNA.fq t  	    WGS.hg38 t n 	    WXS.hg38 t n 	    RNA.hg38 ttt  
+C3L-01954	CCRCC	    WGS.hg19 t n 	    WXS.hg19 t n 	    RNA.fq tt  	    miRNA.fq T  	    WGS.hg38 t n 	    WXS.hg38 t n 	    RNA.hg38 ttt  
+C3L-01958	CCRCC	    WGS.hg19 t n 	    WXS.hg19 t n 	    RNA.fq tt  	    miRNA.fq T  	    WGS.hg38 t n 	    WXS.hg38 t n 	    RNA.hg38 ttt  
+C3L-01963	CCRCC	    WGS.hg19 t n 	    WXS.hg19 t n 	    RNA.fq tt  	    miRNA.fq T  	    WGS.hg38 t n 	    WXS.hg38 t n 	    RNA.hg38 ttt  
+C3L-01967	UCEC	    WGS.hg19 t n a	    WXS.hg19 t n a	    RNA.fq tt  aa	    miRNA.fq t  a	    WGS.hg38 t n a	    WXS.hg38 t n a	    RNA.hg38 ttt  aaa
+C3L-01971	PDA	    WGS.hg19 t n 	    WXS.hg19 t n 	    RNA.fq tt  	    miRNA.fq t  	    WGS.hg38 t n 	    WXS.hg38 t n 	    RNA.hg38 ttt  
+C3L-01976	CCRCC	    WGS.hg19 t n a	    WXS.hg19 t n a	    RNA.fq tt  aa	    miRNA.fq t  a	    WGS.hg38 t n a	    WXS.hg38 t n a	    RNA.hg38 ttt  aaa
+C3L-02041	GBM	    WGS.hg19 t n 	    WXS.hg19 t n 	    RNA.fq tt  	    miRNA.fq t  	    WGS.hg38 t n 	    WXS.hg38 t n 	    RNA.hg38 ttt  
+C3L-02109	PDA	    WGS.hg19 t n 	    WXS.hg19 t n 	    RNA.fq tt  	    miRNA.fq t  	    WGS.hg38 t n 	    WXS.hg38 t n 	    RNA.hg38 ttt  
+C3L-02112	PDA	    WGS.hg19 t n a	    WXS.hg19 t n a	    RNA.fq tt  aa	    miRNA.fq t  a	    WGS.hg38 t n a	    WXS.hg38 t n a	    RNA.hg38 ttt  aaa
+C3L-02115	PDA	    WGS.hg19 t n a	    WXS.hg19 t n a	    RNA.fq tt  	    miRNA.fq t  	    WGS.hg38 t n a	    WXS.hg38 t n a	    RNA.hg38 ttt  
+C3L-02116	PDA	    WGS.hg19 t n a	    WXS.hg19 t n a	    RNA.fq tt  	    miRNA.fq t  	    WGS.hg38 t n a	    WXS.hg38 t n a	    RNA.hg38 ttt  
+C3L-02118	PDA	    WGS.hg19 t n 	    WXS.hg19 t n 	    RNA.fq tt  	    miRNA.fq t  	    WGS.hg38 t n 	    WXS.hg38 t n 	    RNA.hg38 ttt  
+C3L-02127	LUAD	    WGS.hg19 t n a	    WXS.hg19 t n a	    RNA.fq tt  aa	    miRNA.fq   	    WGS.hg38   	    WXS.hg38   	    RNA.hg38   
+C3L-02130	LUAD	    WGS.hg19 t n a	    WXS.hg19 t n a	    RNA.fq tt  aa	    miRNA.fq   	    WGS.hg38   	    WXS.hg38   	    RNA.hg38   
+C3L-02163	LUAD	    WGS.hg19 t n a	    WXS.hg19 t n a	    RNA.fq tt  aa	    miRNA.fq   	    WGS.hg38   	    WXS.hg38   	    RNA.hg38   
+C3L-02164	LUAD	    WGS.hg19 t n a	    WXS.hg19 t n a	    RNA.fq tt  aa	    miRNA.fq   	    WGS.hg38   	    WXS.hg38   	    RNA.hg38   
+C3L-02168	LUAD	    WGS.hg19 t n a	    WXS.hg19 t n a	    RNA.fq tt  aa	    miRNA.fq   	    WGS.hg38   	    WXS.hg38   	    RNA.hg38   
+C3L-02170	LUAD	    WGS.hg19 t n 	    WXS.hg19 t n 	    RNA.fq tt  	    miRNA.fq   	    WGS.hg38   	    WXS.hg38   	    RNA.hg38   
+C3L-02175	CCRCC	    WGS.hg19 t n 	    WXS.hg19 t n 	    RNA.fq tt  	    miRNA.fq T  	    WGS.hg38 t n 	    WXS.hg38 t n 	    RNA.hg38 ttt  
+C3L-02176	CCRCC	    WGS.hg19 t n 	    WXS.hg19 t n a	    RNA.fq tt  	    miRNA.fq t  	    WGS.hg38 t n 	    WXS.hg38 t n a	    RNA.hg38 ttt  
+C3L-02177	CCRCC	    WGS.hg19 t n 	    WXS.hg19 t n 	    RNA.fq tt  	    miRNA.fq t  	    WGS.hg38 t n 	    WXS.hg38 t n 	    RNA.hg38 ttt  
+C3L-02216	UCEC	    WGS.hg19 t n a	    WXS.hg19 t n a	    RNA.fq tt  aa	    miRNA.fq t  a	    WGS.hg38 t n a	    WXS.hg38 t n a	    RNA.hg38 ttt  aaa
+C3L-02219	LUAD	    WGS.hg19 t n a	    WXS.hg19 t n a	    RNA.fq tt  aa	    miRNA.fq t  a	    WGS.hg38 t n a	    WXS.hg38 t n a	    RNA.hg38 ttt  aaa
+C3L-02220	CCRCC	    WGS.hg19 t n a	    WXS.hg19 t n a	    RNA.fq tt  aa	    miRNA.fq t  	    WGS.hg38 t n a	    WXS.hg38 t n a	    RNA.hg38 ttt  aaa
+C3L-02345	LUAD	    WGS.hg19 t n a	    WXS.hg19 t n a	    RNA.fq tt  aa	    miRNA.fq t  a	    WGS.hg38 t n a	    WXS.hg38 t n a	    RNA.hg38 ttt  aaa
+C3L-02348	LUAD	    WGS.hg19 t n a	    WXS.hg19 t n a	    RNA.fq tt  aa	    miRNA.fq t  a	    WGS.hg38 t n a	    WXS.hg38 t n a	    RNA.hg38 ttt  aaa
+C3L-02349	LUAD	    WGS.hg19 t n a	    WXS.hg19 t n a	    RNA.fq tt  aa	    miRNA.fq   	    WGS.hg38   	    WXS.hg38   	    RNA.hg38   
+C3L-02350	LUAD	    WGS.hg19 t n a	    WXS.hg19 t n a	    RNA.fq tt  aa	    miRNA.fq t  a	    WGS.hg38 t n a	    WXS.hg38 t n a	    RNA.hg38 ttt  aaa
+C3L-02352	CCRCC	    WGS.hg19 t n a	    WXS.hg19 t n a	    RNA.fq tt  aa	    miRNA.fq t  a	    WGS.hg38 t n a	    WXS.hg38 t n a	    RNA.hg38 ttt  aaa
+C3L-02354	UCEC	    WGS.hg19 t n 	    WXS.hg19 t n 	    RNA.fq tt  	    miRNA.fq t  	    WGS.hg38 t n 	    WXS.hg38 t n 	    RNA.hg38 ttt  
+C3L-02358	LUAD	    WGS.hg19 t n a	    WXS.hg19 t n a	    RNA.fq tt  aa	    miRNA.fq   	    WGS.hg38   	    WXS.hg38   	    RNA.hg38   
+C3L-02365	LUAD	    WGS.hg19 t n a	    WXS.hg19 t n a	    RNA.fq tt  aa	    miRNA.fq t  a	    WGS.hg38 t n a	    WXS.hg38 t n a	    RNA.hg38 ttt  aaa
+C3L-02384	UCEC	    WGS.hg19 t n 	    WXS.hg19 t n 	    RNA.fq tt  	    miRNA.fq t  	    WGS.hg38 t n 	    WXS.hg38 t n 	    RNA.hg38 ttt  
+C3L-02395	UCEC	    WGS.hg19 t n 	    WXS.hg19 t n 	    RNA.fq tt  	    miRNA.fq t  	    WGS.hg38 t n 	    WXS.hg38 t n 	    RNA.hg38 ttt  
+C3L-02463	PDA	    WGS.hg19 t n a	    WXS.hg19 t n a	    RNA.fq tt  aa	    miRNA.fq t  a	    WGS.hg38 t n a	    WXS.hg38 t n a	    RNA.hg38 ttt  aaa
+C3L-02465	GBM	    WGS.hg19 t n 	    WXS.hg19 t n 	    RNA.fq tt  	    miRNA.fq t  	    WGS.hg38 t n 	    WXS.hg38 t n 	    RNA.hg38 ttt  
+C3L-02504	GBM	    WGS.hg19 t n 	    WXS.hg19 t n 	    RNA.fq tt  	    miRNA.fq   	    WGS.hg38 t n 	    WXS.hg38 t n 	    RNA.hg38 ttt  
+C3L-02508	LUAD	    WGS.hg19 t n a	    WXS.hg19 t n a	    RNA.fq tt  aa	    miRNA.fq t  a	    WGS.hg38 t n a	    WXS.hg38 t n a	    RNA.hg38 ttt  aaa
+C3L-02542	GBM	    WGS.hg19 t n 	    WXS.hg19 t n 	    RNA.fq tt  	    miRNA.fq t  	    WGS.hg38 t n 	    WXS.hg38 t n 	    RNA.hg38 ttt  
+C3L-02546	LUAD	    WGS.hg19 t n a	    WXS.hg19 t n a	    RNA.fq tt  aa	    miRNA.fq   	    WGS.hg38   	    WXS.hg38   	    RNA.hg38   
+C3L-02549	LUAD	    WGS.hg19 t n a	    WXS.hg19 t n a	    RNA.fq tt  aa	    miRNA.fq t  a	    WGS.hg38 t n a	    WXS.hg38 t n a	    RNA.hg38 ttt  aaa
+C3L-02552	LUAD	    WGS.hg19 t n a	    WXS.hg19 t n a	    RNA.fq tt  aa	    miRNA.fq   	    WGS.hg38   	    WXS.hg38   	    RNA.hg38   
+C3L-02606	PDA	    WGS.hg19 t n a	    WXS.hg19 t n a	    RNA.fq tt  aa	    miRNA.fq t  a	    WGS.hg38 t n a	    WXS.hg38 t n a	    RNA.hg38 ttt  aaa
+C3L-02610	PDA	    WGS.hg19 t n a	    WXS.hg19 t n a	    RNA.fq tt  aa	    miRNA.fq t  a	    WGS.hg38 t n a	    WXS.hg38 t n a	    RNA.hg38 ttt  aaa
+C3L-02613	PDA	    WGS.hg19 t n a	    WXS.hg19 t n a	    RNA.fq tt  aa	    miRNA.fq t  a	    WGS.hg38 t n a	    WXS.hg38 t n a	    RNA.hg38 ttt  aaa
+C3L-02619	LUAD	    WGS.hg19 t n a	    WXS.hg19 t n a	    RNA.fq tt  aa	    miRNA.fq   	    WGS.hg38   	    WXS.hg38   	    RNA.hg38   
+C3L-02642	GBM	    WGS.hg19 t n 	    WXS.hg19 t n 	    RNA.fq tt  	    miRNA.fq   	    WGS.hg38   	    WXS.hg38   	    RNA.hg38   
+C3L-02704	GBM	    WGS.hg19 t n 	    WXS.hg19 t n 	    RNA.fq tt  	    miRNA.fq   	    WGS.hg38   	    WXS.hg38   	    RNA.hg38   
+C3L-02705	GBM	    WGS.hg19 t n 	    WXS.hg19 t n 	    RNA.fq tt  	    miRNA.fq   	    WGS.hg38   	    WXS.hg38   	    RNA.hg38   
+C3L-02707	GBM	    WGS.hg19 t n 	    WXS.hg19 t n 	    RNA.fq tt  	    miRNA.fq   	    WGS.hg38   	    WXS.hg38   	    RNA.hg38   
+C3L-02708	GBM	    WGS.hg19 t n 	    WXS.hg19 t n 	    RNA.fq tt  	    miRNA.fq   	    WGS.hg38   	    WXS.hg38   	    RNA.hg38   
+C3L-02900	GBM	    WGS.hg19 t n 	    WXS.hg19 t n 	    RNA.fq tt  	    miRNA.fq   	    WGS.hg38   	    WXS.hg38   	    RNA.hg38   
+C3L-02951	LUAD	    WGS.hg19 t n a	    WXS.hg19 t n a	    RNA.fq tt  aa	    miRNA.fq   	    WGS.hg38   	    WXS.hg38   	    RNA.hg38   
+C3L-02955	GBM	    WGS.hg19 t n 	    WXS.hg19 t n 	    RNA.fq tt  	    miRNA.fq   	    WGS.hg38   	    WXS.hg38   	    RNA.hg38   
+C3L-02963	LUAD	    WGS.hg19 t n a	    WXS.hg19 t n a	    RNA.fq tt  aa	    miRNA.fq   	    WGS.hg38   	    WXS.hg38   	    RNA.hg38   
+C3L-02964	LUAD	    WGS.hg19 t n a	    WXS.hg19 t n a	    RNA.fq tt  aa	    miRNA.fq   	    WGS.hg38   	    WXS.hg38   	    RNA.hg38   
+C3L-02968	LUAD	    WGS.hg19 t n a	    WXS.hg19 t n a	    RNA.fq tt  aa	    miRNA.fq   	    WGS.hg38   	    WXS.hg38   	    RNA.hg38   
+C3L-02984	GBM	    WGS.hg19 t n 	    WXS.hg19 t n 	    RNA.fq tt  	    miRNA.fq   	    WGS.hg38   	    WXS.hg38   	    RNA.hg38   
+C3L-03260	GBM	    WGS.hg19 t n 	    WXS.hg19 t n 	    RNA.fq tt  	    miRNA.fq   	    WGS.hg38   	    WXS.hg38   	    RNA.hg38   
+C3L-03266	GBM	    WGS.hg19 t n 	    WXS.hg19 t n 	    RNA.fq tt  	    miRNA.fq   	    WGS.hg38   	    WXS.hg38   	    RNA.hg38   
+C3L-03392	GBM	    WGS.hg19 t n 	    WXS.hg19 t n 	    RNA.fq tt  	    miRNA.fq   	    WGS.hg38   	    WXS.hg38   	    RNA.hg38   
+C3L-03407	GBM	    WGS.hg19 t n 	    WXS.hg19 t n 	    RNA.fq tt  	    miRNA.fq   	    WGS.hg38   	    WXS.hg38   	    RNA.hg38   
+C3L-03601	UCEC	    WGS.hg19   a	    WXS.hg19   a	    RNA.fq   	    miRNA.fq   	    WGS.hg38   	    WXS.hg38   	    RNA.hg38   
+C3L-03624	PDA	    WGS.hg19   	    WXS.hg19 tt n 	    RNA.fq   	    miRNA.fq   	    WGS.hg38   	    WXS.hg38   	    RNA.hg38   
+C3L-03678	LUAD	    WGS.hg19 t n 	    WXS.hg19 t n 	    RNA.fq tt  	    miRNA.fq   	    WGS.hg38   	    WXS.hg38   	    RNA.hg38   
+C3L-03681	GBM	    WGS.hg19 t n 	    WXS.hg19 t n 	    RNA.fq tt  	    miRNA.fq   	    WGS.hg38   	    WXS.hg38   	    RNA.hg38   
+C3L-03747	GBM	    WGS.hg19 t n 	    WXS.hg19 t n 	    RNA.fq tt  	    miRNA.fq   	    WGS.hg38   	    WXS.hg38   	    RNA.hg38   
+C3L-03748	GBM	    WGS.hg19 t n 	    WXS.hg19 t n 	    RNA.fq tt  	    miRNA.fq   	    WGS.hg38   	    WXS.hg38   	    RNA.hg38   
+C3N-00148	CCRCC	    WGS.hg19 T N a	    WXS.hg19 T N A	    RNA.fq TT  AA	    miRNA.fq t  a	    WGS.hg38 t n a	    WXS.hg38 t n a	    RNA.hg38 ttt  aaa
+C3N-00149	CCRCC	    WGS.hg19 T N a	    WXS.hg19 T N a	    RNA.fq TT  AA	    miRNA.fq t  a	    WGS.hg38 t n a	    WXS.hg38 t n a	    RNA.hg38 ttt  aaa
+C3N-00150	CCRCC	    WGS.hg19 T N a	    WXS.hg19 T N A	    RNA.fq TT  AA	    miRNA.fq t  a	    WGS.hg38 t n a	    WXS.hg38 t n a	    RNA.hg38 ttt  aaa
+C3N-00151	UCEC	    WGS.hg19 t n 	    WXS.hg19 T N 	    RNA.fq TT  	    miRNA.fq t  	    WGS.hg38 t n 	    WXS.hg38 t n 	    RNA.hg38 ttt  
+C3N-00154	CCRCC	    WGS.hg19 t n 	    WXS.hg19 t n 	    RNA.fq tt  	    miRNA.fq t  	    WGS.hg38 t n 	    WXS.hg38 t n 	    RNA.hg38 ttt  
+C3N-00167	LUAD	    WGS.hg19 t n a	    WXS.hg19 t n a	    RNA.fq tt  aa	    miRNA.fq T  a	    WGS.hg38 t n a	    WXS.hg38 t n a	    RNA.hg38 ttt  aaa
+C3N-00168	CCRCC	    WGS.hg19 T N a	    WXS.hg19 T N A	    RNA.fq TT  AA	    miRNA.fq   a	    WGS.hg38 t n a	    WXS.hg38 t n a	    RNA.hg38 ttt  aaa
+C3N-00169	LUAD	    WGS.hg19 t n a	    WXS.hg19 T N A	    RNA.fq TT  AA	    miRNA.fq t  a	    WGS.hg38 t n a	    WXS.hg38 t n a	    RNA.hg38 ttt  aaa
+C3N-00171	SAR	    WGS.hg19 t n a	    WXS.hg19 t n a	    RNA.fq tt  aa	    miRNA.fq T  a	    WGS.hg38 t n a	    WXS.hg38 t n a	    RNA.hg38 ttt  aaa
+C3N-00175	LUAD	    WGS.hg19 t n a	    WXS.hg19 t n a	    RNA.fq tt  aa	    miRNA.fq t  a	    WGS.hg38 t n a	    WXS.hg38 t n a	    RNA.hg38 ttt  aaa
+C3N-00177	CCRCC	    WGS.hg19 T N a	    WXS.hg19 T N a	    RNA.fq TT  AA	    miRNA.fq t  a	    WGS.hg38 t n a	    WXS.hg38 t n a	    RNA.hg38 ttt  aaa
+C3N-00179	CM	    WGS.hg19 t n a	    WXS.hg19 t n a	    RNA.fq tt  aa	    miRNA.fq t  a	    WGS.hg38 t n a	    WXS.hg38 t n a	    RNA.hg38 ttt  aaa
+C3N-00180	LUAD	    WGS.hg19 t n a	    WXS.hg19 t n a	    RNA.fq tt  aa	    miRNA.fq t  a	    WGS.hg38 t n a	    WXS.hg38 t n a	    RNA.hg38 ttt  aaa
+C3N-00194	CCRCC	    WGS.hg19 T N a	    WXS.hg19 T N A	    RNA.fq TT  AA	    miRNA.fq t  a	    WGS.hg38 t n a	    WXS.hg38 t n a	    RNA.hg38 ttt  aaa
+C3N-00198	PDA	    WGS.hg19 t n 	    WXS.hg19 t n 	    RNA.fq tt  aa	    miRNA.fq t  	    WGS.hg38 t n 	    WXS.hg38 t n 	    RNA.hg38 ttt  aaa
+C3N-00199	LUAD	    WGS.hg19 t n a	    WXS.hg19 t n a	    RNA.fq tt  aa	    miRNA.fq t  a	    WGS.hg38 t n a	    WXS.hg38 t n a	    RNA.hg38 ttt  aaa
+C3N-00200	UCEC	    WGS.hg19 T N 	    WXS.hg19 T N 	    RNA.fq TT  	    miRNA.fq T  	    WGS.hg38 t n 	    WXS.hg38 t n 	    RNA.hg38 ttt  
+C3N-00203	LUAD	    WGS.hg19 t n a	    WXS.hg19 t n a	    RNA.fq tt  aa	    miRNA.fq t  a	    WGS.hg38 t n a	    WXS.hg38 t n a	    RNA.hg38 ttt  aaa
+C3N-00204	HNSCC	    WGS.hg19 t n 	    WXS.hg19 t n 	    RNA.fq tt  aa	    miRNA.fq T  a	    WGS.hg38 t n 	    WXS.hg38 t n 	    RNA.hg38 ttt  aaa
+C3N-00211	LSCC	    WGS.hg19 t n 	    WXS.hg19 t n 	    RNA.fq tt  	    miRNA.fq   	    WGS.hg38 t n 	    WXS.hg38 t n 	    RNA.hg38 ttt  
+C3N-00217	LUAD	    WGS.hg19 t n a	    WXS.hg19 t n a	    RNA.fq tt  aa	    miRNA.fq T  a	    WGS.hg38 t n a	    WXS.hg38 t n a	    RNA.hg38 ttt  aaa
+C3N-00221	LUAD	    WGS.hg19 t n 	    WXS.hg19 t n 	    RNA.fq tt  aa	    miRNA.fq   	    WGS.hg38   	    WXS.hg38   	    RNA.hg38   
+C3N-00223	LUAD	    WGS.hg19 t n a	    WXS.hg19 t n a	    RNA.fq tt  aa	    miRNA.fq t  a	    WGS.hg38 t n a	    WXS.hg38 t n a	    RNA.hg38 ttt  aaa
+C3N-00242	CCRCC	    WGS.hg19 t n a	    WXS.hg19 T N A	    RNA.fq TT  AA	    miRNA.fq t  a	    WGS.hg38 t n a	    WXS.hg38 t n a	    RNA.hg38 ttt  aaa
+C3N-00244	CCRCC	    WGS.hg19 T N a	    WXS.hg19 T N A	    RNA.fq TT  AA	    miRNA.fq t  a	    WGS.hg38 t n a	    WXS.hg38 t n a	    RNA.hg38 ttt  aaa
+C3N-00246	CCRCC	    WGS.hg19 T N 	    WXS.hg19 T N 	    RNA.fq TT  	    miRNA.fq T  	    WGS.hg38 t n 	    WXS.hg38 t n 	    RNA.hg38 ttt  
+C3N-00247	LSCC	    WGS.hg19 t n 	    WXS.hg19 t n 	    RNA.fq tt  	    miRNA.fq T  	    WGS.hg38 t n 	    WXS.hg38 t n 	    RNA.hg38 ttt  
+C3N-00249	PDA	    WGS.hg19 t n a	    WXS.hg19 t n a	    RNA.fq tt  	    miRNA.fq T  	    WGS.hg38 t n a	    WXS.hg38 t n a	    RNA.hg38 ttt  
+C3N-00293	LUAD	    WGS.hg19 t n a	    WXS.hg19 t n a	    RNA.fq tt  aa	    miRNA.fq t  a	    WGS.hg38 t n a	    WXS.hg38 t n a	    RNA.hg38 ttt  aaa
+C3N-00294	LUAD	    WGS.hg19 t n 	    WXS.hg19 t n 	    RNA.fq tt  	    miRNA.fq t  	    WGS.hg38 t n 	    WXS.hg38 t n 	    RNA.hg38 ttt  
+C3N-00295	HNSCC	    WGS.hg19 t n 	    WXS.hg19 t n 	    RNA.fq tt  	    miRNA.fq   	    WGS.hg38 t n 	    WXS.hg38 t n 	    RNA.hg38 ttt  
+C3N-00297	HNSCC	    WGS.hg19 t n 	    WXS.hg19 t n 	    RNA.fq tt  	    miRNA.fq t  	    WGS.hg38 t n 	    WXS.hg38 t n 	    RNA.hg38 ttt  
+C3N-00299	HNSCC	    WGS.hg19 t n 	    WXS.hg19 t n 	    RNA.fq tt  	    miRNA.fq t  	    WGS.hg38 t n 	    WXS.hg38 t n 	    RNA.hg38 ttt  
+C3N-00300	HNSCC	    WGS.hg19 t n 	    WXS.hg19 t n 	    RNA.fq tt  	    miRNA.fq   	    WGS.hg38 t n 	    WXS.hg38 t n 	    RNA.hg38 ttt  
+C3N-00302	PDA	    WGS.hg19 t n 	    WXS.hg19 t n 	    RNA.fq tt  	    miRNA.fq t  	    WGS.hg38 t n 	    WXS.hg38 t n 	    RNA.hg38 ttt  
+C3N-00303	PDA	    WGS.hg19 t n 	    WXS.hg19 t n 	    RNA.fq tt  	    miRNA.fq t  	    WGS.hg38 t n 	    WXS.hg38 t n 	    RNA.hg38 ttt  
+C3N-00305	CCRCC	    WGS.hg19 t n 	    WXS.hg19 t n 	    RNA.fq tt  	    miRNA.fq t  	    WGS.hg38 t n 	    WXS.hg38 t n 	    RNA.hg38 ttt  
+C3N-00306	HNSCC	    WGS.hg19 t n 	    WXS.hg19 t n a	    RNA.fq tt  aa	    miRNA.fq t  a	    WGS.hg38 t n 	    WXS.hg38 t n a	    RNA.hg38 ttt  aaa
+C3N-00307	HNSCC	    WGS.hg19 t n a	    WXS.hg19 t n a	    RNA.fq tt  aa	    miRNA.fq t  a	    WGS.hg38 t n a	    WXS.hg38 t n a	    RNA.hg38 ttt  aaa
+C3N-00309	LSCC	    WGS.hg19 t n 	    WXS.hg19 t n 	    RNA.fq tt  	    miRNA.fq t  	    WGS.hg38 t n 	    WXS.hg38 t n 	    RNA.hg38 ttt  
+C3N-00310	CCRCC	    WGS.hg19 t n a	    WXS.hg19 t n a	    RNA.fq tt  aa	    miRNA.fq t  a	    WGS.hg38 t n a	    WXS.hg38 t n a	    RNA.hg38 ttt  aaa
+C3N-00312	CCRCC	    WGS.hg19 t n a	    WXS.hg19 t n a	    RNA.fq tt  	    miRNA.fq t  	    WGS.hg38 t n a	    WXS.hg38 t n a	    RNA.hg38 ttt  
+C3N-00313	CCRCC	    WGS.hg19 t n 	    WXS.hg19 t n 	    RNA.fq tt  	    miRNA.fq T  	    WGS.hg38 t n 	    WXS.hg38 t n 	    RNA.hg38 ttt  
+C3N-00314	CCRCC	    WGS.hg19 t n a	    WXS.hg19 t n a	    RNA.fq tt  aa	    miRNA.fq T  a	    WGS.hg38 t n a	    WXS.hg38 t n a	    RNA.hg38 ttt  aaa
+C3N-00315	CCRCC	    WGS.hg19 t n 	    WXS.hg19 t n 	    RNA.fq tt  	    miRNA.fq T  	    WGS.hg38 t n 	    WXS.hg38 t n 	    RNA.hg38 ttt  
+C3N-00317	CCRCC	    WGS.hg19 t n a	    WXS.hg19 t n a	    RNA.fq tt  	    miRNA.fq t  	    WGS.hg38 t n a	    WXS.hg38 t n a	    RNA.hg38 ttt  
+C3N-00320	CCRCC	    WGS.hg19 t n a	    WXS.hg19 t n a	    RNA.fq tt  	    miRNA.fq t  	    WGS.hg38 t n a	    WXS.hg38 t n a	    RNA.hg38 ttt  
+C3N-00321	UCEC	    WGS.hg19 T N 	    WXS.hg19 T N 	    RNA.fq TT  	    miRNA.fq t  	    WGS.hg38 t n 	    WXS.hg38 t n 	    RNA.hg38 ttt  
+C3N-00322	UCEC	    WGS.hg19 T N 	    WXS.hg19 T N 	    RNA.fq TT  	    miRNA.fq t  	    WGS.hg38 t n 	    WXS.hg38 t n 	    RNA.hg38 ttt  
+C3N-00323	UCEC	    WGS.hg19 T N 	    WXS.hg19 T N 	    RNA.fq TT  	    miRNA.fq   	    WGS.hg38 t n 	    WXS.hg38 t n 	    RNA.hg38 ttt  
+C3N-00324	UCEC	    WGS.hg19 T N 	    WXS.hg19 T N 	    RNA.fq TT  	    miRNA.fq t  	    WGS.hg38 t n 	    WXS.hg38 t n 	    RNA.hg38 ttt  
+C3N-00326	UCEC	    WGS.hg19 T N 	    WXS.hg19 T N 	    RNA.fq TT  	    miRNA.fq t  	    WGS.hg38 t n 	    WXS.hg38 t n 	    RNA.hg38 ttt  
+C3N-00328	UCEC	    WGS.hg19 T N 	    WXS.hg19 T N 	    RNA.fq TT  	    miRNA.fq t  	    WGS.hg38 t n 	    WXS.hg38 t n 	    RNA.hg38 ttt  
+C3N-00333	UCEC	    WGS.hg19 T N 	    WXS.hg19 T N 	    RNA.fq TT  AA	    miRNA.fq t  a	    WGS.hg38 t n 	    WXS.hg38 t n 	    RNA.hg38 ttt  aaa
+C3N-00334	UCEC	    WGS.hg19 t n 	    WXS.hg19 T N 	    RNA.fq TT  	    miRNA.fq t  	    WGS.hg38 t n 	    WXS.hg38 t n 	    RNA.hg38 ttt  
+C3N-00335	UCEC	    WGS.hg19 T N 	    WXS.hg19 T N 	    RNA.fq TT  	    miRNA.fq t  	    WGS.hg38 t n 	    WXS.hg38 t n 	    RNA.hg38 ttt  
+C3N-00337	UCEC	    WGS.hg19 T N 	    WXS.hg19 T N 	    RNA.fq TT  	    miRNA.fq t  	    WGS.hg38 t n 	    WXS.hg38 t n 	    RNA.hg38 ttt  
+C3N-00339	UCEC	    WGS.hg19 T N 	    WXS.hg19 T N 	    RNA.fq TT  	    miRNA.fq t  	    WGS.hg38 t n 	    WXS.hg38 t n 	    RNA.hg38 ttt  
+C3N-00340	UCEC	    WGS.hg19 T N 	    WXS.hg19 T N 	    RNA.fq TT  	    miRNA.fq t  	    WGS.hg38 t n 	    WXS.hg38 t n 	    RNA.hg38 ttt  
+C3N-00377	UCEC	    WGS.hg19 t n 	    WXS.hg19 T N 	    RNA.fq TT  	    miRNA.fq t  	    WGS.hg38 t n 	    WXS.hg38 t n 	    RNA.hg38 ttt  
+C3N-00379	UCEC	    WGS.hg19 T N 	    WXS.hg19 T N 	    RNA.fq TT  	    miRNA.fq t  	    WGS.hg38 t n 	    WXS.hg38 t n 	    RNA.hg38 ttt  
+C3N-00380	CCRCC	    WGS.hg19 t n 	    WXS.hg19 t n 	    RNA.fq tt  	    miRNA.fq t  	    WGS.hg38 t n 	    WXS.hg38 t n 	    RNA.hg38 ttt  
+C3N-00382	CM	    WGS.hg19 t n 	    WXS.hg19 t n 	    RNA.fq tt  	    miRNA.fq   	    WGS.hg38 t n 	    WXS.hg38 t n 	    RNA.hg38 ttt  
+C3N-00383	UCEC	    WGS.hg19 T N a	    WXS.hg19 T N A	    RNA.fq TT  AA	    miRNA.fq T  a	    WGS.hg38 t n a	    WXS.hg38 t n a	    RNA.hg38 ttt  aaa
+C3N-00384	CM	    WGS.hg19 t n a	    WXS.hg19 t n a	    RNA.fq tt  aa	    miRNA.fq   a	    WGS.hg38 t n a	    WXS.hg38 t n a	    RNA.hg38 ttt  aaa
+C3N-00385	CM	    WGS.hg19 t n 	    WXS.hg19 t n 	    RNA.fq tt  	    miRNA.fq   	    WGS.hg38 t n 	    WXS.hg38 t n 	    RNA.hg38 ttt  
+C3N-00386	UCEC	    WGS.hg19 T N 	    WXS.hg19 T N 	    RNA.fq TT  	    miRNA.fq T  	    WGS.hg38 t n 	    WXS.hg38 t n 	    RNA.hg38 ttt  
+C3N-00388	UCEC	    WGS.hg19 t n 	    WXS.hg19 T N 	    RNA.fq TT  	    miRNA.fq T  	    WGS.hg38 t n 	    WXS.hg38 t n 	    RNA.hg38 ttt  
+C3N-00389	UCEC	    WGS.hg19 T N 	    WXS.hg19 T N 	    RNA.fq TT  	    miRNA.fq T  	    WGS.hg38 t n 	    WXS.hg38 t n 	    RNA.hg38 ttt  
+C3N-00390	CCRCC	    WGS.hg19 t n a	    WXS.hg19 t n a	    RNA.fq tt  aa	    miRNA.fq T  a	    WGS.hg38 t n a	    WXS.hg38 t n a	    RNA.hg38 ttt  aaa
+C3N-00432	CM	    WGS.hg19 t n 	    WXS.hg19 t n a	    RNA.fq tt  aa	    miRNA.fq t  	    WGS.hg38 t n 	    WXS.hg38 t n a	    RNA.hg38 ttt  aaa
+C3N-00433	LUAD	    WGS.hg19 t n a	    WXS.hg19 t n a	    RNA.fq tt  aa	    miRNA.fq T  	    WGS.hg38 t n a	    WXS.hg38 t n a	    RNA.hg38 ttt  aaa
+C3N-00434	CM	    WGS.hg19 t n a	    WXS.hg19 t n a	    RNA.fq tt  aa	    miRNA.fq t  a	    WGS.hg38 t n a	    WXS.hg38 t n a	    RNA.hg38 ttt  aaa
+C3N-00435	CCRCC	    WGS.hg19 t n a	    WXS.hg19 t n a	    RNA.fq tt  aa	    miRNA.fq T  a	    WGS.hg38 t n a	    WXS.hg38 t n a	    RNA.hg38 ttt  aaa
+C3N-00436	PDA	    WGS.hg19 t n a	    WXS.hg19 t n a	    RNA.fq tt  aa	    miRNA.fq t  a	    WGS.hg38 t n a	    WXS.hg38 t n a	    RNA.hg38 ttt  aaa
+C3N-00437	CCRCC	    WGS.hg19 t n a	    WXS.hg19 t n a	    RNA.fq tt  	    miRNA.fq T  	    WGS.hg38 t n a	    WXS.hg38 t n a	    RNA.hg38 ttt  
+C3N-00466	AML	    WGS.hg19   	    WXS.hg19   	    RNA.fq   	    miRNA.fq   	    WGS.hg38   	    WXS.hg38   	    RNA.hg38   
+C3N-00491	CCRCC	    WGS.hg19 t n a	    WXS.hg19 t n a	    RNA.fq tt  aa	    miRNA.fq t  a	    WGS.hg38 t n a	    WXS.hg38 t n a	    RNA.hg38 ttt  aaa
+C3N-00492	CCRCC	    WGS.hg19 t n a	    WXS.hg19 t n a	    RNA.fq tt  	    miRNA.fq t  	    WGS.hg38 t n a	    WXS.hg38 t n a	    RNA.hg38 ttt  
+C3N-00494	CCRCC	    WGS.hg19 t n a	    WXS.hg19 t n a	    RNA.fq tt  aa	    miRNA.fq t  a	    WGS.hg38 t n a	    WXS.hg38 t n a	    RNA.hg38 ttt  aaa
+C3N-00495	CCRCC	    WGS.hg19 T N a	    WXS.hg19 T N A	    RNA.fq TT  AA	    miRNA.fq t  a	    WGS.hg38 t n a	    WXS.hg38 t n a	    RNA.hg38 ttt  aaa
+C3N-00497	LSCC	    WGS.hg19 t n a	    WXS.hg19 t n a	    RNA.fq tt  aa	    miRNA.fq   a	    WGS.hg38 t n a	    WXS.hg38 t n a	    RNA.hg38 ttt  aaa
+C3N-00498	HNSCC	    WGS.hg19 t n 	    WXS.hg19 t n 	    RNA.fq tt  aa	    miRNA.fq   	    WGS.hg38 t n 	    WXS.hg38 t n 	    RNA.hg38 ttt  aaa
+C3N-00511	PDA	    WGS.hg19 t n 	    WXS.hg19 t n 	    RNA.fq tt  	    miRNA.fq t  	    WGS.hg38 t n 	    WXS.hg38 t n 	    RNA.hg38 ttt  
+C3N-00512	PDA	    WGS.hg19 t n a	    WXS.hg19 t n a	    RNA.fq tt  	    miRNA.fq t  	    WGS.hg38 t n a	    WXS.hg38 t n a	    RNA.hg38 ttt  
+C3N-00513	PDA	    WGS.hg19 t n a	    WXS.hg19 t n a	    RNA.fq tt  	    miRNA.fq t  	    WGS.hg38 t n a	    WXS.hg38 t n a	    RNA.hg38 ttt  
+C3N-00514	PDA	    WGS.hg19 t n a	    WXS.hg19 t n a	    RNA.fq tt  	    miRNA.fq t  	    WGS.hg38 t n a	    WXS.hg38 t n a	    RNA.hg38 ttt  
+C3N-00516	PDA	    WGS.hg19 t n 	    WXS.hg19 t n 	    RNA.fq tt  	    miRNA.fq t  	    WGS.hg38 t n 	    WXS.hg38 t n 	    RNA.hg38 ttt  
+C3N-00517	PDA	    WGS.hg19 t n a	    WXS.hg19 t n a	    RNA.fq tt  aa	    miRNA.fq t  a	    WGS.hg38 t n a	    WXS.hg38 t n a	    RNA.hg38 ttt  aaa
+C3N-00518	PDA	    WGS.hg19 t n a	    WXS.hg19 t n a	    RNA.fq tt  aa	    miRNA.fq t  a	    WGS.hg38 t n a	    WXS.hg38 t n a	    RNA.hg38 ttt  aaa
+C3N-00519	HNSCC	    WGS.hg19 t n a	    WXS.hg19 t n a	    RNA.fq tt  aa	    miRNA.fq T  a	    WGS.hg38 t n a	    WXS.hg38 t n a	    RNA.hg38 ttt  aaa
+C3N-00545	LUAD	    WGS.hg19 tt n a	    WXS.hg19 tt n a	    RNA.fq tttt  aa	    miRNA.fq t  a	    WGS.hg38 tt n a	    WXS.hg38 tt n a	    RNA.hg38 tttttt  aaa
+C3N-00546	LUAD	    WGS.hg19 t n a	    WXS.hg19 t n a	    RNA.fq tt  aa	    miRNA.fq t  a	    WGS.hg38 t n a	    WXS.hg38 t n a	    RNA.hg38 ttt  aaa
+C3N-00547	LUAD	    WGS.hg19 t n a	    WXS.hg19 t n a	    RNA.fq tt  aa	    miRNA.fq t  a	    WGS.hg38 t n a	    WXS.hg38 t n a	    RNA.hg38 ttt  aaa
+C3N-00549	LUAD	    WGS.hg19 t n a	    WXS.hg19 t n a	    RNA.fq tt  aa	    miRNA.fq t  a	    WGS.hg38 t n a	    WXS.hg38 t n a	    RNA.hg38 ttt  aaa
+C3N-00550	LUAD	    WGS.hg19 t n a	    WXS.hg19 t n a	    RNA.fq tt  aa	    miRNA.fq t  a	    WGS.hg38 t n a	    WXS.hg38 t n a	    RNA.hg38 ttt  aaa
+C3N-00551	LUAD	    WGS.hg19 t n a	    WXS.hg19 T N A	    RNA.fq TT  AA	    miRNA.fq t  a	    WGS.hg38 t n a	    WXS.hg38 t n a	    RNA.hg38 ttt  aaa
+C3N-00552	LUAD	    WGS.hg19 T N a	    WXS.hg19 T N A	    RNA.fq TT  AA	    miRNA.fq t  a	    WGS.hg38 t n a	    WXS.hg38 t n a	    RNA.hg38 ttt  aaa
+C3N-00555	LSCC	    WGS.hg19 t n a	    WXS.hg19 t n a	    RNA.fq tt  aa	    miRNA.fq t  a	    WGS.hg38 t n a	    WXS.hg38 t n a	    RNA.hg38 ttt  aaa
+C3N-00556	LUAD	    WGS.hg19 t n a	    WXS.hg19 t n a	    RNA.fq tt  aa	    miRNA.fq t  a	    WGS.hg38 t n a	    WXS.hg38 t n a	    RNA.hg38 ttt  aaa
+C3N-00559	LUAD	    WGS.hg19 t n a	    WXS.hg19 t n a	    RNA.fq tt  aa	    miRNA.fq t  a	    WGS.hg38 t n a	    WXS.hg38 t n a	    RNA.hg38 ttt  aaa
+C3N-00560	LUAD	    WGS.hg19 t n a	    WXS.hg19 t n a	    RNA.fq tt  aa	    miRNA.fq t  a	    WGS.hg38 t n a	    WXS.hg38 t n a	    RNA.hg38 ttt  aaa
+C3N-00572	LUAD	    WGS.hg19 T N a	    WXS.hg19 T N A	    RNA.fq TT  AA	    miRNA.fq t  a	    WGS.hg38 t n a	    WXS.hg38 t n a	    RNA.hg38 ttt  aaa
+C3N-00573	CCRCC	    WGS.hg19 T N a	    WXS.hg19 T N A	    RNA.fq TT  AA	    miRNA.fq t  a	    WGS.hg38 t n a	    WXS.hg38 t n a	    RNA.hg38 ttt  aaa
+C3N-00574	LUAD	    WGS.hg19 t n a	    WXS.hg19 t n a	    RNA.fq tt  aa	    miRNA.fq T  a	    WGS.hg38 t n a	    WXS.hg38 t n a	    RNA.hg38 ttt  aaa
+C3N-00577	CCRCC	    WGS.hg19 t n a	    WXS.hg19 T N A	    RNA.fq TT  AA	    miRNA.fq t  a	    WGS.hg38 t n a	    WXS.hg38 t n a	    RNA.hg38 ttt  aaa
+C3N-00578	LUAD	    WGS.hg19 T N a	    WXS.hg19 T N A	    RNA.fq TT  AA	    miRNA.fq t  a	    WGS.hg38 t n a	    WXS.hg38 t n a	    RNA.hg38 ttt  aaa
+C3N-00579	LUAD	    WGS.hg19 t n a	    WXS.hg19 t n a	    RNA.fq tt  aa	    miRNA.fq t  a	    WGS.hg38 t n a	    WXS.hg38 t n a	    RNA.hg38 ttt  aaa
+C3N-00580	LUAD	    WGS.hg19 t n a	    WXS.hg19 T N A	    RNA.fq TT  AA	    miRNA.fq   a	    WGS.hg38 t n a	    WXS.hg38 t n a	    RNA.hg38 ttt  aaa
+C3N-00645	SAR	    WGS.hg19 t n a	    WXS.hg19 t n a	    RNA.fq tt  aa	    miRNA.fq T  a	    WGS.hg38 t n a	    WXS.hg38 t n a	    RNA.hg38 ttt  aaa
+C3N-00646	CCRCC	    WGS.hg19 t n a	    WXS.hg19 t n a	    RNA.fq tt  aa	    miRNA.fq t  a	    WGS.hg38 t n a	    WXS.hg38 t n a	    RNA.hg38 ttt  aaa
+C3N-00661	GBM	    WGS.hg19 t n 	    WXS.hg19 t n 	    RNA.fq tt  	    miRNA.fq T  	    WGS.hg38 t n 	    WXS.hg38 t n 	    RNA.hg38 ttt  
+C3N-00662	GBM	    WGS.hg19 t n 	    WXS.hg19 t n 	    RNA.fq tt  	    miRNA.fq T  	    WGS.hg38 t n 	    WXS.hg38 t n 	    RNA.hg38 ttt  
+C3N-00663	GBM	    WGS.hg19 t n 	    WXS.hg19 t n 	    RNA.fq tt  	    miRNA.fq T  	    WGS.hg38 t n 	    WXS.hg38 t n 	    RNA.hg38 ttt  
+C3N-00665	GBM	    WGS.hg19 t n 	    WXS.hg19 t n 	    RNA.fq tt  	    miRNA.fq t  	    WGS.hg38 t n 	    WXS.hg38 t n 	    RNA.hg38 ttt  
+C3N-00704	LUAD	    WGS.hg19 t n 	    WXS.hg19 t n 	    RNA.fq tt  aa	    miRNA.fq t  a	    WGS.hg38 t n 	    WXS.hg38 t n 	    RNA.hg38 ttt  aaa
+C3N-00729	UCEC	    WGS.hg19 T N 	    WXS.hg19 T N 	    RNA.fq TT  	    miRNA.fq t  	    WGS.hg38 t n 	    WXS.hg38 t n 	    RNA.hg38 ttt  
+C3N-00732	UCEC	    WGS.hg19 t n 	    WXS.hg19 t n 	    RNA.fq tt  	    miRNA.fq T  	    WGS.hg38 t n 	    WXS.hg38 t n 	    RNA.hg38 ttt  
+C3N-00733	CCRCC	    WGS.hg19 t n a	    WXS.hg19 T N A	    RNA.fq TT  AA	    miRNA.fq T  a	    WGS.hg38 t n a	    WXS.hg38 t n a	    RNA.hg38 ttt  aaa
+C3N-00734	UCEC	    WGS.hg19 T N 	    WXS.hg19 T N 	    RNA.fq TT  	    miRNA.fq t  	    WGS.hg38 t n 	    WXS.hg38 t n 	    RNA.hg38 ttt  
+C3N-00737	LUAD	    WGS.hg19 t n a	    WXS.hg19 T N A	    RNA.fq TT  AA	    miRNA.fq T  a	    WGS.hg38 t n a	    WXS.hg38 t n a	    RNA.hg38 ttt  aaa
+C3N-00738	LUAD	    WGS.hg19 t n a	    WXS.hg19 t n a	    RNA.fq tt  aa	    miRNA.fq t  a	    WGS.hg38 t n a	    WXS.hg38 t n a	    RNA.hg38 ttt  aaa
+C3N-00743	UCEC	    WGS.hg19 T N 	    WXS.hg19 T N 	    RNA.fq TT  	    miRNA.fq t  	    WGS.hg38 t n 	    WXS.hg38 t n 	    RNA.hg38 ttt  
+C3N-00822	HNSCC	    WGS.hg19 t n 	    WXS.hg19 t n 	    RNA.fq tt  	    miRNA.fq   	    WGS.hg38 t n 	    WXS.hg38 t n 	    RNA.hg38 ttt  
+C3N-00825	HNSCC	    WGS.hg19 t n 	    WXS.hg19 t n 	    RNA.fq tt  	    miRNA.fq T  	    WGS.hg38 t n 	    WXS.hg38 t n 	    RNA.hg38 ttt  
+C3N-00828	HNSCC	    WGS.hg19 t n 	    WXS.hg19 t n 	    RNA.fq tt  	    miRNA.fq T  	    WGS.hg38 t n 	    WXS.hg38 t n 	    RNA.hg38 ttt  
+C3N-00829	HNSCC	    WGS.hg19 t n 	    WXS.hg19 t n 	    RNA.fq tt  	    miRNA.fq T  	    WGS.hg38 t n 	    WXS.hg38 t n 	    RNA.hg38 ttt  
+C3N-00831	CCRCC	    WGS.hg19 T N a	    WXS.hg19 T N A	    RNA.fq TT  AA	    miRNA.fq t  a	    WGS.hg38 t n a	    WXS.hg38 t n a	    RNA.hg38 ttt  aaa
+C3N-00832	CCRCC	    WGS.hg19 t n 	    WXS.hg19 T N 	    RNA.fq TT  	    miRNA.fq t  	    WGS.hg38 t n 	    WXS.hg38 t n 	    RNA.hg38 ttt  
+C3N-00834	CCRCC	    WGS.hg19 T N a	    WXS.hg19 T N A	    RNA.fq TT  AA	    miRNA.fq t  a	    WGS.hg38 t n a	    WXS.hg38 t n a	    RNA.hg38 ttt  aaa
+C3N-00836	UCEC	    WGS.hg19 T N 	    WXS.hg19 T N 	    RNA.fq TT  	    miRNA.fq T  	    WGS.hg38 t n 	    WXS.hg38 t n 	    RNA.hg38 ttt  
+C3N-00839	LSCC	    WGS.hg19 t n 	    WXS.hg19 t n 	    RNA.fq tt  	    miRNA.fq T  	    WGS.hg38 t n 	    WXS.hg38 t n 	    RNA.hg38 ttt  
+C3N-00843	SAR	    WGS.hg19 t n a	    WXS.hg19 t n a	    RNA.fq tt  aa	    miRNA.fq t  a	    WGS.hg38 t n a	    WXS.hg38 t n a	    RNA.hg38 ttt  aaa
+C3N-00846	HNSCC	    WGS.hg19 t n 	    WXS.hg19 t n 	    RNA.fq tt  	    miRNA.fq t  	    WGS.hg38 t n 	    WXS.hg38 t n 	    RNA.hg38 ttt  
+C3N-00847	UCEC	    WGS.hg19 t n 	    WXS.hg19 T N 	    RNA.fq TT  	    miRNA.fq T  	    WGS.hg38 t n 	    WXS.hg38 t n 	    RNA.hg38 ttt  
+C3N-00848	UCEC	    WGS.hg19 t n 	    WXS.hg19 T N 	    RNA.fq TT  	    miRNA.fq T  	    WGS.hg38 t n 	    WXS.hg38 t n 	    RNA.hg38 ttt  
+C3N-00850	UCEC	    WGS.hg19 T N 	    WXS.hg19 T N 	    RNA.fq TT  	    miRNA.fq t  	    WGS.hg38 t n 	    WXS.hg38 t n 	    RNA.hg38 ttt  
+C3N-00852	CCRCC	    WGS.hg19 t n a	    WXS.hg19 t n a	    RNA.fq tt  aa	    miRNA.fq T  a	    WGS.hg38 t n a	    WXS.hg38 t n a	    RNA.hg38 ttt  aaa
+C3N-00853	SAR	    WGS.hg19 t n a	    WXS.hg19 t n a	    RNA.fq tt  aa	    miRNA.fq T  a	    WGS.hg38 t n a	    WXS.hg38 t n a	    RNA.hg38 ttt  aaa
+C3N-00855	SAR	    WGS.hg19 t n a	    WXS.hg19 t n a	    RNA.fq tt  aa	    miRNA.fq T  a	    WGS.hg38 t n a	    WXS.hg38 t n a	    RNA.hg38 ttt  aaa
+C3N-00857	HNSCC	    WGS.hg19 t n 	    WXS.hg19 t n 	    RNA.fq tt  	    miRNA.fq T  	    WGS.hg38 t n 	    WXS.hg38 t n 	    RNA.hg38 ttt  
+C3N-00858	UCEC	    WGS.hg19 T N a	    WXS.hg19 T N A	    RNA.fq TT  AA	    miRNA.fq t  a	    WGS.hg38 t n a	    WXS.hg38 t n a	    RNA.hg38 ttt  aaa
+C3N-00866	UCEC	    WGS.hg19 T N 	    WXS.hg19 T N 	    RNA.fq TT  AA	    miRNA.fq T  a	    WGS.hg38 t n 	    WXS.hg38 t n 	    RNA.hg38 ttt  aaa
+C3N-00871	HNSCC	    WGS.hg19 t n 	    WXS.hg19 t n 	    RNA.fq tt  	    miRNA.fq T  	    WGS.hg38 t n 	    WXS.hg38 t n 	    RNA.hg38 ttt  
+C3N-00880	UCEC	    WGS.hg19 T N 	    WXS.hg19 T N 	    RNA.fq TT  	    miRNA.fq t  	    WGS.hg38 t n 	    WXS.hg38 t n 	    RNA.hg38 ttt  
+C3N-00953	CCRCC	    WGS.hg19 T N 	    WXS.hg19 T N 	    RNA.fq TT  	    miRNA.fq t  	    WGS.hg38 t n 	    WXS.hg38 t n 	    RNA.hg38 ttt  
+C3N-00954	PDA	    WGS.hg19 t n a	    WXS.hg19 t n a	    RNA.fq tt  aa	    miRNA.fq t  a	    WGS.hg38 t n a	    WXS.hg38 t n a	    RNA.hg38 ttt  aaa
+C3N-00957	PDA	    WGS.hg19 t n a	    WXS.hg19 t n a	    RNA.fq tt  	    miRNA.fq T  	    WGS.hg38 t n a	    WXS.hg38 t n a	    RNA.hg38 ttt  
+C3N-00959	LUAD	    WGS.hg19 t n a	    WXS.hg19 t n a	    RNA.fq tt  aa	    miRNA.fq t  a	    WGS.hg38 t n a	    WXS.hg38 t n a	    RNA.hg38 ttt  aaa
+C3N-01001	UCEC	    WGS.hg19 T N 	    WXS.hg19 T N 	    RNA.fq TT  	    miRNA.fq t  	    WGS.hg38 t n 	    WXS.hg38 t n 	    RNA.hg38 ttt  
+C3N-01003	UCEC	    WGS.hg19 T N 	    WXS.hg19 T N 	    RNA.fq TT  AA	    miRNA.fq t  a	    WGS.hg38 t n 	    WXS.hg38 t n 	    RNA.hg38 ttt  aaa
+C3N-01007	UCEC	    WGS.hg19 t n 	    WXS.hg19 t n 	    RNA.fq tt  	    miRNA.fq T  	    WGS.hg38 t n 	    WXS.hg38 t n 	    RNA.hg38 ttt  
+C3N-01008	UCEC	    WGS.hg19 t n 	    WXS.hg19 t n 	    RNA.fq tt  	    miRNA.fq T  	    WGS.hg38 t n 	    WXS.hg38 t n 	    RNA.hg38 ttt  
+C3N-01011	PDA	    WGS.hg19 t n a	    WXS.hg19 t n a	    RNA.fq tt  aa	    miRNA.fq t  a	    WGS.hg38 t n a	    WXS.hg38 t n a	    RNA.hg38 ttt  aaa
+C3N-01016	LUAD	    WGS.hg19 t n a	    WXS.hg19 T N A	    RNA.fq TT  AA	    miRNA.fq t  a	    WGS.hg38 t n a	    WXS.hg38 t n a	    RNA.hg38 ttt  aaa
+C3N-01017	LSCC	    WGS.hg19 t n a	    WXS.hg19 t n a	    RNA.fq tt  aa	    miRNA.fq   a	    WGS.hg38 t n a	    WXS.hg38 t n a	    RNA.hg38 ttt  aaa
+C3N-01018	LSCC	    WGS.hg19 t n a	    WXS.hg19 t n a	    RNA.fq tt  aa	    miRNA.fq t  a	    WGS.hg38 t n a	    WXS.hg38 t n a	    RNA.hg38 ttt  aaa
+C3N-01019	LUAD	    WGS.hg19 t n a	    WXS.hg19 t n a	    RNA.fq tt  aa	    miRNA.fq t  a	    WGS.hg38 t n a	    WXS.hg38 t n a	    RNA.hg38 ttt  aaa
+C3N-01020	LUAD	    WGS.hg19 t n a	    WXS.hg19 t n a	    RNA.fq tt  aa	    miRNA.fq   	    WGS.hg38   	    WXS.hg38   	    RNA.hg38   
+C3N-01021	LUAD	    WGS.hg19 t n a	    WXS.hg19 t n a	    RNA.fq tt  aa	    miRNA.fq t  a	    WGS.hg38 t n a	    WXS.hg38 t n a	    RNA.hg38 ttt  aaa
+C3N-01022	LUAD	    WGS.hg19 t n a	    WXS.hg19 t n a	    RNA.fq tt  aa	    miRNA.fq t  a	    WGS.hg38 t n a	    WXS.hg38 t n a	    RNA.hg38 ttt  aaa
+C3N-01023	LUAD	    WGS.hg19 t n a	    WXS.hg19 t n a	    RNA.fq tt  aa	    miRNA.fq t  a	    WGS.hg38 t n a	    WXS.hg38 t n a	    RNA.hg38 ttt  aaa
+C3N-01024	LUAD	    WGS.hg19 t n a	    WXS.hg19 t n a	    RNA.fq tt  aa	    miRNA.fq t  a	    WGS.hg38 t n a	    WXS.hg38 t n a	    RNA.hg38 ttt  aaa
+C3N-01025	LSCC	    WGS.hg19 t n a	    WXS.hg19 t n a	    RNA.fq tt  aa	    miRNA.fq t  a	    WGS.hg38 t n a	    WXS.hg38 t n a	    RNA.hg38 ttt  aaa
+C3N-01028	LSCC	    WGS.hg19 t n a	    WXS.hg19 t n a	    RNA.fq tt  aa	    miRNA.fq T  a	    WGS.hg38 t n a	    WXS.hg38 t n a	    RNA.hg38 ttt  aaa
+C3N-01030	LUAD	    WGS.hg19 T N a	    WXS.hg19 T N A	    RNA.fq TT  AA	    miRNA.fq T  a	    WGS.hg38 t n a	    WXS.hg38 t n a	    RNA.hg38 ttt  aaa
+C3N-01071	LUAD	    WGS.hg19 t n a	    WXS.hg19 t n a	    RNA.fq tt  aa	    miRNA.fq t  a	    WGS.hg38 t n a	    WXS.hg38 t n a	    RNA.hg38 ttt  aaa
+C3N-01072	LUAD	    WGS.hg19 t n a	    WXS.hg19 t n a	    RNA.fq tt  aa	    miRNA.fq T  a	    WGS.hg38 t n a	    WXS.hg38 t n a	    RNA.hg38 ttt  aaa
+C3N-01074	LUAD	    WGS.hg19 t n 	    WXS.hg19 t n 	    RNA.fq tt  	    miRNA.fq t  	    WGS.hg38 t n 	    WXS.hg38 t n 	    RNA.hg38 ttt  
+C3N-01165	PDA	    WGS.hg19 t n 	    WXS.hg19 t n 	    RNA.fq tt  	    miRNA.fq T  	    WGS.hg38 t n 	    WXS.hg38 t n 	    RNA.hg38 ttt  
+C3N-01166	PDA	    WGS.hg19 t n 	    WXS.hg19 t n 	    RNA.fq tt  	    miRNA.fq T  	    WGS.hg38 t n 	    WXS.hg38 t n 	    RNA.hg38 ttt  
+C3N-01167	PDA	    WGS.hg19 t n 	    WXS.hg19 t n 	    RNA.fq tt  	    miRNA.fq t  	    WGS.hg38 t n 	    WXS.hg38 t n 	    RNA.hg38 ttt  
+C3N-01168	PDA	    WGS.hg19 t n 	    WXS.hg19 t n 	    RNA.fq tt  	    miRNA.fq T  	    WGS.hg38 t n 	    WXS.hg38 t n 	    RNA.hg38 ttt  
+C3N-01169	PDA	    WGS.hg19 t n 	    WXS.hg19 t n 	    RNA.fq tt  	    miRNA.fq T  	    WGS.hg38 t n 	    WXS.hg38 t n 	    RNA.hg38 ttt  
+C3N-01171	UCEC	    WGS.hg19 t n 	    WXS.hg19 t n 	    RNA.fq tt  	    miRNA.fq T  	    WGS.hg38 t n 	    WXS.hg38 t n 	    RNA.hg38 ttt  
+C3N-01172	UCEC	    WGS.hg19 t n 	    WXS.hg19 t n 	    RNA.fq tt  	    miRNA.fq T  	    WGS.hg38 t n 	    WXS.hg38 t n 	    RNA.hg38 ttt  
+C3N-01175	CCRCC	    WGS.hg19 T N a	    WXS.hg19 T N a	    RNA.fq TT  AA	    miRNA.fq t  a	    WGS.hg38 t n a	    WXS.hg38 t n a	    RNA.hg38 ttt  aaa
+C3N-01176	CCRCC	    WGS.hg19 T N a	    WXS.hg19 T N A	    RNA.fq TT  AA	    miRNA.fq t  a	    WGS.hg38 t n a	    WXS.hg38 t n a	    RNA.hg38 ttt  aaa
+C3N-01178	CCRCC	    WGS.hg19 T N a	    WXS.hg19 T N A	    RNA.fq TT  AA	    miRNA.fq t  a	    WGS.hg38 t n a	    WXS.hg38 t n a	    RNA.hg38 ttt  aaa
+C3N-01179	CCRCC	    WGS.hg19 t n a	    WXS.hg19 T N A	    RNA.fq TT  AA	    miRNA.fq t  a	    WGS.hg38 t n a	    WXS.hg38 t n a	    RNA.hg38 ttt  aaa
+C3N-01180	CCRCC	    WGS.hg19 T N 	    WXS.hg19 T N 	    RNA.fq TT  	    miRNA.fq t  	    WGS.hg38 t n 	    WXS.hg38 t n 	    RNA.hg38 ttt  
+C3N-01192	GBM	    WGS.hg19 t n 	    WXS.hg19 t n 	    RNA.fq tt  	    miRNA.fq T  	    WGS.hg38 t n 	    WXS.hg38 t n 	    RNA.hg38 ttt  
+C3N-01194	LSCC	    WGS.hg19 t n a	    WXS.hg19 t n a	    RNA.fq tt  aa	    miRNA.fq t  a	    WGS.hg38 t n a	    WXS.hg38 t n a	    RNA.hg38 ttt  aaa
+C3N-01196	GBM	    WGS.hg19 t n 	    WXS.hg19 t n 	    RNA.fq tt  	    miRNA.fq t  	    WGS.hg38 t n 	    WXS.hg38 t n 	    RNA.hg38 ttt  
+C3N-01197	GBM	    WGS.hg19 t n 	    WXS.hg19 t n 	    RNA.fq tt  	    miRNA.fq t  	    WGS.hg38 t n 	    WXS.hg38 t n 	    RNA.hg38 ttt  
+C3N-01200	CCRCC	    WGS.hg19 T N a	    WXS.hg19 T N A	    RNA.fq TT  AA	    miRNA.fq   a	    WGS.hg38 t n a	    WXS.hg38 t n a	    RNA.hg38 ttt  aaa
+C3N-01211	UCEC	    WGS.hg19 T N 	    WXS.hg19 T N 	    RNA.fq TT  	    miRNA.fq t  	    WGS.hg38 t n 	    WXS.hg38 t n 	    RNA.hg38 ttt  
+C3N-01212	UCEC	    WGS.hg19 T N 	    WXS.hg19 T N 	    RNA.fq TT  	    miRNA.fq t  	    WGS.hg38 t n 	    WXS.hg38 t n 	    RNA.hg38 ttt  
+C3N-01213	CCRCC	    WGS.hg19 t n 	    WXS.hg19 t n 	    RNA.fq tt  	    miRNA.fq t  	    WGS.hg38 t n 	    WXS.hg38 t n 	    RNA.hg38 ttt  
+C3N-01214	CCRCC	    WGS.hg19 T N a	    WXS.hg19 T N A	    RNA.fq TT  AA	    miRNA.fq t  a	    WGS.hg38 t n a	    WXS.hg38 t n a	    RNA.hg38 ttt  aaa
+C3N-01217	UCEC	    WGS.hg19 T N 	    WXS.hg19 T N 	    RNA.fq TT  	    miRNA.fq t  	    WGS.hg38 t n 	    WXS.hg38 t n 	    RNA.hg38 ttt  
+C3N-01219	UCEC	    WGS.hg19 T N 	    WXS.hg19 T N 	    RNA.fq TT  	    miRNA.fq t  	    WGS.hg38 t n 	    WXS.hg38 t n 	    RNA.hg38 ttt  
+C3N-01220	CCRCC	    WGS.hg19 t n a	    WXS.hg19 T N A	    RNA.fq TT  AA	    miRNA.fq t  a	    WGS.hg38 t n a	    WXS.hg38 t n a	    RNA.hg38 ttt  aaa
+C3N-01261	CCRCC	    WGS.hg19 T N a	    WXS.hg19 T N A	    RNA.fq TT  AA	    miRNA.fq t  a	    WGS.hg38 t n a	    WXS.hg38 t n a	    RNA.hg38 ttt  aaa
+C3N-01267	UCEC	    WGS.hg19 T N 	    WXS.hg19 T N 	    RNA.fq TT  	    miRNA.fq t  	    WGS.hg38 t n 	    WXS.hg38 t n 	    RNA.hg38 ttt  
+C3N-01334	GBM	    WGS.hg19 t n 	    WXS.hg19 t n 	    RNA.fq tt  	    miRNA.fq t  	    WGS.hg38 t n 	    WXS.hg38 t n 	    RNA.hg38 ttt  
+C3N-01337	HNSCC	    WGS.hg19 t n a	    WXS.hg19 t n a	    RNA.fq tt  aa	    miRNA.fq T  a	    WGS.hg38 t n a	    WXS.hg38 t n a	    RNA.hg38 ttt  aaa
+C3N-01338	HNSCC	    WGS.hg19 t n 	    WXS.hg19 t n a	    RNA.fq tt  aa	    miRNA.fq T  a	    WGS.hg38 t n 	    WXS.hg38 t n a	    RNA.hg38 ttt  aaa
+C3N-01339	HNSCC	    WGS.hg19 t n 	    WXS.hg19 t n 	    RNA.fq tt  	    miRNA.fq T  	    WGS.hg38 t n 	    WXS.hg38 t n 	    RNA.hg38 ttt  
+C3N-01341	UCEC	    WGS.hg19 t n 	    WXS.hg19 t n 	    RNA.fq tt  	    miRNA.fq T  	    WGS.hg38 t n 	    WXS.hg38 t n 	    RNA.hg38 ttt  
+C3N-01342	UCEC	    WGS.hg19 t n 	    WXS.hg19 t n 	    RNA.fq tt  	    miRNA.fq t  	    WGS.hg38 t n 	    WXS.hg38 t n 	    RNA.hg38 ttt  
+C3N-01346	UCEC	    WGS.hg19 t n a	    WXS.hg19 t n a	    RNA.fq tt  aa	    miRNA.fq t  a	    WGS.hg38 t n a	    WXS.hg38 t n a	    RNA.hg38 ttt  aaa
+C3N-01349	UCEC	    WGS.hg19 t n 	    WXS.hg19 t n 	    RNA.fq tt  	    miRNA.fq t  	    WGS.hg38 t n 	    WXS.hg38 t n 	    RNA.hg38 ttt  
+C3N-01361	CCRCC	    WGS.hg19 T N a	    WXS.hg19 T N A	    RNA.fq TT  AA	    miRNA.fq t  a	    WGS.hg38 t n a	    WXS.hg38 t n a	    RNA.hg38 ttt  aaa
+C3N-01364	GBM	    WGS.hg19 t n 	    WXS.hg19 t n 	    RNA.fq tt  	    miRNA.fq T  	    WGS.hg38 t n 	    WXS.hg38 t n 	    RNA.hg38 ttt  
+C3N-01366	GBM	    WGS.hg19 t n 	    WXS.hg19 t n 	    RNA.fq tt  	    miRNA.fq T  	    WGS.hg38 t n 	    WXS.hg38 t n 	    RNA.hg38 ttt  
+C3N-01367	GBM	    WGS.hg19 t n 	    WXS.hg19 t n 	    RNA.fq tt  	    miRNA.fq T  	    WGS.hg38 t n 	    WXS.hg38 t n 	    RNA.hg38 ttt  
+C3N-01368	GBM	    WGS.hg19 t n 	    WXS.hg19 t n 	    RNA.fq tt  	    miRNA.fq T  	    WGS.hg38 t n 	    WXS.hg38 t n 	    RNA.hg38 ttt  
+C3N-01369	GBM	    WGS.hg19 t n 	    WXS.hg19 t n 	    RNA.fq tt  	    miRNA.fq   	    WGS.hg38 t n 	    WXS.hg38 t n 	    RNA.hg38 ttt  
+C3N-01370	GBM	    WGS.hg19 t n 	    WXS.hg19 t n 	    RNA.fq tt  	    miRNA.fq t  	    WGS.hg38 t n 	    WXS.hg38 t n 	    RNA.hg38 ttt  
+C3N-01375	PDA	    WGS.hg19 t n 	    WXS.hg19 t n 	    RNA.fq tt  	    miRNA.fq t  	    WGS.hg38 t n 	    WXS.hg38 t n 	    RNA.hg38 ttt  
+C3N-01378	PDA	    WGS.hg19 t n 	    WXS.hg19 t n 	    RNA.fq tt  	    miRNA.fq t  	    WGS.hg38 t n 	    WXS.hg38 t n 	    RNA.hg38 ttt  
+C3N-01379	PDA	    WGS.hg19 t n 	    WXS.hg19 t n 	    RNA.fq tt  	    miRNA.fq t  	    WGS.hg38 t n 	    WXS.hg38 t n 	    RNA.hg38 ttt  
+C3N-01380	PDA	    WGS.hg19 t n 	    WXS.hg19 t n 	    RNA.fq tt  	    miRNA.fq t  	    WGS.hg38 t n 	    WXS.hg38 t n 	    RNA.hg38 ttt  
+C3N-01381	PDA	    WGS.hg19 t n 	    WXS.hg19 t n 	    RNA.fq tt  	    miRNA.fq T  	    WGS.hg38 t n 	    WXS.hg38 t n 	    RNA.hg38 ttt  
+C3N-01382	PDA	    WGS.hg19 t n 	    WXS.hg19 t n 	    RNA.fq tt  	    miRNA.fq T  	    WGS.hg38 t n 	    WXS.hg38 t n 	    RNA.hg38 ttt  
+C3N-01383	PDA	    WGS.hg19 t n 	    WXS.hg19 t n 	    RNA.fq tt  	    miRNA.fq t  	    WGS.hg38 t n 	    WXS.hg38 t n 	    RNA.hg38 ttt  
+C3N-01388	PDA	    WGS.hg19 t n 	    WXS.hg19 t n 	    RNA.fq tt  	    miRNA.fq t  	    WGS.hg38 t n 	    WXS.hg38 t n 	    RNA.hg38 ttt  
+C3N-01389	PDA	    WGS.hg19 t n 	    WXS.hg19 t n 	    RNA.fq tt  	    miRNA.fq t  	    WGS.hg38 t n 	    WXS.hg38 t n 	    RNA.hg38 ttt  
+C3N-01405	LUAD	    WGS.hg19 t n a	    WXS.hg19 T N A	    RNA.fq TT  AA	    miRNA.fq t  a	    WGS.hg38 t n a	    WXS.hg38 t n a	    RNA.hg38 ttt  aaa
+C3N-01408	LUAD	    WGS.hg19 t n a	    WXS.hg19 t n a	    RNA.fq tt  aa	    miRNA.fq t  a	    WGS.hg38 t n a	    WXS.hg38 t n a	    RNA.hg38 ttt  aaa
+C3N-01409	LUAD	    WGS.hg19 t n a	    WXS.hg19 t n a	    RNA.fq tt  aa	    miRNA.fq t  a	    WGS.hg38 t n a	    WXS.hg38 t n a	    RNA.hg38 ttt  aaa
+C3N-01410	LUAD	    WGS.hg19 T N a	    WXS.hg19 T N A	    RNA.fq TT  AA	    miRNA.fq t  a	    WGS.hg38 t n a	    WXS.hg38 t n a	    RNA.hg38 ttt  aaa
+C3N-01411	LSCC	    WGS.hg19 t n a	    WXS.hg19 t n a	    RNA.fq tt  aa	    miRNA.fq   a	    WGS.hg38 t n a	    WXS.hg38 t n a	    RNA.hg38 ttt  aaa
+C3N-01413	LUAD	    WGS.hg19 T N a	    WXS.hg19 T N A	    RNA.fq TT  AA	    miRNA.fq t  a	    WGS.hg38 t n a	    WXS.hg38 t n a	    RNA.hg38 ttt  aaa
+C3N-01414	LUAD	    WGS.hg19 t n a	    WXS.hg19 t n a	    RNA.fq tt  aa	    miRNA.fq t  a	    WGS.hg38 t n a	    WXS.hg38 t n a	    RNA.hg38 ttt  aaa
+C3N-01415	LUAD	    WGS.hg19 t n a	    WXS.hg19 t n a	    RNA.fq tt  aa	    miRNA.fq t  a	    WGS.hg38 t n a	    WXS.hg38 t n a	    RNA.hg38 ttt  aaa
+C3N-01416	LUAD	    WGS.hg19 t n a	    WXS.hg19 T N A	    RNA.fq TT  AA	    miRNA.fq t  a	    WGS.hg38 t n a	    WXS.hg38 t n a	    RNA.hg38 ttt  aaa
+C3N-01488	LUAD	    WGS.hg19 T N a	    WXS.hg19 T N A	    RNA.fq TT  AA	    miRNA.fq t  a	    WGS.hg38 t n a	    WXS.hg38 t n a	    RNA.hg38 ttt  aaa
+C3N-01489	LUAD	    WGS.hg19 t n a	    WXS.hg19 T N A	    RNA.fq TT  AA	    miRNA.fq t  a	    WGS.hg38 t n a	    WXS.hg38 t n a	    RNA.hg38 ttt  aaa
+C3N-01502	PDA	    WGS.hg19 t n 	    WXS.hg19 t n 	    RNA.fq tt  	    miRNA.fq t  	    WGS.hg38 t n 	    WXS.hg38 t n 	    RNA.hg38 ttt  
+C3N-01505	GBM	    WGS.hg19 t n 	    WXS.hg19 t n 	    RNA.fq tt  	    miRNA.fq T  	    WGS.hg38 t n 	    WXS.hg38 t n 	    RNA.hg38 ttt  
+C3N-01510	UCEC	    WGS.hg19 t n 	    WXS.hg19 T N 	    RNA.fq TT  	    miRNA.fq t  	    WGS.hg38 t n 	    WXS.hg38 t n 	    RNA.hg38 ttt  
+C3N-01515	GBM	    WGS.hg19 t n 	    WXS.hg19 t n 	    RNA.fq tt  	    miRNA.fq T  	    WGS.hg38 t n 	    WXS.hg38 t n 	    RNA.hg38 ttt  
+C3N-01517	GBM	    WGS.hg19 t n 	    WXS.hg19 t n 	    RNA.fq tt  	    miRNA.fq t  	    WGS.hg38 t n 	    WXS.hg38 t n 	    RNA.hg38 ttt  
+C3N-01518	GBM	    WGS.hg19 t n 	    WXS.hg19 t n 	    RNA.fq tt  	    miRNA.fq t  	    WGS.hg38 t n 	    WXS.hg38 t n 	    RNA.hg38 ttt  
+C3N-01520	UCEC	    WGS.hg19 T N 	    WXS.hg19 T N 	    RNA.fq TT  	    miRNA.fq   	    WGS.hg38 t n 	    WXS.hg38 t n 	    RNA.hg38 ttt  
+C3N-01521	UCEC	    WGS.hg19 t n 	    WXS.hg19 T N 	    RNA.fq TT  	    miRNA.fq t  	    WGS.hg38 t n 	    WXS.hg38 t n 	    RNA.hg38 ttt  
+C3N-01522	CCRCC	    WGS.hg19 t n a	    WXS.hg19 T N A	    RNA.fq TT  AA	    miRNA.fq t  a	    WGS.hg38 t n a	    WXS.hg38 t n a	    RNA.hg38 ttt  aaa
+C3N-01523	SAR	    WGS.hg19 t n a	    WXS.hg19 t n a	    RNA.fq tt  aa	    miRNA.fq t  a	    WGS.hg38 t n a	    WXS.hg38 t n a	    RNA.hg38 ttt  aaa
+C3N-01524	CCRCC	    WGS.hg19 T N a	    WXS.hg19 T N A	    RNA.fq TT  AA	    miRNA.fq t  a	    WGS.hg38 t n a	    WXS.hg38 t n a	    RNA.hg38 ttt  aaa
+C3N-01525	UCEC	    WGS.hg19 t n a	    WXS.hg19 t n a	    RNA.fq tt  aa	    miRNA.fq t  	    WGS.hg38 t n a	    WXS.hg38 t n a	    RNA.hg38 ttt  aaa
+C3N-01526	UCEC	    WGS.hg19 t n a	    WXS.hg19 t n a	    RNA.fq tt  aa	    miRNA.fq t  a	    WGS.hg38 t n a	    WXS.hg38 t n a	    RNA.hg38 ttt  aaa
+C3N-01529	UCEC	    WGS.hg19 t n 	    WXS.hg19 t n 	    RNA.fq tt  	    miRNA.fq t  	    WGS.hg38 t n 	    WXS.hg38 t n 	    RNA.hg38 ttt  
+C3N-01532	SAR	    WGS.hg19 t n 	    WXS.hg19 t n 	    RNA.fq tt  	    miRNA.fq t  	    WGS.hg38 t n 	    WXS.hg38 t n 	    RNA.hg38 ttt  
+C3N-01534	SAR	    WGS.hg19 t n a	    WXS.hg19 t n a	    RNA.fq tt  aa	    miRNA.fq t  a	    WGS.hg38 t n a	    WXS.hg38 t n a	    RNA.hg38 ttt  aaa
+C3N-01535	SAR	    WGS.hg19 t n 	    WXS.hg19 t n 	    RNA.fq tt  aa	    miRNA.fq t  a	    WGS.hg38 t n 	    WXS.hg38 t n 	    RNA.hg38 ttt  aaa
+C3N-01536	CCRCC	    WGS.hg19 t n a	    WXS.hg19 t n a	    RNA.fq tt  aa	    miRNA.fq t  a	    WGS.hg38 t n a	    WXS.hg38 t n a	    RNA.hg38 ttt  aaa
+C3N-01537	UCEC	    WGS.hg19 t n 	    WXS.hg19 T N 	    RNA.fq TT  	    miRNA.fq t  	    WGS.hg38 t n 	    WXS.hg38 t n 	    RNA.hg38 ttt  
+C3N-01620	HNSCC	    WGS.hg19 t n 	    WXS.hg19 t n 	    RNA.fq tt  	    miRNA.fq t  	    WGS.hg38 t n 	    WXS.hg38 t n 	    RNA.hg38 ttt  
+C3N-01645	HNSCC	    WGS.hg19 t n 	    WXS.hg19 t n 	    RNA.fq tt  aa	    miRNA.fq T  a	    WGS.hg38 t n 	    WXS.hg38 t n 	    RNA.hg38 ttt  aaa
+C3N-01646	CCRCC	    WGS.hg19 T N a	    WXS.hg19 T N A	    RNA.fq TT  AA	    miRNA.fq t  a	    WGS.hg38 t n a	    WXS.hg38 t n a	    RNA.hg38 ttt  aaa
+C3N-01648	CCRCC	    WGS.hg19 t n a	    WXS.hg19 T N A	    RNA.fq TT  AA	    miRNA.fq t  a	    WGS.hg38 t n a	    WXS.hg38 t n a	    RNA.hg38 ttt  aaa
+C3N-01649	CCRCC	    WGS.hg19 T N a	    WXS.hg19 T N A	    RNA.fq TT  AA	    miRNA.fq T  a	    WGS.hg38 t n a	    WXS.hg38 t n a	    RNA.hg38 ttt  aaa
+C3N-01651	CCRCC	    WGS.hg19 T N a	    WXS.hg19 T N a	    RNA.fq TT  AA	    miRNA.fq t  a	    WGS.hg38 t n a	    WXS.hg38 t n a	    RNA.hg38 ttt  aaa
+C3N-01714	PDA	    WGS.hg19 t n 	    WXS.hg19 t n 	    RNA.fq tt  	    miRNA.fq t  	    WGS.hg38 t n 	    WXS.hg38 t n 	    RNA.hg38 ttt  
+C3N-01715	PDA	    WGS.hg19 t n 	    WXS.hg19 t n 	    RNA.fq tt  	    miRNA.fq t  	    WGS.hg38 t n 	    WXS.hg38 t n 	    RNA.hg38 ttt  
+C3N-01716	PDA	    WGS.hg19 t n 	    WXS.hg19 t n 	    RNA.fq tt  	    miRNA.fq t  	    WGS.hg38 t n 	    WXS.hg38 t n 	    RNA.hg38 ttt  
+C3N-01798	GBM	    WGS.hg19 t n 	    WXS.hg19 t n 	    RNA.fq tt  	    miRNA.fq t  	    WGS.hg38 t n 	    WXS.hg38 t n 	    RNA.hg38 ttt  
+C3N-01799	LUAD	    WGS.hg19 T N a	    WXS.hg19 T N A	    RNA.fq TT  AA	    miRNA.fq t  a	    WGS.hg38 t n a	    WXS.hg38 t n a	    RNA.hg38 ttt  aaa
+C3N-01802	UCEC	    WGS.hg19 t n 	    WXS.hg19 T N 	    RNA.fq TT  	    miRNA.fq t  	    WGS.hg38 t n 	    WXS.hg38 t n 	    RNA.hg38 ttt  
+C3N-01808	CCRCC	    WGS.hg19 T N a	    WXS.hg19 T N a	    RNA.fq TT  AA	    miRNA.fq t  a	    WGS.hg38 t n a	    WXS.hg38 t n a	    RNA.hg38 ttt  aaa
+C3N-01814	GBM	    WGS.hg19 t n 	    WXS.hg19 t n 	    RNA.fq tt  	    miRNA.fq t  	    WGS.hg38 t n 	    WXS.hg38 t n 	    RNA.hg38 ttt  
+C3N-01815	GBM	    WGS.hg19 t n 	    WXS.hg19 t n 	    RNA.fq tt  	    miRNA.fq t  	    WGS.hg38 t n 	    WXS.hg38 t n 	    RNA.hg38 ttt  
+C3N-01816	GBM	    WGS.hg19 t n 	    WXS.hg19 t n 	    RNA.fq tt  	    miRNA.fq t  	    WGS.hg38 t n 	    WXS.hg38 t n 	    RNA.hg38 ttt  
+C3N-01817	GBM	    WGS.hg19 t n 	    WXS.hg19 t n 	    RNA.fq tt  	    miRNA.fq t  	    WGS.hg38 t n 	    WXS.hg38 t n 	    RNA.hg38 ttt  
+C3N-01818	GBM	    WGS.hg19 t n 	    WXS.hg19 t n 	    RNA.fq tt  	    miRNA.fq t  	    WGS.hg38 t n 	    WXS.hg38 t n 	    RNA.hg38 ttt  
+C3N-01823	LUAD	    WGS.hg19 t n a	    WXS.hg19 t n a	    RNA.fq tt  aa	    miRNA.fq t  a	    WGS.hg38 t n a	    WXS.hg38 t n a	    RNA.hg38 ttt  aaa
+C3N-01825	UCEC	    WGS.hg19 Tt N 	    WXS.hg19 Tt N 	    RNA.fq TTtt  	    miRNA.fq t  	    WGS.hg38 tt n 	    WXS.hg38 tt n 	    RNA.hg38 tttttt  
+C3N-01828	CCRCC	    WGS.hg19 t n a	    WXS.hg19 t n a	    RNA.fq tt  aa	    miRNA.fq t  a	    WGS.hg38 t n a	    WXS.hg38 t n a	    RNA.hg38 ttt  aaa
+C3N-01830	UCEC	    WGS.hg19 t n a	    WXS.hg19 t n a	    RNA.fq tt  aa	    miRNA.fq t  a	    WGS.hg38 t n a	    WXS.hg38 t n a	    RNA.hg38 ttt  aaa
+C3N-01842	LUAD	    WGS.hg19 t n 	    WXS.hg19 T N 	    RNA.fq TT  	    miRNA.fq t  	    WGS.hg38 t n 	    WXS.hg38 t n 	    RNA.hg38 ttt  
+C3N-01843	UCEC	    WGS.hg19 t n 	    WXS.hg19 t n 	    RNA.fq tt  	    miRNA.fq t  	    WGS.hg38 t n 	    WXS.hg38 t n 	    RNA.hg38 ttt  
+C3N-01846	LSCC	    WGS.hg19 t n a	    WXS.hg19 t n a	    RNA.fq tt  aa	    miRNA.fq t  a	    WGS.hg38 t n a	    WXS.hg38 t n a	    RNA.hg38 ttt  aaa
+C3N-01847	UCEC	    WGS.hg19 t n a	    WXS.hg19 t n a	    RNA.fq tt  aa	    miRNA.fq t  a	    WGS.hg38 t n a	    WXS.hg38 t n a	    RNA.hg38 ttt  aaa
+C3N-01848	UCEC	    WGS.hg19 t n a	    WXS.hg19 t n a	    RNA.fq tt  aa	    miRNA.fq t  a	    WGS.hg38 t n a	    WXS.hg38 t n a	    RNA.hg38 ttt  aaa
+C3N-01850	GBM	    WGS.hg19 t n 	    WXS.hg19 t n 	    RNA.fq tt  	    miRNA.fq t  	    WGS.hg38 t n 	    WXS.hg38 t n 	    RNA.hg38 ttt  
+C3N-01851	GBM	    WGS.hg19 t n 	    WXS.hg19 t n 	    RNA.fq tt  	    miRNA.fq   	    WGS.hg38   	    WXS.hg38   	    RNA.hg38   
+C3N-01852	GBM	    WGS.hg19 t n 	    WXS.hg19 t n 	    RNA.fq tt  	    miRNA.fq   	    WGS.hg38   	    WXS.hg38   	    RNA.hg38   
+C3N-01856	GBM	    WGS.hg19 t n 	    WXS.hg19 t n 	    RNA.fq tt  	    miRNA.fq   	    WGS.hg38 t n 	    WXS.hg38 t n 	    RNA.hg38 ttt  
+C3N-01857	GBM	    WGS.hg19 t n 	    WXS.hg19 t n 	    RNA.fq tt  	    miRNA.fq t  	    WGS.hg38 t n 	    WXS.hg38 t n 	    RNA.hg38 ttt  
+C3N-01892	LUAD	    WGS.hg19 t n a	    WXS.hg19 t n a	    RNA.fq tt  aa	    miRNA.fq   	    WGS.hg38   	    WXS.hg38   	    RNA.hg38   
+C3N-01893	LUAD	    WGS.hg19 t n a	    WXS.hg19 t n a	    RNA.fq tt  aa	    miRNA.fq   	    WGS.hg38   	    WXS.hg38   	    RNA.hg38   
+C3N-01897	PDA	    WGS.hg19   	    WXS.hg19 tt n 	    RNA.fq tt  	    miRNA.fq   	    WGS.hg38   	    WXS.hg38   	    RNA.hg38   
+C3N-01997	PDA	    WGS.hg19 t n a	    WXS.hg19 t n a	    RNA.fq tt  	    miRNA.fq t  	    WGS.hg38 t n a	    WXS.hg38 t n a	    RNA.hg38 ttt  
+C3N-01998	PDA	    WGS.hg19 t n a	    WXS.hg19 t n a	    RNA.fq tt  aa	    miRNA.fq t  a	    WGS.hg38 t n a	    WXS.hg38 t n a	    RNA.hg38 ttt  aaa
+C3N-02000	LUAD	    WGS.hg19 t n a	    WXS.hg19 t n a	    RNA.fq tt  aa	    miRNA.fq t  a	    WGS.hg38 t n a	    WXS.hg38 t n a	    RNA.hg38 ttt  aaa
+C3N-02002	LUAD	    WGS.hg19 t n a	    WXS.hg19 t n a	    RNA.fq tt  aa	    miRNA.fq t  a	    WGS.hg38 t n a	    WXS.hg38 t n a	    RNA.hg38 ttt  aaa
+C3N-02003	LUAD	    WGS.hg19 t n a	    WXS.hg19 t n a	    RNA.fq tt  aa	    miRNA.fq t  a	    WGS.hg38 t n a	    WXS.hg38 t n a	    RNA.hg38 ttt  aaa
+C3N-02034	SAR	    WGS.hg19 t n 	    WXS.hg19 t n a	    RNA.fq tt  aa	    miRNA.fq t  a	    WGS.hg38 t n 	    WXS.hg38 t n a	    RNA.hg38 ttt  aaa
+C3N-02038	SAR	    WGS.hg19 t n 	    WXS.hg19 t n 	    RNA.fq tt  	    miRNA.fq t  	    WGS.hg38 t n 	    WXS.hg38 t n 	    RNA.hg38 ttt  
+C3N-02067	LUAD	    WGS.hg19 t n a	    WXS.hg19 t n a	    RNA.fq tt  aa	    miRNA.fq t  a	    WGS.hg38 t n a	    WXS.hg38 t n a	    RNA.hg38 ttt  aaa
+C3N-02069	PDA	    WGS.hg19 t n 	    WXS.hg19 t n 	    RNA.fq tt  	    miRNA.fq t  	    WGS.hg38 t n 	    WXS.hg38 t n 	    RNA.hg38 ttt  
+C3N-02087	LUAD	    WGS.hg19 t n a	    WXS.hg19 t n a	    RNA.fq tt  aa	    miRNA.fq t  a	    WGS.hg38 t n a	    WXS.hg38 t n a	    RNA.hg38 ttt  aaa
+C3N-02088	LUAD	    WGS.hg19 t n a	    WXS.hg19 t n a	    RNA.fq tt  aa	    miRNA.fq t  a	    WGS.hg38 t n a	    WXS.hg38 t n a	    RNA.hg38 ttt  aaa
+C3N-02089	LUAD	    WGS.hg19 t n a	    WXS.hg19 T N A	    RNA.fq TT  AA	    miRNA.fq t  a	    WGS.hg38 t n a	    WXS.hg38 t n a	    RNA.hg38 ttt  aaa
+C3N-02090	LUAD	    WGS.hg19 t n a	    WXS.hg19 t n a	    RNA.fq tt  aa	    miRNA.fq t  a	    WGS.hg38 t n a	    WXS.hg38 t n a	    RNA.hg38 ttt  aaa
+C3N-02141	LUAD	    WGS.hg19 t n a	    WXS.hg19 t n a	    RNA.fq tt  aa	    miRNA.fq t  a	    WGS.hg38 t n a	    WXS.hg38 t n a	    RNA.hg38 ttt  aaa
+C3N-02142	LUAD	    WGS.hg19 t n a	    WXS.hg19 t n a	    RNA.fq tt  aa	    miRNA.fq t  a	    WGS.hg38 t n a	    WXS.hg38 t n a	    RNA.hg38 ttt  aaa
+C3N-02145	LUAD	    WGS.hg19 t n a	    WXS.hg19 t n a	    RNA.fq tt  aa	    miRNA.fq t  a	    WGS.hg38 t n a	    WXS.hg38 t n a	    RNA.hg38 ttt  aaa
+C3N-02149	LUAD	    WGS.hg19 t n a	    WXS.hg19 T N A	    RNA.fq TT  AA	    miRNA.fq t  a	    WGS.hg38 t n a	    WXS.hg38 t n a	    RNA.hg38 ttt  aaa
+C3N-02150	LUAD	    WGS.hg19 t n a	    WXS.hg19 t n a	    RNA.fq tt  aa	    miRNA.fq t  a	    WGS.hg38 t n a	    WXS.hg38 t n a	    RNA.hg38 ttt  aaa
+C3N-02153	LUAD	    WGS.hg19 t n a	    WXS.hg19 t n a	    RNA.fq tt  aa	    miRNA.fq t  a	    WGS.hg38 t n a	    WXS.hg38 t n a	    RNA.hg38 ttt  aaa
+C3N-02155	LUAD	    WGS.hg19 t n a	    WXS.hg19 t n a	    RNA.fq tt  aa	    miRNA.fq t  a	    WGS.hg38 t n a	    WXS.hg38 t n a	    RNA.hg38 ttt  aaa
+C3N-02158	LUAD	    WGS.hg19 t n a	    WXS.hg19 t n a	    RNA.fq tt  aa	    miRNA.fq t  a	    WGS.hg38 t n a	    WXS.hg38 t n a	    RNA.hg38 ttt  aaa
+C3N-02181	GBM	    WGS.hg19 t n 	    WXS.hg19 t n 	    RNA.fq tt  	    miRNA.fq t  	    WGS.hg38 t n 	    WXS.hg38 t n 	    RNA.hg38 ttt  
+C3N-02183	GBM	    WGS.hg19 t n 	    WXS.hg19 t n 	    RNA.fq tt  	    miRNA.fq t  	    WGS.hg38 t n 	    WXS.hg38 t n 	    RNA.hg38 ttt  
+C3N-02185	GBM	    WGS.hg19 t n 	    WXS.hg19 t n 	    RNA.fq tt  	    miRNA.fq t  	    WGS.hg38 t n 	    WXS.hg38 t n 	    RNA.hg38 ttt  
+C3N-02186	GBM	    WGS.hg19 t n 	    WXS.hg19 t n 	    RNA.fq tt  	    miRNA.fq   	    WGS.hg38 t n 	    WXS.hg38 t n 	    RNA.hg38 ttt  
+C3N-02188	GBM	    WGS.hg19 t n 	    WXS.hg19 t n 	    RNA.fq tt  	    miRNA.fq t  	    WGS.hg38 t n 	    WXS.hg38 t n 	    RNA.hg38 ttt  
+C3N-02190	GBM	    WGS.hg19 t n 	    WXS.hg19 t n 	    RNA.fq tt  	    miRNA.fq   	    WGS.hg38   	    WXS.hg38   	    RNA.hg38   
+C3N-02252	LUAD	    WGS.hg19 t n a	    WXS.hg19 t n a	    RNA.fq tt  aa	    miRNA.fq   	    WGS.hg38   	    WXS.hg38   	    RNA.hg38   
+C3N-02255	GBM	    WGS.hg19 t n 	    WXS.hg19 t n 	    RNA.fq tt  	    miRNA.fq   	    WGS.hg38   	    WXS.hg38   	    RNA.hg38   
+C3N-02256	GBM	    WGS.hg19 t n 	    WXS.hg19 t n 	    RNA.fq tt  	    miRNA.fq   	    WGS.hg38   	    WXS.hg38   	    RNA.hg38   
+C3N-02283	LUAD	    WGS.hg19 t n 	    WXS.hg19 t n 	    RNA.fq tt  	    miRNA.fq   	    WGS.hg38   	    WXS.hg38   	    RNA.hg38   
+C3N-02284	LUAD	    WGS.hg19 t n 	    WXS.hg19 t n 	    RNA.fq tt  	    miRNA.fq   	    WGS.hg38   	    WXS.hg38   	    RNA.hg38   
+C3N-02285	LUAD	    WGS.hg19 t n a	    WXS.hg19 t n a	    RNA.fq tt  aa	    miRNA.fq   	    WGS.hg38   	    WXS.hg38   	    RNA.hg38   
+C3N-02288	LUAD	    WGS.hg19 t n a	    WXS.hg19 t n a	    RNA.fq tt  aa	    miRNA.fq   	    WGS.hg38   	    WXS.hg38   	    RNA.hg38   
+C3N-02289	LUAD	    WGS.hg19 t n a	    WXS.hg19 t n a	    RNA.fq tt  aa	    miRNA.fq   	    WGS.hg38   	    WXS.hg38   	    RNA.hg38   
+C3N-02300	LUAD	    WGS.hg19 t n 	    WXS.hg19 t n 	    RNA.fq tt  aa	    miRNA.fq   	    WGS.hg38   	    WXS.hg38   	    RNA.hg38   
+C3N-02339	LUAD	    WGS.hg19 t n a	    WXS.hg19 t n a	    RNA.fq tt  aa	    miRNA.fq   	    WGS.hg38   	    WXS.hg38   	    RNA.hg38   
+C3N-02374	LUAD	    WGS.hg19 t n a	    WXS.hg19 t n a	    RNA.fq tt  aa	    miRNA.fq   	    WGS.hg38   	    WXS.hg38   	    RNA.hg38   
+C3N-02375	LUAD	    WGS.hg19 t n a	    WXS.hg19 t n a	    RNA.fq tt  aa	    miRNA.fq   	    WGS.hg38   	    WXS.hg38   	    RNA.hg38   
+C3N-02379	LUAD	    WGS.hg19 t n a	    WXS.hg19 t n a	    RNA.fq tt  aa	    miRNA.fq t  a	    WGS.hg38 t n a	    WXS.hg38 t n a	    RNA.hg38 ttt  aaa
+C3N-02380	LUAD	    WGS.hg19 t n a	    WXS.hg19 t n a	    RNA.fq tt  aa	    miRNA.fq t  a	    WGS.hg38 t n a	    WXS.hg38 t n a	    RNA.hg38 ttt  aaa
+C3N-02421	LUAD	    WGS.hg19 t n a	    WXS.hg19 t n a	    RNA.fq tt  aa	    miRNA.fq t  a	    WGS.hg38 t n a	    WXS.hg38 t n a	    RNA.hg38 ttt  aaa
+C3N-02422	LUAD	    WGS.hg19 t n 	    WXS.hg19 t n 	    RNA.fq tt  	    miRNA.fq t  	    WGS.hg38 t n 	    WXS.hg38 t n 	    RNA.hg38 ttt  
+C3N-02423	LUAD	    WGS.hg19 t n a	    WXS.hg19 t n a	    RNA.fq tt  aa	    miRNA.fq t  a	    WGS.hg38 t n a	    WXS.hg38 t n a	    RNA.hg38 ttt  aaa
+C3N-02424	LUAD	    WGS.hg19 t n a	    WXS.hg19 t n a	    RNA.fq tt  aa	    miRNA.fq t  a	    WGS.hg38 t n a	    WXS.hg38 t n a	    RNA.hg38 ttt  aaa
+C3N-02425	LUAD	    WGS.hg19 t n a	    WXS.hg19 t n a	    RNA.fq tt  aa	    miRNA.fq   	    WGS.hg38   	    WXS.hg38   	    RNA.hg38   
+C3N-02426	LUAD	    WGS.hg19 t n a	    WXS.hg19 t n a	    RNA.fq tt  aa	    miRNA.fq   	    WGS.hg38   	    WXS.hg38   	    RNA.hg38   
+C3N-02433	LUAD	    WGS.hg19 t n a	    WXS.hg19 t n a	    RNA.fq tt  aa	    miRNA.fq t  a	    WGS.hg38 t n a	    WXS.hg38 t n a	    RNA.hg38 ttt  aaa
+C3N-02434	LUAD	    WGS.hg19 t n a	    WXS.hg19 t n a	    RNA.fq tt  aa	    miRNA.fq   	    WGS.hg38   	    WXS.hg38   	    RNA.hg38   
+C3N-02529	LUAD	    WGS.hg19 t n a	    WXS.hg19 t n a	    RNA.fq tt  aa	    miRNA.fq t  a	    WGS.hg38 t n a	    WXS.hg38 t n a	    RNA.hg38 ttt  aaa
+C3N-02572	LUAD	    WGS.hg19 t n a	    WXS.hg19 t n a	    RNA.fq tt  aa	    miRNA.fq t  a	    WGS.hg38 t n a	    WXS.hg38 t n a	    RNA.hg38 ttt  aaa
+C3N-02575	LUAD	    WGS.hg19 t n a	    WXS.hg19 t n a	    RNA.fq tt  aa	    miRNA.fq   	    WGS.hg38   	    WXS.hg38   	    RNA.hg38   
+C3N-02582	LUAD	    WGS.hg19 t n a	    WXS.hg19 t n a	    RNA.fq tt  aa	    miRNA.fq t  a	    WGS.hg38 t n a	    WXS.hg38 t n a	    RNA.hg38 ttt  aaa
+C3N-02586	LUAD	    WGS.hg19 t n a	    WXS.hg19 t n a	    RNA.fq tt  aa	    miRNA.fq t  a	    WGS.hg38 t n a	    WXS.hg38 t n a	    RNA.hg38 ttt  aaa
+C3N-02587	LUAD	    WGS.hg19 t n a	    WXS.hg19 t n a	    RNA.fq tt  aa	    miRNA.fq t  a	    WGS.hg38 t n a	    WXS.hg38 t n a	    RNA.hg38 ttt  aaa
+C3N-02588	LUAD	    WGS.hg19 t n a	    WXS.hg19 t n a	    RNA.fq tt  aa	    miRNA.fq t  a	    WGS.hg38 t n a	    WXS.hg38 t n a	    RNA.hg38 ttt  aaa
+C3N-02590	PDA	    WGS.hg19   	    WXS.hg19 tt n 	    RNA.fq tt  	    miRNA.fq   	    WGS.hg38   	    WXS.hg38   	    RNA.hg38   
+C3N-02591	PDA	    WGS.hg19   	    WXS.hg19 tt n 	    RNA.fq   	    miRNA.fq   	    WGS.hg38   	    WXS.hg38   	    RNA.hg38   
+C3N-02675	LUAD	    WGS.hg19 t n a	    WXS.hg19 t n a	    RNA.fq tt  aa	    miRNA.fq   	    WGS.hg38   	    WXS.hg38   	    RNA.hg38   
+C3N-02729	LUAD	    WGS.hg19 t n a	    WXS.hg19 t n a	    RNA.fq tt  aa	    miRNA.fq t  a	    WGS.hg38 t n a	    WXS.hg38 t n a	    RNA.hg38 ttt  aaa
+C3N-02769	GBM	    WGS.hg19 t n 	    WXS.hg19 t n 	    RNA.fq tt  	    miRNA.fq   	    WGS.hg38   	    WXS.hg38   	    RNA.hg38   
+C3N-02770	GBM	    WGS.hg19 t n 	    WXS.hg19 t n 	    RNA.fq tt  	    miRNA.fq   	    WGS.hg38   	    WXS.hg38   	    RNA.hg38   
+C3N-02782	GBM	    WGS.hg19 t n 	    WXS.hg19 t n 	    RNA.fq tt  	    miRNA.fq   	    WGS.hg38   	    WXS.hg38   	    RNA.hg38   
+C3N-02783	GBM	    WGS.hg19 t n 	    WXS.hg19 t n 	    RNA.fq tt  	    miRNA.fq   	    WGS.hg38   	    WXS.hg38   	    RNA.hg38   
+C3N-02784	GBM	    WGS.hg19 t n 	    WXS.hg19 t n 	    RNA.fq tt  	    miRNA.fq   	    WGS.hg38   	    WXS.hg38   	    RNA.hg38   
+C3N-02785	GBM	    WGS.hg19 t n 	    WXS.hg19 t n 	    RNA.fq tt  	    miRNA.fq   	    WGS.hg38   	    WXS.hg38   	    RNA.hg38   
+C3N-02786	GBM	    WGS.hg19 t n 	    WXS.hg19 t n 	    RNA.fq tt  	    miRNA.fq   	    WGS.hg38   	    WXS.hg38   	    RNA.hg38   
+C3N-02788	GBM	    WGS.hg19 t n 	    WXS.hg19 t n 	    RNA.fq tt  	    miRNA.fq   	    WGS.hg38   	    WXS.hg38   	    RNA.hg38   
+C3N-02997	PDA	    WGS.hg19   	    WXS.hg19 tt n 	    RNA.fq tt  	    miRNA.fq   	    WGS.hg38   	    WXS.hg38   	    RNA.hg38   
+C3N-03070	GBM	    WGS.hg19 t n 	    WXS.hg19 t n 	    RNA.fq tt  	    miRNA.fq   	    WGS.hg38   	    WXS.hg38   	    RNA.hg38   
+C3N-03088	GBM	    WGS.hg19 t n 	    WXS.hg19 t n 	    RNA.fq tt  	    miRNA.fq   	    WGS.hg38   	    WXS.hg38   	    RNA.hg38   
+C3N-03180	GBM	    WGS.hg19 t n 	    WXS.hg19 t n 	    RNA.fq tt  	    miRNA.fq   	    WGS.hg38   	    WXS.hg38   	    RNA.hg38   
+C3N-03182	GBM	    WGS.hg19 t n 	    WXS.hg19 t n 	    RNA.fq tt  	    miRNA.fq   	    WGS.hg38   	    WXS.hg38   	    RNA.hg38   
+C3N-03183	GBM	    WGS.hg19 t n 	    WXS.hg19 t n 	    RNA.fq tt  	    miRNA.fq   	    WGS.hg38   	    WXS.hg38   	    RNA.hg38   
+C3N-03184	GBM	    WGS.hg19 t n 	    WXS.hg19 t n 	    RNA.fq tt  	    miRNA.fq   	    WGS.hg38   	    WXS.hg38   	    RNA.hg38   
+C3N-03186	GBM	    WGS.hg19 t n 	    WXS.hg19 t n 	    RNA.fq tt  	    miRNA.fq   	    WGS.hg38   	    WXS.hg38   	    RNA.hg38   
+C3N-03187	GBM	    WGS.hg19 t n 	    WXS.hg19 t n 	    RNA.fq tt  	    miRNA.fq   	    WGS.hg38   	    WXS.hg38   	    RNA.hg38   
+C3N-03188	GBM	    WGS.hg19 t n 	    WXS.hg19 t n 	    RNA.fq tt  	    miRNA.fq   	    WGS.hg38   	    WXS.hg38   	    RNA.hg38   
+C3N-03230	SAR	    WGS.hg19 t n a	    WXS.hg19 t n a	    RNA.fq tt  	    miRNA.fq t  	    WGS.hg38 t n a	    WXS.hg38 t n a	    RNA.hg38 ttt  
+C3N-03320	UCEC	    WGS.hg19   a	    WXS.hg19   a	    RNA.fq   	    miRNA.fq   	    WGS.hg38   	    WXS.hg38   	    RNA.hg38   
+C3N-03473	GBM	    WGS.hg19 t n 	    WXS.hg19 t n 	    RNA.fq tt  	    miRNA.fq   	    WGS.hg38   	    WXS.hg38   	    RNA.hg38   
+C3N-03486	LUAD	    WGS.hg19 t n a	    WXS.hg19 t n a	    RNA.fq tt  aa	    miRNA.fq   	    WGS.hg38   	    WXS.hg38   	    RNA.hg38   
+C3N-03691	UCEC	    WGS.hg19   a	    WXS.hg19   a	    RNA.fq   	    miRNA.fq   	    WGS.hg38   	    WXS.hg38   	    RNA.hg38   
+C3N-03692	UCEC	    WGS.hg19   a	    WXS.hg19   a	    RNA.fq   	    miRNA.fq   	    WGS.hg38   	    WXS.hg38   	    RNA.hg38   
