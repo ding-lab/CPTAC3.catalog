@@ -173,7 +173,7 @@ C3L-00973	LUAD	not reported	male	not reported	-27798
 C3L-00993	LSCC	not reported	male	not reported	-27610
 C3L-01000	LUAD	not reported	male	not reported	-21800
 C3L-01031	PDA	not reported	female	not reported	-23784
-C3L-01032	PDA	
+C3L-01032	PDA	not reported	female	not reported	-19276
 C3L-01036	PDA	not reported	male	not reported	-23457
 C3L-01040	GBM	not reported	female	not reported	-28387
 C3L-01043	GBM	not reported	male	not reported	-21551
@@ -193,8 +193,8 @@ C3L-01154	GBM	not reported	female	not reported	-18992
 C3L-01155	GBM	not reported	male	not reported	-24461
 C3L-01156	GBM	not reported	male	not reported	-20999
 C3L-01157	GBM	not reported	female	not reported	-24372
-C3L-01158	PDA	
-C3L-01160	PDA	
+C3L-01158	PDA	not reported	female	not reported	-25247
+C3L-01160	PDA	not reported	female	not reported	-22041
 C3L-01246	UCEC	not reported	female	white	-22948
 C3L-01247	UCEC	not reported	female	white	-23181
 C3L-01248	UCEC	not reported	female	white	-15531
@@ -346,17 +346,27 @@ C3L-02955	GBM	not hispanic or latino	female	white	-27855
 C3L-02963	LUAD	not hispanic or latino	male	white	-25991
 C3L-02964	LUAD	not hispanic or latino	male	white	-21194
 C3L-02968	LUAD	not hispanic or latino	male	white	-23682
+C3L-02970	GBM	
 C3L-02984	GBM	not hispanic or latino	male	asian	-12449
 C3L-03260	GBM	not hispanic or latino	female	white	-27394
 C3L-03266	GBM	hispanic or latino	female	white	-22583
+C3L-03387	GBM	not reported	male	not reported	-25839
+C3L-03390	GBM	not reported	female	not reported	-16133
 C3L-03392	GBM	not reported	female	not reported	-18509
+C3L-03400	GBM	not reported	female	not reported	-14028
+C3L-03405	GBM	not reported	male	not reported	-21614
 C3L-03407	GBM	hispanic or latino	female	not reported	-20944
 C3L-03601	UCEC	
-C3L-03624	PDA	
+C3L-03624	PDA	not reported	female	not reported	-25430
 C3L-03678	LUAD	not hispanic or latino	male	white	-18220
 C3L-03681	GBM	not hispanic or latino	female	white	-22946
+C3L-03727	GBM	
+C3L-03728	GBM	
+C3L-03744	GBM	
 C3L-03747	GBM	not hispanic or latino	male	white	-22930
 C3L-03748	GBM	not hispanic or latino	female	white	-23735
+C3L-03968	GBM	
+C3L-04084	GBM	
 C3N-00148	CCRCC	not reported	male	not reported	-19314
 C3N-00149	CCRCC	not reported	female	not reported	-24990
 C3N-00150	CCRCC	not reported	female	not reported	-20286
@@ -640,7 +650,7 @@ C3N-01856	GBM	not reported	female	not reported	-24242
 C3N-01857	GBM	not reported	female	not reported	-25423
 C3N-01892	LUAD	not reported	male	not reported	-28359
 C3N-01893	LUAD	not reported	male	not reported	-25889
-C3N-01897	PDA	
+C3N-01897	PDA	not reported	male	not reported	-20477
 C3N-01997	PDA	not reported	male	not reported	-23169
 C3N-01998	PDA	not reported	male	not reported	-25293
 C3N-02000	LUAD	not reported	female	not reported	-16924
@@ -697,8 +707,8 @@ C3N-02582	LUAD	not reported	male	not reported	-28227
 C3N-02586	LUAD	not reported	male	not reported	-27040
 C3N-02587	LUAD	not reported	female	not reported	-21789
 C3N-02588	LUAD	not reported	male	not reported	-25225
-C3N-02590	PDA	
-C3N-02591	PDA	
+C3N-02590	PDA	not reported	female	not reported	-25019
+C3N-02591	PDA	not reported	male	not reported	-22332
 C3N-02675	LUAD	not reported	male	not reported	-25757
 C3N-02729	LUAD	not reported	male	not reported	-16705
 C3N-02769	GBM	not reported	male	not reported	-19701
@@ -709,7 +719,7 @@ C3N-02784	GBM	not reported	male	not reported	-13569
 C3N-02785	GBM	not reported	male	not reported	-25301
 C3N-02786	GBM	not reported	female	not reported	-14593
 C3N-02788	GBM	not reported	male	not reported	-23634
-C3N-02997	PDA	
+C3N-02997	PDA	not reported	male	not reported	-26837
 C3N-03070	GBM	not reported	female	not reported	-24111
 C3N-03088	GBM	not reported	female	not reported	-11589
 C3N-03180	GBM	not reported	male	not reported	-19399
