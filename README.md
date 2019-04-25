@@ -36,6 +36,8 @@ See `shiso:/Users/mwyczalk/Projects/CPTAC3/CPTAC3.Cases`
 * `cases.analysis`
 * `cases.analysis.HarmonizationBatch2`
 * `cases.analysis.011518`
+* `cases.analysis.20190425` - contains new cases not yet incorporated into CPTAC3.cases based on Methylation data through batch 8
+  * requires additional quality control as described here: /Users/mwyczalk/Projects/CPTAC3/CPTAC3.Cases/cases.analysis.20190425/README.md
 
 ### AR file
 
