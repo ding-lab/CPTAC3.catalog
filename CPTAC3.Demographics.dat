@@ -188,7 +188,7 @@ C3L-00528	GBM	not hispanic or latino	male	white	-18891
 C3L-00529	UCEC	
 C3L-00530	CCRCC	
 C3L-00539	AML	
-C3L-00540	AML	
+C3L-00540	AML	not reported	female	white	-25217
 C3L-00561	CCRCC	not hispanic or latino	male	white	-18481
 C3L-00563	UCEC	not hispanic or latino	female	asian	-22777
 C3L-00564	SAR	not hispanic or latino	male	white	-23949
@@ -213,7 +213,7 @@ C3L-00607	CCRCC	not hispanic or latino	male	white	-24311
 C3L-00608	CCRCC	
 C3L-00609	CCRCC	
 C3L-00610	CCRCC	not hispanic or latino	female	white	-20900
-C3L-00614	AML	
+C3L-00614	AML	not reported	male	white	-22119
 C3L-00621	PDA	
 C3L-00622	PDA	not reported	male	not reported	-26616
 C3L-00623	PDA	
@@ -301,7 +301,7 @@ C3L-00894	GBM
 C3L-00895	PDA	
 C3L-00896	PDA	
 C3L-00897	PDA	
-C3L-00898	UCEC	
+C3L-00898	UCEC	hispanic or latino	female	white	-20081
 C3L-00899	UCEC	
 C3L-00902	CCRCC	not hispanic or latino	female	white	-25512
 C3L-00904	LSCC	not hispanic or latino	male	white	-26190
@@ -342,7 +342,7 @@ C3L-00947	UCEC	not reported	female	white	-26010
 C3L-00949	UCEC	not reported	female	white	-23564
 C3L-00950	UCEC	
 C3L-00961	UCEC	not reported	female	white	-21764
-C3L-00962	UCEC	
+C3L-00962	UCEC	not reported	female	white	-25563
 C3L-00963	UCEC	not reported	female	white	-21815
 C3L-00965	LSCC	not reported	male	not reported	-23305
 C3L-00966	CCRCC	not reported	female	not reported	-21878
@@ -379,7 +379,7 @@ C3L-01033	CCRCC	not reported	male	not reported	-25703
 C3L-01034	CCRCC	not reported	male	not reported	-24745
 C3L-01035	PDA	
 C3L-01036	PDA	not reported	male	not reported	-23457
-C3L-01037	PDA	
+C3L-01037	PDA	not reported	male	not reported	-15630
 C3L-01038	SAR	
 C3L-01039	PDA	
 C3L-01040	GBM	not reported	female	not reported	-28387
@@ -411,7 +411,7 @@ C3L-01115	GBM
 C3L-01117	GBM	
 C3L-01122	UCEC	
 C3L-01123	UCEC	
-C3L-01124	PDA	
+C3L-01124	PDA	not reported	female	not reported	-25921
 C3L-01138	HNSCC	not reported	male	not reported	-22715
 C3L-01142	GBM	not reported	female	not reported	-15483
 C3L-01143	GBM	
@@ -426,10 +426,10 @@ C3L-01157	GBM	not reported	female	not reported	-24372
 C3L-01158	PDA	not reported	female	not reported	-25247
 C3L-01160	PDA	not reported	female	not reported	-22041
 C3L-01181	AML	
-C3L-01202	AML	
-C3L-01205	AML	
+C3L-01202	AML	not reported	female	not reported	-23871
+C3L-01205	AML	not reported	male	not reported	-19405
 C3L-01206	AML	
-C3L-01210	AML	
+C3L-01210	AML	not reported	male	not reported	-23506
 C3L-01221	CCRCC	
 C3L-01222	CCRCC	
 C3L-01223	UCEC	
@@ -473,7 +473,7 @@ C3L-01289	GBM
 C3L-01291	AML	not reported	male	not reported	-25353
 C3L-01292	AML	
 C3L-01294	AML	
-C3L-01295	AML	
+C3L-01295	AML	not reported	male	not reported	-25914
 C3L-01296	AML	not reported	male	not reported	-14870
 C3L-01297	PDA	
 C3L-01300	AML	
@@ -591,9 +591,9 @@ C3L-01663	LSCC	not hispanic or latino	female	white	-26868
 C3L-01664	UCEC	not hispanic or latino	female	white	-27611
 C3L-01665	CCRCC	not hispanic or latino	male	white	-24663
 C3L-01667	UCEC	
-C3L-01668	UCEC	
+C3L-01668	UCEC	not hispanic or latino	female	white	-13619
 C3L-01670	UCEC	
-C3L-01672	UCEC	
+C3L-01672	UCEC	hispanic or latino	female	white	-19576
 C3L-01673	UCEC	
 C3L-01675	UCEC	
 C3L-01676	CCRCC	hispanic or latino	male	white	-19568
@@ -612,9 +612,9 @@ C3L-01688	PDA
 C3L-01689	PDA	not reported	male	not reported	-22672
 C3L-01690	PDA	
 C3L-01693	AML	
-C3L-01696	AML	
+C3L-01696	AML	not reported	female	not reported	-22728
 C3L-01697	AML	
-C3L-01700	AML	
+C3L-01700	AML	not reported	female	not reported	-25452
 C3L-01701	PDA	
 C3L-01702	PDA	not reported	female	not reported	-27108
 C3L-01703	PDA	not reported	male	not reported	-22902
@@ -763,18 +763,18 @@ C3L-02121	UCEC	not hispanic or latino	female	white	-14259
 C3L-02122	UCEC	
 C3L-02123	UCEC	
 C3L-02124	UCEC	
-C3L-02125	UCEC	
+C3L-02125	UCEC	not hispanic or latino	female	white	-24837
 C3L-02127	LSCC	not reported	male	not reported	-24389
 C3L-02128	LUAD	
 C3L-02129	LUAD	not reported	male	not reported	-20410
 C3L-02130	LSCC	not reported	male	not reported	-25907
 C3L-02131	AML	
-C3L-02132	AML	
+C3L-02132	AML	not reported	female	not reported	-22356
 C3L-02133	AML	
 C3L-02134	AML	
-C3L-02135	AML	
-C3L-02136	AML	
-C3L-02137	AML	
+C3L-02135	AML	not reported	female	not reported	-25938
+C3L-02136	AML	not reported	female	not reported	-20051
+C3L-02137	AML	not reported	female	not reported	-20688
 C3L-02138	AML	
 C3L-02139	AML	
 C3L-02161	LUAD	
@@ -826,7 +826,7 @@ C3L-02348	LUAD	not hispanic or latino	female	white	-21302
 C3L-02349	LSCC	not hispanic or latino	female	white	-29600
 C3L-02350	LUAD	not hispanic or latino	male	white	-25374
 C3L-02351	LUAD	
-C3L-02352	CCRCC	not hispanic or latino	female	white	-24370
+C3L-02352	CCRCC	not hispanic or latino	female	white	-24735
 C3L-02353	UCEC	not hispanic or latino	female	white	-29240
 C3L-02354	UCEC	not hispanic or latino	female	white	-20260
 C3L-02357	UCEC	not hispanic or latino	female	white	-19771
@@ -842,24 +842,24 @@ C3L-02367	GBM
 C3L-02368	LUAD	
 C3L-02369	TBD	
 C3L-02381	HNSCC	
-C3L-02382	UCEC	
+C3L-02382	UCEC	not hispanic or latino	female	white	-23312
 C3L-02383	UCEC	
 C3L-02384	UCEC	not reported	female	white	-29731
 C3L-02385	UCEC	
 C3L-02386	UCEC	
 C3L-02387	UCEC	
-C3L-02389	UCEC	
+C3L-02389	UCEC	not reported	female	white	-24371
 C3L-02390	UCEC	
-C3L-02392	UCEC	
+C3L-02392	UCEC	not reported	female	white	-21470
 C3L-02394	UCEC	
 C3L-02395	UCEC	not reported	female	white	-25839
 C3L-02396	UCEC	
 C3L-02397	UCEC	
 C3L-02398	UCEC	
-C3L-02399	UCEC	
+C3L-02399	UCEC	not reported	female	white	-26413
 C3L-02401	UCEC	
 C3L-02402	UCEC	
-C3L-02403	UCEC	
+C3L-02403	UCEC	not reported	female	white	-28516
 C3L-02404	UCEC	
 C3L-02405	UCEC	
 C3L-02406	UCEC	
@@ -879,8 +879,8 @@ C3L-02441	LUAD
 C3L-02443	HNSCC	
 C3L-02445	CCRCC	
 C3L-02447	UCEC	
-C3L-02448	UCEC	
-C3L-02449	UCEC	
+C3L-02448	UCEC	not hispanic or latino	female	black or african american	-25254
+C3L-02449	UCEC	not hispanic or latino	female	black or african american	-21243
 C3L-02461	LUAD	
 C3L-02462	UCEC	
 C3L-02463	PDA	not hispanic or latino	male	white	-23313
@@ -901,8 +901,8 @@ C3L-02508	LUAD	hispanic or latino	male	white	-23855
 C3L-02509	LUAD	
 C3L-02510	SAR	
 C3L-02511	SAR	
-C3L-02513	LUAD	
-C3L-02515	LUAD	
+C3L-02513	LUAD	not hispanic or latino	male	white	-27377
+C3L-02515	LUAD	not hispanic or latino	female	black or african american	-25050
 C3L-02516	PDA	
 C3L-02517	LUAD	
 C3L-02519	SAR	
@@ -933,7 +933,7 @@ C3L-02559	LUAD	not hispanic or latino	female	white	-23982
 C3L-02560	LUAD	not hispanic or latino	female	white	-26748
 C3L-02601	LUAD	not hispanic or latino	male	white	-26133
 C3L-02602	UCEC	not hispanic or latino	female	white	-20872
-C3L-02604	PDA	
+C3L-02604	PDA	not hispanic or latino	female	white	-31007
 C3L-02605	PDA	
 C3L-02606	PDA	not reported	female	not reported	-25148
 C3L-02607	PDA	
@@ -962,7 +962,7 @@ C3L-02629	LSCC	not reported	male	not reported	-21143
 C3L-02630	SAR	
 C3L-02641	LSCC	
 C3L-02642	GBM	not reported	male	not reported	-28231
-C3L-02643	LUAD	
+C3L-02643	LUAD	not reported	male	not reported	-24797
 C3L-02644	GBM	
 C3L-02646	LSCC	not reported	male	not reported	-27321
 C3L-02647	CM	
@@ -971,7 +971,7 @@ C3L-02649	LSCC	not reported	male	not reported	-22773
 C3L-02650	LSCC	not reported	male	not reported	-19414
 C3L-02651	HNSCC	not reported	male	not reported	-29713
 C3L-02653	GBM	
-C3L-02654	LUAD	
+C3L-02654	LUAD	not reported	female	not reported	-25783
 C3L-02655	LUAD	
 C3L-02656	CM	
 C3L-02657	LSCC	
@@ -986,7 +986,7 @@ C3L-02667	PDA
 C3L-02668	PDA	
 C3L-02669	LSCC	not reported	male	not reported	-26778
 C3L-02670	LSCC	
-C3L-02701	PDA	
+C3L-02701	PDA	not reported	male	not reported	-26345
 C3L-02703	GBM	
 C3L-02704	GBM	not hispanic or latino	male	white	-19879
 C3L-02705	GBM	not hispanic or latino	male	white	-22025
@@ -995,27 +995,27 @@ C3L-02707	GBM	not hispanic or latino	male	white	-21250
 C3L-02708	GBM	not hispanic or latino	male	white	-16016
 C3L-02709	UCEC	
 C3L-02710	UCEC	
-C3L-02741	UCEC	
+C3L-02741	UCEC	not hispanic or latino	female	white	-21785
 C3L-02742	UCEC	
 C3L-02743	UCEC	
 C3L-02744	UCEC	
 C3L-02745	UCEC	
-C3L-02746	UCEC	
-C3L-02747	UCEC	
+C3L-02746	UCEC	not hispanic or latino	female	white	-24310
+C3L-02747	UCEC	not hispanic or latino	female	white	-24345
 C3L-02748	UCEC	
 C3L-02793	LUAD	
 C3L-02794	HNSCC	
 C3L-02796	HNSCC	
 C3L-02799	UCEC	
-C3L-02800	UCEC	
+C3L-02800	UCEC	not reported	female	not reported	-22902
 C3L-02801	LUAD	
-C3L-02802	UCEC	
+C3L-02802	UCEC	not hispanic or latino	female	white	-20647
 C3L-02803	CCRCC	
 C3L-02804	CCRCC	
 C3L-02805	UCEC	
 C3L-02806	LSCC	
 C3L-02807	UCEC	
-C3L-02809	PDA	
+C3L-02809	PDA	not hispanic or latino	male	white	-30685
 C3L-02810	PDA	
 C3L-02832	UCEC	
 C3L-02833	UCEC	
@@ -1056,28 +1056,28 @@ C3L-02886	PDA
 C3L-02887	PDA	
 C3L-02888	PDA	
 C3L-02889	PDA	
-C3L-02890	PDA	
+C3L-02890	PDA	not reported	male	not reported	-24050
 C3L-02891	LSCC	not hispanic or latino	female	white	-24282
-C3L-02893	LUAD	
-C3L-02894	UCEC	
+C3L-02893	LUAD	not hispanic or latino	female	white	-26331
+C3L-02894	UCEC	not hispanic or latino	female	white	-24775
 C3L-02896	SAR	
-C3L-02897	PDA	
+C3L-02897	PDA	not hispanic or latino	male	white	-29507
 C3L-02898	GBM	
-C3L-02899	PDA	
+C3L-02899	PDA	not hispanic or latino	male	white	-26705
 C3L-02900	GBM	not hispanic or latino	male	white	-19332
 C3L-02951	LSCC	not hispanic or latino	male	white	-22502
 C3L-02952	PDA	
-C3L-02953	UCEC	
-C3L-02954	LUAD	
+C3L-02953	UCEC	hispanic or latino	female	white	-20752
+C3L-02954	LUAD	not hispanic or latino	female	black or african american	-19171
 C3L-02955	GBM	not hispanic or latino	female	white	-27855
 C3L-02956	PDA	
 C3L-02957	LUAD	not hispanic or latino	female	white	-20750
-C3L-02958	LUAD	
+C3L-02958	LUAD	not hispanic or latino	male	black or african american	-27124
 C3L-02959	LUAD	
-C3L-02961	LUAD	
+C3L-02961	LUAD	not hispanic or latino	female	white	-25640
 C3L-02963	LSCC	not hispanic or latino	male	white	-25991
 C3L-02964	LSCC	not hispanic or latino	male	white	-21194
-C3L-02967	LUAD	
+C3L-02967	LUAD	not hispanic or latino	male	white	-27537
 C3L-02968	LSCC	not hispanic or latino	male	white	-23682
 C3L-02969	LSCC	not hispanic or latino	male	white	-28108
 C3L-02970	GBM	not hispanic or latino	male	white	-21524
@@ -1088,12 +1088,12 @@ C3L-02985	LUAD
 C3L-02986	GBM	
 C3L-02987	LUAD	
 C3L-02988	LUAD	
-C3L-02990	UCEC	
+C3L-02990	UCEC	not hispanic or latino	female	white	-24520
 C3L-03121	UCEC	
-C3L-03123	PDA	
+C3L-03123	PDA	not reported	female	not reported	-22137
 C3L-03124	PDA	
 C3L-03125	PDA	
-C3L-03126	PDA	
+C3L-03126	PDA	not reported	male	not reported	-27665
 C3L-03127	PDA	
 C3L-03128	PDA	
 C3L-03129	PDA	
@@ -1104,10 +1104,10 @@ C3L-03135	HNSCC
 C3L-03138	HNSCC	
 C3L-03139	HNSCC	
 C3L-03142	UCEC	
-C3L-03143	UCEC	
+C3L-03143	UCEC	not hispanic or latino	female	asian	-24543
 C3L-03150	HNSCC	
 C3L-03151	UCEC	
-C3L-03152	UCEC	
+C3L-03152	UCEC	not hispanic or latino	female	white	-24779
 C3L-03162	LUAD	
 C3L-03164	UCEC	
 C3L-03165	UCEC	
@@ -1135,14 +1135,14 @@ C3L-03260	GBM	not hispanic or latino	female	white	-27394
 C3L-03261	PDA	
 C3L-03262	LUAD	not hispanic or latino	female	white	-24929
 C3L-03263	LSCC	
-C3L-03264	UCEC	
+C3L-03264	UCEC	not hispanic or latino	female	white	-26833
 C3L-03265	LUAD	
 C3L-03266	GBM	hispanic or latino	female	white	-22583
 C3L-03267	PDA	
-C3L-03268	LUAD	
+C3L-03268	LUAD	not hispanic or latino	female	white	-28668
 C3L-03269	LUAD	
 C3L-03270	LUAD	
-C3L-03271	LUAD	
+C3L-03271	LUAD	not hispanic or latino	female	white	-25833
 C3L-03272	LSCC	not hispanic or latino	male	white	-24779
 C3L-03273	GBM	
 C3L-03278	GBM	
@@ -1151,25 +1151,25 @@ C3L-03281	CM
 C3L-03283	HNSCC	
 C3L-03286	GBM	
 C3L-03288	LUAD	
-C3L-03308	AML	
+C3L-03308	AML	not reported	female	not reported	-24097
 C3L-03309	AML	
 C3L-03347	PDA	
 C3L-03348	PDA	
 C3L-03349	PDA	
-C3L-03350	PDA	
+C3L-03350	PDA	not reported	male	not reported	-23078
 C3L-03351	PDA	
 C3L-03352	PDA	
 C3L-03353	PDA	
 C3L-03354	PDA	
 C3L-03355	PDA	
-C3L-03356	PDA	
+C3L-03356	PDA	not reported	male	not reported	-26098
 C3L-03362	CM	
 C3L-03363	CM	
 C3L-03364	CM	
 C3L-03365	CM	
 C3L-03366	SAR	
 C3L-03367	CM	
-C3L-03371	PDA	
+C3L-03371	PDA	not reported	male	not reported	-19582
 C3L-03372	GBM	
 C3L-03374	CM	
 C3L-03377	CM	
@@ -1178,11 +1178,11 @@ C3L-03381	CM
 C3L-03382	CM	
 C3L-03385	GBM	
 C3L-03387	GBM	not reported	male	not reported	-25839
-C3L-03388	PDA	
+C3L-03388	PDA	not reported	male	not reported	-24887
 C3L-03389	GBM	
 C3L-03390	GBM	not reported	female	not reported	-16133
 C3L-03392	GBM	not reported	female	not reported	-18509
-C3L-03394	PDA	
+C3L-03394	PDA	not reported	female	not reported	-24110
 C3L-03395	PDA	
 C3L-03400	GBM	not reported	female	not reported	-14028
 C3L-03401	SAR	
@@ -1194,20 +1194,20 @@ C3L-03408	PDA
 C3L-03409	PDA	
 C3L-03410	LUAD	
 C3L-03461	GBM	
-C3L-03462	LUAD	
-C3L-03463	LUAD	
+C3L-03462	LUAD	not hispanic or latino	male	white	-22465
+C3L-03463	LUAD	not hispanic or latino	female	white	-22953
 C3L-03464	LUAD	
 C3L-03465	UCEC	
 C3L-03466	UCEC	
-C3L-03467	UCEC	
+C3L-03467	UCEC	not hispanic or latino	female	white	-26781
 C3L-03468	UCEC	
-C3L-03491	AML	
+C3L-03491	AML	not reported	female	not reported	-20405
 C3L-03492	AML	
-C3L-03493	AML	
+C3L-03493	AML	not reported	male	not reported	-23923
 C3L-03494	AML	
 C3L-03495	AML	
-C3L-03496	AML	
-C3L-03497	AML	
+C3L-03496	AML	not reported	female	not reported	-27693
+C3L-03497	AML	not reported	male	not reported	-21911
 C3L-03499	AML	
 C3L-03500	AML	
 C3L-03501	AML	
@@ -1247,7 +1247,7 @@ C3L-03585	GBM
 C3L-03586	GBM	
 C3L-03587	GBM	
 C3L-03588	GBM	
-C3L-03589	UCEC	
+C3L-03589	UCEC	not hispanic or latino	female	white	-21871
 C3L-03590	UCEC	
 C3L-03591	UCEC	
 C3L-03592	UCEC	
@@ -1263,19 +1263,19 @@ C3L-03624	PDA	not reported	female	not reported	-25430
 C3L-03625	PDA	
 C3L-03626	PDA	
 C3L-03627	PDA	
-C3L-03628	PDA	
+C3L-03628	PDA	not reported	female	not reported	-25282
 C3L-03629	PDA	
-C3L-03630	PDA	
+C3L-03630	PDA	not reported	male	not reported	-28674
 C3L-03631	PDA	
-C3L-03632	PDA	
+C3L-03632	PDA	not reported	male	not reported	null
 C3L-03633	PDA	
 C3L-03634	PDA	
-C3L-03635	PDA	
+C3L-03635	PDA	not reported	male	not reported	null
 C3L-03637	PDA	
-C3L-03639	PDA	
+C3L-03639	PDA	not reported	male	not reported	null
 C3L-03640	PDA	
 C3L-03641	SAR	
-C3L-03642	LUAD	
+C3L-03642	LUAD	not hispanic or latino	male	white	-23384
 C3L-03643	SAR	
 C3L-03644	SAR	
 C3L-03645	SAR	
@@ -1293,7 +1293,7 @@ C3L-03672	LSCC
 C3L-03676	GBM	
 C3L-03677	LUAD	
 C3L-03678	LSCC	not hispanic or latino	male	white	-18220
-C3L-03679	LUAD	
+C3L-03679	LUAD	not hispanic or latino	male	white	-26038
 C3L-03680	PDA	
 C3L-03681	GBM	not hispanic or latino	female	white	-22946
 C3L-03682	PDA	
@@ -1301,11 +1301,11 @@ C3L-03683	GBM
 C3L-03684	GBM	
 C3L-03687	HNSCC	
 C3L-03690	LUAD	
-C3L-03717	LUAD	
-C3L-03721	LUAD	
+C3L-03717	LUAD	not hispanic or latino	female	white	-19827
+C3L-03721	LUAD	not hispanic or latino	male	white	-20911
 C3L-03724	GBM	
 C3L-03725	LUAD	
-C3L-03726	LUAD	
+C3L-03726	LUAD	not hispanic or latino	male	white	-28285
 C3L-03727	GBM	not hispanic or latino	female	white	-26097
 C3L-03728	GBM	not hispanic or latino	female	white	-29326
 C3L-03729	GBM	
@@ -1319,7 +1319,7 @@ C3L-03737	GBM
 C3L-03739	UCEC	
 C3L-03740	GBM	
 C3L-03741	GBM	
-C3L-03743	PDA	
+C3L-03743	PDA	not hispanic or latino	female	white	-26051
 C3L-03744	GBM	not hispanic or latino	male	white	-27552
 C3L-03745	GBM	
 C3L-03746	GBM	
@@ -1344,21 +1344,21 @@ C3L-03963	LSCC	not reported	male	not reported	-26748
 C3L-03964	HNSCC	
 C3L-03965	LSCC	not reported	male	not reported	-19760
 C3L-03968	GBM	not reported	female	not reported	-22241
-C3L-03969	LUAD	
+C3L-03969	LUAD	not reported	male	not reported	-28101
 C3L-03971	LUAD	
 C3L-03972	LUAD	
 C3L-03973	CM	
 C3L-03974	CM	
 C3L-03975	CM	
-C3L-03976	LUAD	
+C3L-03976	LUAD	not reported	male	not reported	-23885
 C3L-03977	LUAD	
 C3L-03978	SAR	
 C3L-03980	SAR	
 C3L-03981	LSCC	
 C3L-03982	LSCC	
 C3L-03983	LUAD	
-C3L-03984	LUAD	
-C3L-03985	LUAD	
+C3L-03984	LUAD	not reported	male	not reported	-21834
+C3L-03985	LUAD	not reported	male	not reported	-24731
 C3L-03986	LUAD	
 C3L-03987	LSCC	
 C3L-03988	CM	
@@ -1375,33 +1375,33 @@ C3L-04019	HNSCC
 C3L-04020	HNSCC	
 C3L-04022	LUAD	
 C3L-04024	LUAD	
-C3L-04025	HNSCC	not reported	male	not reported	null
-C3L-04027	PDA	
+C3L-04025	HNSCC	not reported	male	not reported	-25290
+C3L-04027	PDA	not reported	male	not reported	-25375
 C3L-04029	LSCC	
 C3L-04030	HNSCC	
-C3L-04031	LUAD	
+C3L-04031	LUAD	not reported	female	not reported	-26760
 C3L-04032	LUAD	
-C3L-04033	LUAD	
+C3L-04033	LUAD	not reported	male	not reported	-14325
 C3L-04034	LUAD	
 C3L-04035	LUAD	
 C3L-04036	GBM	
-C3L-04037	LUAD	
+C3L-04037	LUAD	not reported	male	not reported	-18998
 C3L-04038	GBM	
 C3L-04039	CM	
-C3L-04040	LUAD	
+C3L-04040	LUAD	not reported	male	not reported	-28241
 C3L-04049	SAR	
 C3L-04060	HNSCC	
 C3L-04067	HNSCC	
 C3L-04069	LSCC	
 C3L-04071	LSCC	not hispanic or latino	male	white	-25328
-C3L-04072	PDA	
+C3L-04072	PDA	not hispanic or latino	male	black or african american	-20413
 C3L-04073	LUAD	
 C3L-04074	LUAD	
 C3L-04075	PDA	
 C3L-04076	PDA	
 C3L-04077	GBM	
 C3L-04079	LSCC	
-C3L-04080	PDA	
+C3L-04080	PDA	not hispanic or latino	male	white	-25862
 C3L-04081	GBM	
 C3L-04082	GBM	
 C3L-04083	GBM	
@@ -1423,19 +1423,19 @@ C3L-04216	LSCC
 C3L-04231	AML	
 C3L-04236	AML	
 C3L-04238	TBD	
-C3L-04241	AML	
-C3L-04242	AML	
+C3L-04241	AML	not reported	female	not reported	-14791
+C3L-04242	AML	not reported	female	not reported	-20327
 C3L-04243	AML	
-C3L-04244	AML	
-C3L-04245	AML	
+C3L-04244	AML	not reported	female	not reported	-28299
+C3L-04245	AML	not reported	female	not reported	-25307
 C3L-04247	AML	
 C3L-04248	AML	
 C3L-04249	AML	
-C3L-04250	AML	
+C3L-04250	AML	not reported	female	not reported	-26599
 C3L-04261	AML	
 C3L-04263	AML	
 C3L-04264	AML	
-C3L-04265	AML	
+C3L-04265	AML	not reported	female	not reported	-23490
 C3L-04267	AML	
 C3L-04268	TBD	
 C3L-04270	AML	
@@ -1467,7 +1467,7 @@ C3L-04361	LSCC
 C3L-04362	GBM	
 C3L-04363	CM	
 C3L-04364	CM	
-C3L-04365	LUAD	
+C3L-04365	LUAD	not reported	male	not reported	-23514
 C3L-04366	LUAD	
 C3L-04367	LSCC	
 C3L-04368	LUAD	
@@ -1492,13 +1492,13 @@ C3L-04408	LSCC
 C3L-04409	LSCC	
 C3L-04410	LSCC	
 C3L-04472	PDA	
-C3L-04473	PDA	
+C3L-04473	PDA	not reported	female	not reported	null
 C3L-04474	PDA	
-C3L-04475	PDA	
+C3L-04475	PDA	not reported	male	not reported	null
 C3L-04476	HNSCC	
 C3L-04477	PDA	
 C3L-04478	PDA	
-C3L-04479	PDA	
+C3L-04479	PDA	not reported	male	not reported	null
 C3L-04480	PDA	
 C3L-04482	AML	
 C3L-04483	AML	
@@ -1511,17 +1511,17 @@ C3L-04491	PDA
 C3L-04492	SAR	
 C3L-04493	SAR	
 C3L-04494	SAR	
-C3L-04495	PDA	
+C3L-04495	PDA	not reported	female	not reported	null
 C3L-04496	HNSCC	
 C3L-04497	HNSCC	
 C3L-04498	HNSCC	
 C3L-04499	UCEC	
 C3L-04500	PDA	
 C3L-04504	AML	
-C3L-04505	AML	
+C3L-04505	AML	not reported	female	not reported	-16464
 C3L-04506	AML	
 C3L-04507	AML	
-C3L-04508	AML	
+C3L-04508	AML	not reported	female	not reported	-22148
 C3L-04509	AML	
 C3L-04510	AML	
 C3L-04511	HNSCC	
@@ -1587,15 +1587,15 @@ C3L-04752	HNSCC
 C3L-04753	HNSCC	
 C3L-04754	LUAD	
 C3L-04756	LSCC	
-C3L-04757	LUAD	
-C3L-04759	LUAD	
+C3L-04757	LUAD	not reported	male	not reported	-24886
+C3L-04759	LUAD	not reported	female	not reported	-24773
 C3L-04760	CM	
 C3L-04761	AML	
 C3L-04762	AML	
 C3L-04763	AML	
-C3L-04764	AML	
-C3L-04766	AML	
-C3L-04767	AML	
+C3L-04764	AML	not reported	female	not reported	-28831
+C3L-04766	AML	not reported	female	not reported	-15640
+C3L-04767	AML	not reported	female	not reported	-21368
 C3L-04768	AML	
 C3L-04771	AML	
 C3L-04772	AML	
@@ -1649,7 +1649,7 @@ C3L-04842	GBM
 C3L-04844	HNSCC	not reported	female	not reported	null
 C3L-04845	PDA	
 C3L-04846	HNSCC	
-C3L-04848	PDA	
+C3L-04848	PDA	not reported	female	not reported	null
 C3L-04849	HNSCC	not reported	male	not reported	null
 C3L-04850	PDA	
 C3L-04851	PDA	
@@ -2179,7 +2179,7 @@ C3N-00704	LUAD	not hispanic or latino	female	white	-24887
 C3N-00705	LUAD	
 C3N-00706	LUAD	
 C3N-00707	LUAD	
-C3N-00709	PDA	
+C3N-00709	PDA	not hispanic or latino	male	white	null
 C3N-00713	LSCC	
 C3N-00715	CCRCC	not hispanic or latino	male	white	null
 C3N-00721	CCRCC	not hispanic or latino	male	white	null
@@ -2202,7 +2202,7 @@ C3N-00745	HNSCC
 C3N-00746	LUAD	
 C3N-00747	CCRCC	
 C3N-00749	CCRCC	
-C3N-00750	UCEC	
+C3N-00750	UCEC	hispanic or latino	female	white	null
 C3N-00751	UCEC	
 C3N-00752	CCRCC	
 C3N-00753	UCEC	not hispanic or latino	female	asian	null
@@ -2288,7 +2288,7 @@ C3N-01007	UCEC	not reported	female	not reported	-21777
 C3N-01008	UCEC	not reported	female	not reported	-24919
 C3N-01009	UCEC	
 C3N-01011	PDA	not hispanic or latino	female	white	-28289
-C3N-01012	PDA	
+C3N-01012	PDA	not hispanic or latino	male	white	-25953
 C3N-01013	LUAD	
 C3N-01015	LUAD	
 C3N-01016	LUAD	not reported	male	not reported	-20787
@@ -2312,7 +2312,7 @@ C3N-01074	LUAD	not reported	male	not reported	-20803
 C3N-01075	CCRCC	
 C3N-01077	CCRCC	not reported	male	not reported	null
 C3N-01078	CCRCC	not reported	female	not reported	null
-C3N-01079	UCEC	
+C3N-01079	UCEC	not reported	female	not reported	null
 C3N-01080	CCRCC	not reported	male	not reported	null
 C3N-01081	CCRCC	not reported	female	not reported	null
 C3N-01082	CCRCC	not reported	female	not reported	null
@@ -2530,7 +2530,7 @@ C3N-01715	PDA	not reported	female	not reported	-22534
 C3N-01716	PDA	not reported	male	not reported	-18343
 C3N-01717	PDA	
 C3N-01718	PDA	
-C3N-01719	PDA	
+C3N-01719	PDA	not reported	female	not reported	-23073
 C3N-01720	PDA	
 C3N-01751	HNSCC	
 C3N-01752	HNSCC	not reported	male	not reported	-26753
@@ -2547,7 +2547,7 @@ C3N-01762	UCEC
 C3N-01763	UCEC	not reported	female	not reported	-25257
 C3N-01764	UCEC	
 C3N-01765	UCEC	not reported	female	not reported	-21285
-C3N-01766	UCEC	
+C3N-01766	UCEC	not reported	female	not reported	-23195
 C3N-01767	TBD	
 C3N-01768	TBD	
 C3N-01789	GBM	
@@ -2575,7 +2575,7 @@ C3N-01817	GBM	not reported	female	not reported	-22797
 C3N-01818	GBM	not reported	male	not reported	-22156
 C3N-01819	SAR	
 C3N-01820	CM	
-C3N-01821	UCEC	
+C3N-01821	UCEC	not reported	female	not reported	-24345
 C3N-01823	LUAD	not reported	male	not reported	-23322
 C3N-01824	CM	
 C3N-01825	UCEC	not reported	female	not reported	-25659
@@ -2610,8 +2610,8 @@ C3N-01875	UCEC	not reported	female	not reported	-24349
 C3N-01876	UCEC	not reported	female	not reported	-23808
 C3N-01877	UCEC	not reported	female	not reported	-27005
 C3N-01878	UCEC	not reported	female	not reported	-21655
-C3N-01879	UCEC	
-C3N-01880	UCEC	
+C3N-01879	UCEC	not reported	female	not reported	-24542
+C3N-01880	UCEC	not reported	female	not reported	-24932
 C3N-01891	LUAD	
 C3N-01892	LSCC	not reported	male	not reported	-28359
 C3N-01893	LSCC	not reported	male	not reported	-25889
@@ -2621,14 +2621,14 @@ C3N-01896	PDA
 C3N-01897	PDA	not reported	male	not reported	-20477
 C3N-01898	PDA	
 C3N-01899	PDA	
-C3N-01900	PDA	
+C3N-01900	PDA	not reported	male	not reported	-19495
 C3N-01901	CCRCC	
 C3N-01902	CCRCC	not reported	male	not reported	-23391
 C3N-01903	CCRCC	
 C3N-01904	CCRCC	
 C3N-01905	CCRCC	not reported	male	not reported	-21631
 C3N-01906	PDA	
-C3N-01907	PDA	
+C3N-01907	PDA	not reported	male	not reported	-22813
 C3N-01908	PDA	
 C3N-01909	PDA	
 C3N-01910	PDA	
@@ -2668,17 +2668,17 @@ C3N-02004	PDA
 C3N-02005	CCRCC	not reported	male	not reported	-23084
 C3N-02006	UCEC	
 C3N-02007	CCRCC	
-C3N-02010	PDA	
+C3N-02010	PDA	not hispanic or latino	female	black or african american	-22742
 C3N-02011	UCEC	
 C3N-02012	UCEC	not hispanic or latino	female	white	-25277
 C3N-02013	UCEC	
 C3N-02014	PDA	
 C3N-02015	CCRCC	not hispanic or latino	male	white	-19939
 C3N-02026	CM	
-C3N-02027	UCEC	
+C3N-02027	UCEC	not reported	female	not reported	-20045
 C3N-02028	UCEC	
 C3N-02029	UCEC	
-C3N-02030	UCEC	
+C3N-02030	UCEC	not reported	female	not reported	-22893
 C3N-02031	CM	
 C3N-02032	UCEC	
 C3N-02033	CM	
@@ -2689,7 +2689,7 @@ C3N-02037	CCRCC
 C3N-02038	SAR	not reported	male	not reported	-19331
 C3N-02039	CM	
 C3N-02040	CM	
-C3N-02061	UCEC	
+C3N-02061	UCEC	not reported	female	not reported	-24760
 C3N-02062	UCEC	
 C3N-02063	CCRCC	not reported	male	not reported	-18159
 C3N-02064	SAR	
@@ -2711,7 +2711,7 @@ C3N-02089	LUAD	not reported	male	not reported	-27910
 C3N-02090	LUAD	not reported	male	not reported	-22432
 C3N-02141	LUAD	not reported	female	not reported	-26460
 C3N-02142	LUAD	not reported	male	not reported	-23162
-C3N-02143	LUAD	
+C3N-02143	LUAD	not reported	male	not reported	null
 C3N-02144	LUAD	not reported	male	not reported	-26253
 C3N-02145	LUAD	not reported	female	not reported	-24986
 C3N-02146	LUAD	not reported	female	not reported	-25450
@@ -2720,7 +2720,7 @@ C3N-02148	LUAD
 C3N-02149	LUAD	not reported	male	not reported	-23517
 C3N-02150	LUAD	not reported	male	not reported	-18050
 C3N-02151	LUAD	
-C3N-02152	LUAD	
+C3N-02152	LUAD	not reported	male	not reported	-22161
 C3N-02153	LUAD	not reported	male	not reported	-20241
 C3N-02154	LUAD	
 C3N-02155	LUAD	not reported	male	not reported	-16568
@@ -2734,8 +2734,8 @@ C3N-02186	GBM	not reported	male	not reported	-19526
 C3N-02188	GBM	not reported	male	not reported	-21709
 C3N-02190	GBM	not reported	male	not reported	-19534
 C3N-02191	LUAD	
-C3N-02192	LUAD	
-C3N-02193	LUAD	
+C3N-02192	LUAD	not hispanic or latino	female	white	-24166
+C3N-02193	LUAD	not hispanic or latino	female	white	-28999
 C3N-02194	LUAD	
 C3N-02196	LUAD	
 C3N-02224	CCRCC	not reported	female	not reported	null
@@ -2757,7 +2757,7 @@ C3N-02242	LUAD	not reported	female	not reported	-17416
 C3N-02243	LUAD	
 C3N-02244	UCEC	hispanic or latino	female	not reported	null
 C3N-02246	SAR	
-C3N-02247	UCEC	
+C3N-02247	UCEC	hispanic or latino	female	unknown	null
 C3N-02248	CCRCC	hispanic or latino	male	not reported	null
 C3N-02249	UCEC	hispanic or latino	female	white	null
 C3N-02251	LUAD	
@@ -2780,10 +2780,10 @@ C3N-02267	CCRCC
 C3N-02268	CCRCC	
 C3N-02269	CCRCC	
 C3N-02270	CM	
-C3N-02271	UCEC	
+C3N-02271	UCEC	not reported	female	not reported	-21506
 C3N-02272	UCEC	
 C3N-02273	UCEC	
-C3N-02274	UCEC	
+C3N-02274	UCEC	not reported	female	not reported	-29493
 C3N-02275	HNSCC	not reported	male	not reported	-25376
 C3N-02276	HNSCC	
 C3N-02278	HNSCC	
@@ -2802,10 +2802,10 @@ C3N-02290	LUAD	not reported	male	not reported	-18896
 C3N-02291	TBD	
 C3N-02293	PDA	
 C3N-02294	PDA	
-C3N-02295	PDA	
-C3N-02296	UCEC	
+C3N-02295	PDA	not reported	female	not reported	-20557
+C3N-02296	UCEC	not reported	female	not reported	-30417
 C3N-02297	UCEC	
-C3N-02298	UCEC	
+C3N-02298	UCEC	not reported	female	not reported	-30352
 C3N-02299	UCEC	
 C3N-02300	LSCC	not reported	female	not reported	-25366
 C3N-02301	TBD	
@@ -2829,7 +2829,7 @@ C3N-02338	CCRCC	not reported	male	not reported	-21451
 C3N-02339	LSCC	not reported	male	not reported	-28848
 C3N-02340	SAR	
 C3N-02371	SAR	
-C3N-02372	UCEC	
+C3N-02372	UCEC	not reported	female	not reported	-19828
 C3N-02373	CM	
 C3N-02374	LSCC	not reported	male	not reported	-24670
 C3N-02375	LSCC	not reported	male	not reported	-21871
@@ -2858,7 +2858,7 @@ C3N-02437	UCEC
 C3N-02438	GBM	
 C3N-02439	CCRCC	not hispanic or latino	male	white	-20891
 C3N-02440	CCRCC	
-C3N-02451	LUAD	
+C3N-02451	LUAD	not hispanic or latino	female	black or african american	-28546
 C3N-02452	UCEC	
 C3N-02453	PDA	
 C3N-02494	LSCC	not hispanic or latino	female	black or african american	-24467
@@ -2879,41 +2879,41 @@ C3N-02528	LUAD
 C3N-02529	LUAD	not reported	female	not reported	-29049
 C3N-02571	LUAD	
 C3N-02572	LUAD	not reported	male	not reported	-18003
-C3N-02573	PDA	
+C3N-02573	PDA	not reported	female	not reported	-15316
 C3N-02574	LUAD	
 C3N-02575	LSCC	not reported	male	not reported	-25569
 C3N-02576	LUAD	
 C3N-02577	CCRCC	not reported	male	not reported	-17439
 C3N-02578	CCRCC	
-C3N-02579	PDA	
+C3N-02579	PDA	not reported	female	not reported	-18922
 C3N-02580	SAR	
 C3N-02581	GBM	
 C3N-02582	LUAD	not reported	male	not reported	-28227
 C3N-02584	SAR	
-C3N-02585	PDA	
+C3N-02585	PDA	not reported	male	not reported	-23804
 C3N-02586	LUAD	not reported	male	not reported	-27040
 C3N-02587	LUAD	not reported	female	not reported	-21789
 C3N-02588	LUAD	not reported	male	not reported	-25225
-C3N-02589	PDA	
+C3N-02589	PDA	not reported	male	not reported	-26373
 C3N-02590	PDA	not reported	female	not reported	-25019
 C3N-02591	PDA	not reported	male	not reported	-22332
-C3N-02592	PDA	
+C3N-02592	PDA	not reported	female	not reported	-23318
 C3N-02593	PDA	
 C3N-02594	PDA	
-C3N-02595	UCEC	
+C3N-02595	UCEC	not reported	female	not reported	-15077
 C3N-02596	UCEC	
 C3N-02597	UCEC	
-C3N-02598	UCEC	
+C3N-02598	UCEC	not reported	female	not reported	-21956
 C3N-02599	GBM	
-C3N-02631	UCEC	
-C3N-02632	UCEC	
+C3N-02631	UCEC	not reported	female	not reported	-28135
+C3N-02632	UCEC	not reported	female	not reported	-21150
 C3N-02633	CM	
 C3N-02634	UCEC	
-C3N-02635	UCEC	
+C3N-02635	UCEC	not reported	female	not reported	-20705
 C3N-02636	UCEC	
-C3N-02637	UCEC	
+C3N-02637	UCEC	not reported	female	not reported	-19558
 C3N-02638	UCEC	
-C3N-02639	UCEC	
+C3N-02639	UCEC	not reported	female	not reported	-21610
 C3N-02640	TBD	
 C3N-02671	LUAD	
 C3N-02672	LUAD	not reported	female	not reported	-22056
@@ -2922,7 +2922,7 @@ C3N-02674	LUAD
 C3N-02675	LSCC	not reported	male	not reported	-25757
 C3N-02676	CCRCC	
 C3N-02677	CCRCC	
-C3N-02678	UCEC	
+C3N-02678	UCEC	not reported	female	not reported	-25556
 C3N-02679	CM	
 C3N-02680	HNSCC	
 C3N-02681	GBM	
@@ -2940,7 +2940,7 @@ C3N-02693	HNSCC	not reported	male	not reported	-15703
 C3N-02694	HNSCC	not reported	male	not reported	-21257
 C3N-02695	HNSCC	not reported	male	not reported	-16652
 C3N-02696	PDA	
-C3N-02697	PDA	
+C3N-02697	PDA	not reported	female	not reported	-25726
 C3N-02698	PDA	
 C3N-02699	LUAD	
 C3N-02700	HNSCC	not reported	female	not reported	-29529
@@ -2977,7 +2977,7 @@ C3N-02763	CCRCC	not reported	male	not reported	-27965
 C3N-02764	LUAD	not reported	male	not reported	-24321
 C3N-02765	PDA	
 C3N-02767	LUAD	
-C3N-02768	PDA	
+C3N-02768	PDA	not reported	male	not reported	-17037
 C3N-02769	GBM	not reported	male	not reported	-19701
 C3N-02770	GBM	not reported	male	not reported	-25753
 C3N-02782	GBM	not reported	female	not reported	-17506
@@ -2986,7 +2986,7 @@ C3N-02784	GBM	not reported	male	not reported	-13569
 C3N-02785	GBM	not reported	male	not reported	-25301
 C3N-02786	GBM	not reported	female	not reported	-14593
 C3N-02788	GBM	not reported	male	not reported	-23634
-C3N-02789	UCEC	
+C3N-02789	UCEC	not hispanic or latino	female	white	-22610
 C3N-02811	CCRCC	not hispanic or latino	male	white	-27281
 C3N-02814	CCRCC	
 C3N-02815	LSCC	
@@ -2995,7 +2995,7 @@ C3N-02818	CCRCC
 C3N-02825	LUAD	
 C3N-02826	LUAD	
 C3N-02827	LUAD	
-C3N-02828	LUAD	
+C3N-02828	LUAD	not reported	female	not reported	null
 C3N-02829	LUAD	
 C3N-02830	LUAD	
 C3N-02861	LUAD	
@@ -3017,19 +3017,19 @@ C3N-02909	CM
 C3N-02911	LUAD	
 C3N-02912	LUAD	
 C3N-02913	LUAD	
-C3N-02916	LUAD	
+C3N-02916	LUAD	not reported	male	not reported	-21891
 C3N-02917	LUAD	
 C3N-02918	LUAD	
-C3N-02919	LUAD	
-C3N-02920	LUAD	
+C3N-02919	LUAD	not reported	male	not reported	-21151
+C3N-02920	LUAD	not reported	female	not reported	-17859
 C3N-02921	LUAD	
-C3N-02922	LUAD	
+C3N-02922	LUAD	not reported	male	not reported	-20077
 C3N-02923	LUAD	not reported	male	not reported	-21896
 C3N-02924	LUAD	
 C3N-02925	HNSCC	not reported	female	not reported	-25138
 C3N-02926	LUAD	not reported	female	not reported	-18463
 C3N-02927	CCRCC	
-C3N-02928	LUAD	
+C3N-02928	LUAD	not reported	male	not reported	-23733
 C3N-02929	LUAD	not reported	male	not reported	-21205
 C3N-02930	PDA	
 C3N-02931	CCRCC	
@@ -3040,42 +3040,42 @@ C3N-02935	CCRCC
 C3N-02936	CCRCC	
 C3N-02937	CCRCC	
 C3N-02938	CCRCC	
-C3N-02939	PDA	
-C3N-02940	PDA	
+C3N-02939	PDA	not reported	female	not reported	-24594
+C3N-02940	PDA	not reported	male	not reported	-23550
 C3N-02942	SAR	
 C3N-02943	CCRCC	
 C3N-02944	PDA	
 C3N-02945	CCRCC	not hispanic or latino	female	white	-24182
 C3N-02946	LUAD	
-C3N-02947	UCEC	
-C3N-02948	LUAD	
+C3N-02947	UCEC	not hispanic or latino	female	white	-18827
+C3N-02948	LUAD	not hispanic or latino	male	white	-24802
 C3N-02949	LUAD	
-C3N-02950	LUAD	
-C3N-02971	PDA	
-C3N-02972	UCEC	
+C3N-02950	LUAD	not hispanic or latino	female	white	-26507
+C3N-02971	PDA	not hispanic or latino	female	white	-28635
+C3N-02972	UCEC	not hispanic or latino	female	white	-27311
 C3N-02973	LUAD	not hispanic or latino	male	white	-28611
 C3N-02974	LUAD	
 C3N-02975	TBD	
 C3N-02976	UCEC	
 C3N-02977	TBD	
-C3N-02978	UCEC	
-C3N-02979	UCEC	
+C3N-02978	UCEC	not reported	female	not reported	-24162
+C3N-02979	UCEC	not reported	female	not reported	-22542
 C3N-02980	UCEC	
 C3N-02991	TBD	
 C3N-02992	UCEC	
 C3N-02993	UCEC	
-C3N-02994	UCEC	
+C3N-02994	UCEC	not reported	female	not reported	-25102
 C3N-02995	TBD	
 C3N-02996	PDA	
 C3N-02997	PDA	not reported	male	not reported	-26837
-C3N-02998	PDA	
+C3N-02998	PDA	not reported	female	not reported	-23734
 C3N-02999	PDA	
-C3N-03000	PDA	
+C3N-03000	PDA	not reported	male	not reported	-21209
 C3N-03001	GBM	
 C3N-03002	GBM	
 C3N-03003	GBM	
 C3N-03004	UCEC	
-C3N-03005	UCEC	
+C3N-03005	UCEC	not reported	female	not reported	-32872
 C3N-03006	PDA	
 C3N-03007	PDA	
 C3N-03008	HNSCC	not reported	female	not reported	-23789
@@ -3108,13 +3108,13 @@ C3N-03034	TBD
 C3N-03035	LSCC	
 C3N-03036	PDA	
 C3N-03037	PDA	
-C3N-03038	LUAD	
-C3N-03039	PDA	
+C3N-03038	LUAD	not hispanic or latino	male	white	null
+C3N-03039	PDA	not hispanic or latino	female	white	null
 C3N-03040	LUAD	
 C3N-03041	LUAD	
 C3N-03042	HNSCC	hispanic or latino	female	not reported	-24572
 C3N-03043	HNSCC	
-C3N-03044	UCEC	
+C3N-03044	UCEC	not hispanic or latino	female	black or african american	null
 C3N-03045	HNSCC	hispanic or latino	male	not reported	-28410
 C3N-03046	LUAD	
 C3N-03047	HNSCC	
@@ -3123,31 +3123,31 @@ C3N-03049	PDA
 C3N-03051	LSCC	not reported	male	not reported	-24037
 C3N-03052	LUAD	
 C3N-03053	LUAD	
-C3N-03054	LUAD	
+C3N-03054	LUAD	not reported	male	not reported	-26640
 C3N-03055	LUAD	
 C3N-03056	LUAD	
-C3N-03057	LUAD	
+C3N-03057	LUAD	not reported	male	not reported	-22417
 C3N-03059	LSCC	
 C3N-03061	PDA	
 C3N-03062	LUAD	
-C3N-03063	LUAD	
+C3N-03063	LUAD	not reported	male	not reported	-22957
 C3N-03064	GBM	
 C3N-03065	PDA	
 C3N-03066	SAR	
 C3N-03067	PDA	
 C3N-03068	SAR	
-C3N-03069	PDA	
+C3N-03069	PDA	not reported	female	not reported	-18530
 C3N-03070	GBM	not reported	female	not reported	-24111
 C3N-03071	GBM	
 C3N-03072	LSCC	not reported	male	not reported	-22994
-C3N-03073	LUAD	
-C3N-03074	LUAD	
+C3N-03073	LUAD	not reported	male	not reported	-25205
+C3N-03074	LUAD	not reported	female	not reported	-19500
 C3N-03075	LUAD	
 C3N-03076	LSCC	not reported	male	not reported	-24846
 C3N-03077	PDA	
 C3N-03078	LUAD	
 C3N-03079	LUAD	
-C3N-03080	LUAD	
+C3N-03080	LUAD	not reported	male	not reported	-24834
 C3N-03081	SAR	
 C3N-03082	PDA	
 C3N-03083	SAR	
@@ -3177,16 +3177,16 @@ C3N-03184	GBM	not reported	male	not reported	-12827
 C3N-03186	GBM	not reported	female	not reported	-20009
 C3N-03187	GBM	not reported	male	not reported	-15845
 C3N-03188	GBM	not reported	male	not reported	-19856
-C3N-03190	PDA	
+C3N-03190	PDA	not reported	male	not reported	-11659
 C3N-03201	PDA	
-C3N-03202	LUAD	
+C3N-03202	LUAD	not reported	male	not reported	-24932
 C3N-03203	LSCC	
 C3N-03204	LSCC	not reported	male	not reported	-22652
 C3N-03205	LUAD	not reported	female	not reported	-15778
 C3N-03206	LSCC	
 C3N-03208	SAR	
-C3N-03210	LUAD	
-C3N-03211	PDA	
+C3N-03210	LUAD	not reported	male	not reported	-18827
+C3N-03211	PDA	not reported	male	not reported	-13856
 C3N-03212	LUAD	not reported	female	not reported	-25659
 C3N-03213	LUAD	
 C3N-03214	SAR	
@@ -3199,7 +3199,7 @@ C3N-03221	SAR
 C3N-03222	LUAD	not reported	male	not reported	-26630
 C3N-03223	CM	
 C3N-03224	HNSCC	
-C3N-03225	LUAD	
+C3N-03225	LUAD	not reported	male	not reported	-20775
 C3N-03226	HNSCC	not reported	male	not reported	-19938
 C3N-03227	SAR	
 C3N-03228	CM	
@@ -3215,9 +3215,9 @@ C3N-03237	CM
 C3N-03238	LUAD	not reported	male	not reported	-17380
 C3N-03239	CM	
 C3N-03414	UCEC	
-C3N-03415	UCEC	
+C3N-03415	UCEC	not reported	female	not reported	-31332
 C3N-03416	UCEC	
-C3N-03417	UCEC	
+C3N-03417	UCEC	not reported	female	not reported	-24764
 C3N-03418	TBD	
 C3N-03419	UCEC	
 C3N-03420	LUAD	not reported	female	not reported	-24141
@@ -3226,11 +3226,11 @@ C3N-03422	TBD
 C3N-03423	LUAD	
 C3N-03424	LSCC	not reported	male	not reported	-27161
 C3N-03425	LSCC	not reported	female	not reported	-23574
-C3N-03426	PDA	
+C3N-03426	PDA	not reported	female	not reported	-24937
 C3N-03427	PDA	
-C3N-03428	PDA	
+C3N-03428	PDA	not reported	male	not reported	-22645
 C3N-03429	TBD	
-C3N-03430	PDA	
+C3N-03430	PDA	not reported	female	not reported	-19790
 C3N-03431	TBD	
 C3N-03432	TBD	
 C3N-03433	HNSCC	not reported	male	not reported	-28032
@@ -3238,8 +3238,8 @@ C3N-03434	HNSCC
 C3N-03435	HNSCC	
 C3N-03436	PDA	
 C3N-03437	PDA	
-C3N-03439	PDA	
-C3N-03440	PDA	
+C3N-03439	PDA	not reported	female	not reported	-20776
+C3N-03440	PDA	not reported	female	not reported	-19891
 C3N-03441	LSCC	not reported	male	not reported	-24774
 C3N-03442	LUAD	
 C3N-03443	LSCC	
@@ -3254,7 +3254,7 @@ C3N-03453	GBM
 C3N-03455	TBD	
 C3N-03456	HNSCC	not reported	male	not reported	-23616
 C3N-03457	HNSCC	not reported	male	not reported	-26052
-C3N-03458	HNSCC	not reported	male	not reported	null
+C3N-03458	HNSCC	not reported	male	not reported	-25648
 C3N-03459	HNSCC	
 C3N-03460	CM	
 C3N-03473	GBM	not reported	female	not reported	-11053
@@ -3279,8 +3279,8 @@ C3N-03661	HNSCC
 C3N-03662	LSCC	not reported	male	not reported	-23732
 C3N-03663	LUAD	
 C3N-03664	HNSCC	not reported	male	not reported	-21361
-C3N-03665	PDA	
-C3N-03666	PDA	
+C3N-03665	PDA	not reported	male	not reported	-23091
+C3N-03666	PDA	not reported	male	not reported	-23170
 C3N-03667	PDA	
 C3N-03668	PDA	
 C3N-03669	PDA	
@@ -3298,10 +3298,10 @@ C3N-03760	LSCC
 C3N-03761	LUAD	
 C3N-03762	LSCC	
 C3N-03763	LUAD	
-C3N-03764	LUAD	
-C3N-03765	LUAD	
+C3N-03764	LUAD	not reported	male	not reported	-25223
+C3N-03765	LUAD	not reported	male	not reported	-22260
 C3N-03766	SAR	
-C3N-03767	UCEC	
+C3N-03767	UCEC	not reported	female	not reported	-24142
 C3N-03768	CM	
 C3N-03769	CM	
 C3N-03771	HNSCC	
@@ -3310,9 +3310,9 @@ C3N-03773	HNSCC
 C3N-03775	HNSCC	
 C3N-03776	PDA	
 C3N-03777	TBD	
-C3N-03778	PDA	
+C3N-03778	PDA	not reported	male	not reported	-28446
 C3N-03779	TBD	
-C3N-03780	PDA	
+C3N-03780	PDA	not reported	female	not reported	-25275
 C3N-03781	HNSCC	not reported	male	not reported	-24899
 C3N-03782	HNSCC	not reported	female	not reported	-18540
 C3N-03783	HNSCC	not reported	male	not reported	-24500
@@ -3336,8 +3336,8 @@ C3N-03835	LUAD
 C3N-03836	LUAD	
 C3N-03837	HNSCC	not reported	male	not reported	-19778
 C3N-03838	SAR	
-C3N-03839	PDA	
-C3N-03840	PDA	
+C3N-03839	PDA	not reported	female	not reported	null
+C3N-03840	PDA	not reported	female	not reported	-21749
 C3N-03841	HNSCC	not reported	male	not reported	-21732
 C3N-03842	PDA	
 C3N-03843	LUAD	
@@ -3349,7 +3349,7 @@ C3N-03849	HNSCC	not reported	male	not reported	-20363
 C3N-03850	GBM	
 C3N-03851	LSCC	not reported	male	not reported	-16108
 C3N-03852	HNSCC	
-C3N-03853	PDA	
+C3N-03853	PDA	not reported	female	not reported	-17976
 C3N-03854	PDA	
 C3N-03855	LUAD	
 C3N-03857	LUAD	
@@ -3366,14 +3366,14 @@ C3N-03880	LSCC	not reported	male	not reported	-27786
 C3N-03881	PDA	
 C3N-03882	LSCC	not reported	male	not reported	-25174
 C3N-03883	LUAD	
-C3N-03884	PDA	
+C3N-03884	PDA	not reported	female	not reported	-23590
 C3N-03885	CM	
 C3N-03886	LSCC	not reported	male	not reported	-22042
 C3N-03887	CM	
 C3N-03888	HNSCC	not reported	male	not reported	-21474
 C3N-03889	HNSCC	not reported	male	not reported	-19505
-C3N-03890	LUAD	
-C3N-03911	LUAD	
+C3N-03890	LUAD	not reported	female	not reported	-23096
+C3N-03911	LUAD	not reported	female	not reported	-25935
 C3N-03912	LSCC	
 C3N-03913	CM	
 C3N-03914	SAR	
@@ -3383,7 +3383,7 @@ C3N-03917	SAR
 C3N-03918	CM	
 C3N-03919	LUAD	
 C3N-03920	CM	
-C3N-03921	LUAD	
+C3N-03921	LUAD	not reported	female	not reported	-26682
 C3N-03922	CM	
 C3N-03923	LSCC	
 C3N-03924	CM	
@@ -3391,7 +3391,7 @@ C3N-03925	SAR
 C3N-03926	SAR	
 C3N-03927	SAR	
 C3N-03928	HNSCC	not reported	female	not reported	-22113
-C3N-03929	LUAD	
+C3N-03929	LUAD	not reported	male	not reported	-18638
 C3N-03930	CM	
 C3N-03931	CM	
 C3N-03932	LUAD	
@@ -3405,13 +3405,13 @@ C3N-04097	GBM
 C3N-04098	GBM	
 C3N-04100	GBM	
 C3N-04113	GBM	
-C3N-04119	PDA	
+C3N-04119	PDA	not reported	male	not reported	-19826
 C3N-04121	SAR	
 C3N-04122	LUAD	
 C3N-04123	SAR	
 C3N-04124	LSCC	not reported	male	not reported	-22895
 C3N-04125	LSCC	
-C3N-04126	PDA	
+C3N-04126	PDA	not reported	male	not reported	-15708
 C3N-04127	LSCC	not reported	male	not reported	-23148
 C3N-04128	LUAD	
 C3N-04130	LUAD	
@@ -3437,7 +3437,7 @@ C3N-04153	HNSCC
 C3N-04154	CM	
 C3N-04155	LSCC	not reported	male	not reported	-28060
 C3N-04156	CM	
-C3N-04157	LUAD	
+C3N-04157	LUAD	not reported	male	not reported	-22497
 C3N-04158	SAR	
 C3N-04159	CM	
 C3N-04160	LUAD	
@@ -3448,19 +3448,19 @@ C3N-04164	SAR
 C3N-04165	SAR	
 C3N-04166	LUAD	
 C3N-04167	LSCC	
-C3N-04168	LUAD	
+C3N-04168	LUAD	not reported	female	not reported	-18727
 C3N-04169	LSCC	
 C3N-04170	LSCC	
 C3N-04171	LUAD	
 C3N-04172	LUAD	
-C3N-04173	LUAD	
+C3N-04173	LUAD	not reported	male	not reported	-25564
 C3N-04174	LUAD	
 C3N-04175	LUAD	
-C3N-04176	LUAD	
+C3N-04176	LUAD	not reported	female	not reported	-23173
 C3N-04177	LUAD	
 C3N-04178	LUAD	
 C3N-04179	LSCC	
-C3N-04180	LUAD	
+C3N-04180	LUAD	not reported	female	not reported	null
 C3N-04251	GBM	
 C3N-04252	GBM	
 C3N-04253	GBM	
@@ -3480,8 +3480,8 @@ C3N-04277	HNSCC	not reported	male	not reported	-26445
 C3N-04278	HNSCC	not reported	male	not reported	-26252
 C3N-04279	HNSCC	not reported	male	not reported	-24049
 C3N-04280	HNSCC	not reported	male	not reported	-24126
-C3N-04282	PDA	
-C3N-04283	PDA	
+C3N-04282	PDA	not reported	male	not reported	-27699
+C3N-04283	PDA	not reported	female	not reported	-24187
 C3N-04284	PDA	
 C3N-04291	UCEC	
 C3N-04293	CM	
@@ -3493,7 +3493,7 @@ C3N-04298	LUAD
 C3N-04312	GBM	
 C3N-04325	LUAD	
 C3N-04330	LUAD	
-C3N-04382	LUAD	
+C3N-04382	LUAD	not hispanic or latino	female	white	-17484
 C3N-04383	PDA	
 C3N-04384	LSCC	
 C3N-04385	LSCC	
