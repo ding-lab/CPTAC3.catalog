@@ -5,6 +5,7 @@ Holds details about CPTAC3 data at GDC and in Ding Lab.
 ## Overview 
 
 * `CPTAC3.cases.dat`: All known cases associated with CPTAC3 project.  This is the master list
+    * This also defines the cohort (discovery or confirmatory) and batch of each case.  Note that each case may be in multiple batches
 * `CPTAC3.AR.dat`: Details about all sequence data (WGS, WXS, RNA-Seq, miRNA-Seq) at GDC associated with all known cases
     * Note that this was previously called `CPTAC3.SR.dat`
 * `*.BamMap.dat`: "BamMap" files for various systems indicating locations of downloaded hg19, hg38, and FASTQ sequence data
@@ -14,11 +15,12 @@ Holds details about CPTAC3 data at GDC and in Ding Lab.
     * WXS.hg19 - WXS (aka WES, exome) data as submitted to GDC.  Assuming hg19
     * RNA.fq - RNA-Seq data as submitted to GDC, FASTQ format
         * R1 and R2 FASTQs are listed individually, so will typically have two of each sample type
-    * miRNA.fq - miRNA-Seq data as submitted to GDC, FASTQ format
+    * miRNA.fq - miRNA-Seq data as submitted to GDC, BAM format
     * WGS.hg38 - Harmonized WGS data
     * WXS.hg38 - Harmonized WXS data
     * RNA.hg38 - Harmonized RNA-Seq data
         * Harmonization generates chimeric, genomic, and transcriptome BAM files, so each entry will have 3 of each sample type
+    * miRNA.hg38 - Harmonized miRNA-Seq data
 * `*.BamMap-summary.txt` - summary of files available on a given system as well as GDC.
     * For given system (e.g., katmai), format is similar to CPTAC3.file-summary.txt, except that upper-case symbol indicates presence on given system
       and lower-case symbol indicates that that sample is in GDC but not on system
@@ -31,21 +33,20 @@ Holds details about CPTAC3 data at GDC and in Ding Lab.
 
 ### Cases file
 
-Complete list of cases and their diseases, collected from various emails.
-See `shiso:/Users/mwyczalk/Projects/CPTAC3/CPTAC3.Cases`
-* `cases.analysis`
-* `cases.analysis.HarmonizationBatch2`
-* `cases.analysis.011518`
-* `cases.analysis.20190425` - contains new cases not yet incorporated into CPTAC3.cases based on Methylation data through batch 8
-  * requires additional quality control as described here: /Users/mwyczalk/Projects/CPTAC3/CPTAC3.Cases/cases.analysis.20190425/README.md
+Comprehensive list of cases along with their disease, cohort, and batch information.
+* Current cases list consists of 3696 cases and their disease. This information is as obtained from file `Batches1through9_samples_attribute_tumorcode_added.xlsx`.  
+* Cohort is an ad hoc column which tries to categorize cases according to Discovery or Confirmatory cohort, per year of contract.
+* Batch column indicates the year and batch(es) in which each case was processed.  Y1 and Y2 correspond to Year 1 and 2, respectively.
+  Note that a given case may belong to several different batches, since not all data for a given case was available at a given time.
+  Such batches are listed as comma-separated names.  In the future batch information should be indicated in a differnet file.
 
 ### AR file
 
-List of all WGS, WXS, RNA-Seq sequence data available at GDC.  Obtained with 
+List of all WGS, WXS, RNA-Seq, miRNA-SEq sequence data available at GDC.  Obtained with 
 scripts in [CPTAC3.discover](https://github.com/ding-lab/discover.CPTAC3.b1)
 
-Note that submitted reads are listed as having reference hg19, which is empirically
-true, but may change silently in the future.
+Note that submitted reads are listed as having reference hg19 for WXS and WGS and hg38 for miRNA-Seq.  This appears to be empirically
+true, but subject to change.
 
 ### BamMap files
 
@@ -68,6 +69,8 @@ CCRCC	    WGS.hg19 t n a	    WXS.hg19 t n a	    RNA.fq TT  AA	    miRNA.fq t  a	
 ```
 This indicates that all RNA-Seq FASTQ, harmonized WGS tumor and blood normal, all harmonized WXS, and genomic hg38 RNA-Seq data are available at MGI.
 Lower case letters indicate which data are available at GDC but not at MGI. 
+
+*NOTE* BamMap summary files are not updated regularly and are considered deprectated.
 
 
 ## Additional modifications
