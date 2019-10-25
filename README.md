@@ -25,6 +25,7 @@ Holds details about CPTAC3 data at GDC and results at DCC, as well as details ab
     * `*.BamMap-summary.txt` - summary of files available on a given system as well as GDC.
         * For given system (e.g., katmai), format is similar to CPTAC3.file-summary.txt, except that upper-case symbol indicates presence on given system
           and lower-case symbol indicates that that sample is in GDC but not on system
+* `./DCC_Analysis_Summary` - has details about analyses uploaded to DCC
 
 
 ## Details
@@ -48,6 +49,24 @@ scripts in [CPTAC3.discover](https://github.com/ding-lab/discover.CPTAC3.b1)
 
 Note that submitted reads are listed as having reference hg19 for WXS and WGS and hg38 for miRNA-Seq.  This appears to be empirically
 true, but subject to change.
+
+### DCC Analysis Summary
+
+Files here track analyses uploaded to DCC, with one file per analysis pipeline.  DCC Analysis Summary files have
+the following columns:
+```
+ 1. case
+ 2. disease
+ 3. pipeline_name
+ 4. pipeline_version
+ 5. timestamp
+ 6. DCC_path
+ 7. filesize
+ 8. file_format
+ 9. md5sum
+```
+
+Additional columns are specific to individual pipelines and will typically indicate the input data associated with this analysis.
 
 ### BamMap files
 
