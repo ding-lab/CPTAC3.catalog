@@ -29,9 +29,6 @@ Holds details about CPTAC3 data at GDC and results at DCC, as well as details ab
 
 
 ## Details
-### Reference information
-
-[Pipeline Development Roadmap](https://docs.google.com/spreadsheets/d/1Q0GdJpyqJAJBAwk7VkI0Jbqtyldnm4qRjwLjxgLLxRE/edit?usp=drive_web&ouid=101417742046588217932)
 
 ### Cases file
 
