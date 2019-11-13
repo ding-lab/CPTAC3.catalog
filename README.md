@@ -130,8 +130,10 @@ Lower case letters indicate which data are available at GDC but not at MGI.
 ## Additional modifications
 
 The file `SampleRename.dat` contains aliquot ID and sample name suffix as first and second columns, respectively.
-It is currently used in step `3b_append_suffix.sh` of https://github.com/ding-lab/discover.CPTAC3.b1 to add suffixes (-core and -bulk, currently)
-to samples identified by aliquot ID (UUID would also work).  This is necessary to distinguish -bulk and -core samples easily.
+It is used to add ad hoc / custom suffixes to sample names according to either UUID or aliquot name, and is
+passed as `-s SUFFIX_LIST` to [`src/make_catalog.sh`](https://github.com/ding-lab/CPTAC3.case.discover/blob/master/src/make_catalog.sh)
+
+Currently, it is used to add suffixes `-bulk` and `-core` to select PDA WXS cases.
 
 ## Contact
 
