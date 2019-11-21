@@ -79,22 +79,8 @@ true, but subject to change.
 
 ### DCC Analysis Summary
 
-Files here track analyses uploaded to DCC, with one file per analysis pipeline.  DCC Analysis Summary files have
-the following columns:
-```
- 1. case
- 2. disease
- 3. pipeline_name
- 4. pipeline_version
- 5. timestamp
- 6. DCC_path
- 7. filesize
- 8. file_format
- 9. md5sum
-```
-
-Additional columns are specific to individual pipelines and will typically indicate the input data associated with this analysis.
-
+Files here track analyses uploaded to DCC, with one file per analysis pipeline.  See [DCC_Analysis_Summary/README.md](DCC_Analysis_Summary/README.md)
+for additional details.
 
 ### Catalog Summary
 
