@@ -1,4 +1,4 @@
-case	disease	pipeline_name	pipeline_version	timestamp	DCC_path	filesize	file_format	md5sum	Input_Sample_Name	Input_UUID
+# case	disease	pipeline_name	pipeline_version	timestamp	DCC_path	filesize	file_format	md5sum	Input_Sample_Name	Input_UUID
 C3L-00445	LSCC	QC	v1.0	20191120	/CPTAC3.Y2_WashU/LSCC/CPTAC3_LSCC_QC_v1.0_LSCC-remainder_20191120/C3L-00445.8e464f1c-a960-4810-a984-75d62f2086e8_wgs_gdc_realn_fastqc.html.gz	179145	html	c317e1954d4ce951907b3cf126e3f82d	C3L-00445.WGS.A.hg38	4a6a8d58-bc2b-4629-a6d5-a003bb1f77b8
 C3L-00445	LSCC	QC	v1.0	20191120	/CPTAC3.Y2_WashU/LSCC/CPTAC3_LSCC_QC_v1.0_LSCC-remainder_20191120/C3L-00445.671050aa-def8-4a5c-9101-f9e53d9e8fe4_wgs_gdc_realn_fastqc.html.gz	182264	html	03588bf6b69073bf69a0392963c7cf48	C3L-00445.WGS.N.hg38	446f4c05-4489-4fcb-bdae-f7111851ad05
 C3L-00445	LSCC	QC	v1.0	20191120	/CPTAC3.Y2_WashU/LSCC/CPTAC3_LSCC_QC_v1.0_LSCC-remainder_20191120/C3L-00445.0a402562-24c6-4a9f-af18-9c5ac968f866_wgs_gdc_realn_fastqc.html.gz	183840	html	ed6046f7ab41f89d8261190870b53fa1	C3L-00445.WGS.T.hg38	f8228dc0-a129-4009-9833-236447a5e66d
