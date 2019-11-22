@@ -41,6 +41,7 @@ total_miRNA.  See [GitHub
 documentation](https://github.com/ding-lab/CPTAC_miRNA) and processing
 descriptions released with data on DCC for additional details.
 
+**TODO**: improve GitHub documentation
 
 ## QC
 
