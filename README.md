@@ -81,22 +81,7 @@ Catalog file columns:
     * For Methylation Array data, it is the channel (Green or Red)
     * For RNA-Seq harmonized BAMs, it is the result type, with values of genomic, chimeric, transcriptome
 
-## CPTAC3.cases.dat
-
-Comprehensive list of cases along with their disease, cohort, and batch information.
-* Current cases list consists of 3696 cases and their disease. 
-    * Obtained from file `Batches1through9_samples_attribute_tumorcode_added.xlsx`, personal communication with Mathangi Thiagarajan
-* Cohort is an ad hoc column which tries to categorize cases according to Discovery or Confirmatory cohort, per year of contract.
-* Batch column indicates the year and batch(es) in which each case was processed.  Y1 and Y2 correspond to Year 1 and 2, respectively.
-  Note that a given case may belong to several different batches, since not all data for a given case was available at a given time.
-  Such batches are listed as comma-separated names.  In the future batch information should be indicated in a different file.
-
-### DCC_Analysis_Summary directory
-
-Files here track analyses uploaded to DCC, with one file per analysis pipeline.  See [DCC_Analysis_Summary/README.md](DCC_Analysis_Summary/README.md)
-for additional details.
-
-### CPTAC3.Catalog.Summary.dat
+## CPTAC3.Catalog.Summary.dat
 
 Catalog summary files provide a one-line representation of data available for a
 given case on GDC.  Following case and disease, each column represents a
@@ -126,7 +111,22 @@ tumor and adjacent normal RNA-Seq data (TT, AA because FASTQ data comes in pairs
 these are available as harmonized hg38 WGS and WXS, and harmonized hg38 RNA-Seq chimeric, genomic, and transcriptome BAMs are available
 for tumor and adjacent normal.  Methylation array data for tumor and tissue adjacent also available (Green and Red channel for each).
 
-### BamMap directory
+## CPTAC3.cases.dat
+
+Comprehensive list of cases along with their disease, cohort, and batch information.
+* Current cases list consists of 3696 cases and their disease. 
+    * Obtained from file `Batches1through9_samples_attribute_tumorcode_added.xlsx`, personal communication with Mathangi Thiagarajan
+* Cohort is an ad hoc column which tries to categorize cases according to Discovery or Confirmatory cohort, per year of contract.
+* Batch column indicates the year and batch(es) in which each case was processed.  Y1 and Y2 correspond to Year 1 and 2, respectively.
+  Note that a given case may belong to several different batches, since not all data for a given case was available at a given time.
+  Such batches are listed as comma-separated names.  In the future batch information should be indicated in a different file.
+
+## DCC_Analysis_Summary directory
+
+Files here track analyses uploaded to DCC, with one file per analysis pipeline.  See [DCC_Analysis_Summary/README.md](DCC_Analysis_Summary/README.md)
+for additional details.
+
+## BamMap directory
 
 Contents of `./BamMap` directory track in-house data downloaded to Ding Lab
 servers from GDC.  These change frequently and are specific to Ding Lab
@@ -148,7 +148,7 @@ Example line from BamMap with header names:
 ```
 
 
-#### BamMap summary
+### BamMap summary
 As an example from `MGI.BamMap-summary.txt`:
 ```
 CCRCC	    WGS.hg19 t n a	    WXS.hg19 t n a	    RNA.fq TT  AA	    miRNA.fq t  a	    WGS.hg38 T N a	    WXS.hg38 T N A	    RNA.hg38 Ttt  Aaa
@@ -159,11 +159,11 @@ Lower case letters indicate which data are available at GDC but not at MGI.
 *NOTE* BamMap summary files are not updated regularly and are considered deprectated.
 
 
-## Additional modifications
+## Custom sample names
 
 The file `SampleRename.dat` contains aliquot ID and sample name suffix as first and second columns, respectively.
 It is used to add ad hoc / custom suffixes to sample names according to either UUID or aliquot name, and is
-passed as `-s SUFFIX_LIST` to [`src/make_catalog.sh`](https://github.com/ding-lab/CPTAC3.case.discover/blob/master/src/make_catalog.sh)
+passed as `-s SUFFIX_LIST` to [CPTAC3 Case Discover `src/make_catalog.sh`](https://github.com/ding-lab/CPTAC3.case.discover/blob/master/src/make_catalog.sh)
 
 Currently, it is used to add suffixes `-bulk` and `-core` to select PDA WXS cases.
 
