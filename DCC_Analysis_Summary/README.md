@@ -29,9 +29,24 @@ Details about workflows and format of associated `DCC_analysis_aummary.dat` file
 analysis summary files, which may not be complete.  Additional pipeline details are included in documentation included with
 data files on DCC.
 
+TODO: for each pipeline, provide:
+* brief description of pipeline processing
+    * link to GitHub and Processing Summary
+    * data types used
+
+
 ## Methylation_Array
 
 **TODO** Update with past results, modify format to use GDC UUID
+
+
+[Methylation_Array.DCC_analysis_summary.dat]()
+[QC.DCC_analysis_summary.dat]()
+[RNA-Seq_Expression.DCC_analysis_summary.dat]()
+[WGS_CNV_Somatic.DCC_analysis_summary.dat]()
+[WGS_SV.DCC_analysis_summary.dat]()
+[WXS_Somatic.DCC_analysis_summary.dat]()
+[miRNA-Seq.DCC_analysis_summary.dat]()
 
 ## miRNA-Seq
 
