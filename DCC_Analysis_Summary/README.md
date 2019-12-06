@@ -78,10 +78,6 @@ Earlier Y1 work from older v2.1 version of pipeline.  [RNA-Seq Fusion pipeline o
 
 643 cases analyzed and uploaded to DCC.  Analysis summary not complete
 
-### WXS Germline
-
-TODO
-
 ### WXS_Somatic
 
 113 LSCC cases currently in `WXS_Somatic.DCC_analysis_summary.dat`.  Additional Y2 cases to be analyzed.
