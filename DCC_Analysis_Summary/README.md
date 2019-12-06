@@ -57,7 +57,8 @@ descriptions released with data on DCC for additional details.
 
 ### RNA-Seq Fusion
 
-817 cases analyzed and uploaded to DCC.  Analysis summary not complete
+1259 samples across 817 cases analyzed, including all of Y2 cases and LUAD from Y1.  Analysis summary `RNA-Seq_Fusion.DCC_analysis_summary.dat`
+Earlier Y1 work from older v2.1 version of pipeline.  [RNA-Seq Fusion pipeline on GitHub](https://github.com/cuidaniel/Fusion_hg38)
 
 ### RNA-Seq Splicing + Transcript
 
