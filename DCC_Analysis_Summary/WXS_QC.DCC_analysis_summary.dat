@@ -1,4 +1,4 @@
-# case	disease	pipeline_name	pipeline_version	timestamp	DCC_path	filesize	file_format	md5sum	Sample Type	Sample_Name_Seq_R1	UUID1_R1	Sample_Name_Seq_R2	UUID_R2
+# case	disease	pipeline_name	pipeline_version	timestamp	DCC_path	filesize	file_format	md5sum	Input_Sample_Name	Input_UUID
 C3L-00016	GBM	QC	v1.0	20190807	/CPTAC3.Y2_WashU/GBM/CPTAC3_GBM_QC_v1.0_Y2.b3_20190807/C3L-00016.0eb51bef-799b-4c17-89dc-b5e15f13d7bc_gdc_realn_fastqc.html.gz	193487	html	974fabd676009549a16c3c809772793a	C3L-00016.WXS.T.hg38	89be0404-faf9-42f7-8e21-9ad3416a1694
 C3L-00016	GBM	QC	v1.0	20190807	/CPTAC3.Y2_WashU/GBM/CPTAC3_GBM_QC_v1.0_Y2.b3_20190807/C3L-00016.65158bcf-b42e-4e35-aa37-aad195b41e03_gdc_realn_fastqc.html.gz	194279	html	c081e499add91159773ad98ab6354d02	C3L-00016.WXS.N.hg38	fb7e7564-2179-4c8c-8a4c-ed50a4205a4b
 C3L-00017	PDA	QC	v1.0	20190807	/CPTAC3.Y2_WashU/PDA/CPTAC3_PDA_QC_v1.0_Y2.b3_20190807/C3L-00017.6aa9462a-bda4-4c7e-9049-dfd4e79fab18_gdc_realn_fastqc.html.gz	192824	html	9588a881b42fc03837e1c23e6a24f74f	C3L-00017.WXS.N.hg38	f99797be-7884-4f95-9052-7637fe7de122

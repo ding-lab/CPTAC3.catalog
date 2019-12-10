@@ -1,4 +1,4 @@
-# case	disease	pipeline_name	pipeline_version	timestamp	DCC_path	filesize	file_format	md5sum	Sample Type	Sample_Name_Seq_R1	UUID1_R1	Sample_Name_Seq_R2	UUID_R2
+# case	disease	pipeline_name	pipeline_version	timestamp	DCC_path	filesize	file_format	md5sum	Input_Sample_Name	Input_UUID
 C3L-00016	GBM	QC	v1.0	20190807	/CPTAC3.Y2_WashU/GBM/CPTAC3_GBM_QC_v1.0_Y2.b3_20190807/C3L-00016.170818_UNC32-K00270_0050_AHL2FHBBXX_TAGCTT_S15_L004_R1_001_fastqc.html.gz	204697	html	24c9945b336325603b86a913606fecae	C3L-00016.RNA-Seq.R1.T	b9a867a6-3d0e-4ae3-9255-b14de2da0bc0
 C3L-00016	GBM	QC	v1.0	20190807	/CPTAC3.Y2_WashU/GBM/CPTAC3_GBM_QC_v1.0_Y2.b3_20190807/C3L-00016.170818_UNC32-K00270_0050_AHL2FHBBXX_TAGCTT_S15_L004_R2_001_fastqc.html.gz	202970	html	387ae1edaa8b3a3e03e43bc0daaae9a5	C3L-00016.RNA-Seq.R2.T	9be64798-0704-4670-98e6-14d37e34d359
 C3L-00016	GBM	QC	v1.0	20190807	/CPTAC3.Y2_WashU/GBM/CPTAC3_GBM_QC_v1.0_Y2.b3_20190807/C3L-00016.db99b367-2037-4810-8f6a-d0dc3df56838.rna_seq.genomic.gdc_realn_fastqc.html.gz	206043	html	25d66d7343eb0ac63f26e28ebf838598	C3L-00016.RNA-Seq.T.hg38	6695623f-881e-4c0b-8f46-adb8c89161c2
