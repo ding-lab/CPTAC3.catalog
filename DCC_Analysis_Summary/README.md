@@ -80,7 +80,7 @@ Earlier Y1 work from older v2.1 version of pipeline.  [RNA-Seq Fusion pipeline o
 
 ### WXS_Somatic_Variant
 
-113 LSCC cases currently in `WXS_Somatic.DCC_analysis_summary.dat`.  Additional Y2 cases to be analyzed.
+113 LSCC cases currently in `WXS_Somatic.DCC_analysis_summary.dat`, updated to TinDaisy v2.1.  Additional Y2 cases to be analyzed.
 
 [TinDaisy somatic variant caller](https://github.com/ding-lab/TinDaisy)
 
