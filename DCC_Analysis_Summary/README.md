@@ -109,7 +109,12 @@ prior SomaticWrapper calls.  `WXS_Somatic_Variant` pipeline above (based on TinD
 
 309 (confirm) cases analyzed and uploaded to DCC.  
 
-85 LSCC cases currently in `WGS_SV.DCC_analysis_summary.dat`.  Addititional Y2 cases to be added.
+File `WGS_SV.DCC_analysis_summary.dat` has the following:
+* 85 LSCC cases 
+* 109 HNSCC cases aligned to a custom reference (`GRCh38_full_analysis_set_plus_decoy_hla`) by UMich group
+
+Addititional Y2 cases to be added.
+
 
 [CPTAC3 somatic_sv_workflow pipeline](https://github.com/ding-lab/somatic_sv_workflow)
 
