@@ -1,4 +1,4 @@
-case	disease	pipeline_name	pipeline_version	timestamp	DCC_path	filesize	file_format	md5sum	tumor_name	tumor_uuid	normal_name	normal_uuid
+# case	disease	pipeline_name	pipeline_version	timestamp	DCC_path	filesize	file_format	md5sum	tumor_name	tumor_uuid	normal_name	normal_uuid
 C3L-00445	LSCC	WGS_SV	v1.1	20191120	/CPTAC3.Y2_WashU/LSCC/CPTAC3_LSCC_WGS_SV_v1.1_LSCC-remainder_20191120/C3L-00445.final.SV.WGS.vcf	163925	VCF	c54873c180627816f114ef6402d5f6fd	C3L-00445.WGS.T.hg38	f8228dc0-a129-4009-9833-236447a5e66d	C3L-00445.WGS.N.hg38	446f4c05-4489-4fcb-bdae-f7111851ad05
 C3L-01000	LSCC	WGS_SV	v1.1	20191120	/CPTAC3.Y2_WashU/LSCC/CPTAC3_LSCC_WGS_SV_v1.1_LSCC-remainder_20191120/C3L-01000.final.SV.WGS.vcf	161967	VCF	1d9b0bde4b0c46333d51e76b316f80b6	C3L-01000.WGS.T.hg38	07bf958a-9383-4a54-8aae-39f24c5ecc8d	C3L-01000.WGS.N.hg38	e8856e7c-0843-494a-af8e-39e107a3d76c
 C3L-01884	LSCC	WGS_SV	v1.1	20191120	/CPTAC3.Y2_WashU/LSCC/CPTAC3_LSCC_WGS_SV_v1.1_LSCC-remainder_20191120/C3L-01884.final.SV.WGS.vcf	178751	VCF	99754859fc660998d762d1c27b59b718	C3L-01884.WGS.T.hg38	e667336b-a6c8-4bbc-864c-7256ba2fdcb4	C3L-01884.WGS.N.hg38	6f566337-e30d-446d-ab64-36ac1f18d5ec
