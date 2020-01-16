@@ -1,13 +1,11 @@
 # DCC Analysis Summary files
 
-Files here provide a unified summary of all genomic analysis results and their location on 
+Files here provide a unified summary of all Year 2 and later CPTAC3 genomic analysis results and their location on 
 [CPTAC-DCC](https://cptc-xfer.uis.georgetown.edu/aspera/user/).
 
-Note: not all CPTAC3 Year 2 analysis summaries are available yet.
+## Format
 
-# Format
-
-DCC Analysis Summary files have the following columns:
+DCC Analysis Summary files have the following initial columns:
 ```
  1. case
  2. disease
@@ -23,105 +21,149 @@ DCC Analysis Summary files have the following columns:
 Additional columns are specific to individual pipelines and will typically indicate the input data associated with this analysis.
 Pipelines which generate multiple result files per case will have multiple entries in the analysis summary file.
 
-# Workflows
+## Analysis Summaries
 
-Details about workflows and format of associated `DCC_analysis_aummary.dat` files.  Below are links and notes about state of
-analysis summary files, which may not be complete.  Additional pipeline details are included in documentation included with
+### Year 1
+
+Processing performed during CPTAC3 Year 1 consisted analyses for CCRCC, LUAD, and UCEC discovery cohort.
+No analysis summary files were generated, and a visual summary of processing per batch can be found in this [processing update description](doc/ProcessingUpdate.2.1.19.png).
+
+### Year 2
+
+Counts of cases processed per disease and pipeline, based on analysis summary files.  Last update: 1/16/20
+
+Pipeline | AML | CCRCC | CM | GBM | HNSCC | LSCC | LUAD | PDA | SAR | UCEC | Total
+--- | --- | ----- | --- | --- | ---- | --- | --- | --- | --- | --- | ---
+Methylation Array | 43 | 222 | 8 | 116 | 111 | 113 | 229 | 164 | 19 | 246 | 1271
+miRNA-Seq | 38 | 221 | 5 | 101 | 103 | 111 | 163 | 83 | 19 | 220 | 1064
+miRNA-Seq QC | 11 | 28 | 5 | 52 | 17 | 27 | 10 | 77 | 19 | 39 | 285 
+RNA-Seq Expression | 11 | 221 | 8 | 114 | 51 | 113 | 164 | 83 | 19 | 181 | 965
+RNA-Seq Fusion | 11 | 112 | 8 | 119 | 111 | 113 | 164 | 83 | 19 | 77 | 817 
+RNA-Seq Transcript + Splicing | 1 | 112 | 3 | 119 | 111 | 113 | 53 | 107 | 0 | 87 | 706 
+RNA-Seq QC | 11 | 112 | 8 | 119 | 111 | 113 | 53 | 83 | 19 | 77 | 706 
+WGS SV | 0 | 0 | 0 | 59 | 21 | 113 | 0 | 77 | 0 | 39 | 309
+WGS CNV Somatic | 0   |     0 |  0 | 59  | 21    | 113 |   0 |  77 |  0  | 39  | 309
+WGS QC | 0   |     0 |  0 | 60  | 21    | 113 |   0 |  77 |  0  | 39  | 310
+WXS MSI | 0   | 0     | 0  | 118 | 111   | 113  | 0    | 0   | 0   | 39  | 381
+WXS Normal Adjacent |  0  | 80    | 0  | 0   | 5     | 22   | 101  | 0   | 0   | 21   | 229
+WXS QC | 5 | 87 | 4 | 118 | 111 | 113 | 101 | 44 | 9 | 51 | 643
+WXS Somatic | 0   | 0     | 0  |   0 |     0 | 113  |    0 |   0 |   0 |   0 | 113
+WXS Somatic SW | 0   | 0     | 0  |   0 |     0 | 113  |    0 |   0 |   0 |   0 | 113
+
+
+# Pipeline details
+
+Details and notes about pipelines and processing status below. Additional pipeline details are included in documentation included with
 data files on DCC.
-
-TODO: for each pipeline, provide:
-* brief description of pipeline processing
-    * link to GitHub and Processing Summary
-    * data types used
 
 ## Methylation_Array
 
-[CPTAC3 Methylation pipeline](https://github.com/ding-lab/cptac_methylation)
+Methylation array analysis has been performed for all cases available on DCC through December 2019 but results have not yet been downloaded to DCC.
+[`Methylation_Array.DCC_analysis_summary.dat`](Methylation_Array.DCC_analysis_summary.dat) has not yet been completed.
 
-Analyses for 1321 samples across 1000 cases are available on DCC.  Analysis summary file `Methylation_Array.DCC_analysis_summary.dat` is incomplete.
+
+[CPTAC3 Methylation pipeline details](https://github.com/ding-lab/cptac_methylation)
 
 ## miRNA-Seq
 
-`miRNA-Seq.DCC_analysis_summary.dat` has results on 1570 samples from 1064
-CPTAC3 cases.  Each sample has results for mature_miRNA, precursor_miRNA, and
-total_miRNA.  See [CPTAC3 miRNA-Seq pipeline documentation](https://github.com/ding-lab/CPTAC_miRNA) and processing
-descriptions released with data on DCC for additional details.
+### miRNA-Seq analysis
+
+Analysis details [`miRNA-Seq.DCC_analysis_summary.dat`](miRNA-Seq.DCC_analysis_summary.dat) 
+Note that each sample has results for mature miRNA, precursor miRNA, and total miRNA.  
+
+[miRNA-Seq pipeline documentation](https://github.com/ding-lab/CPTAC_miRNA) and [processing description](processing_description/miRNA-Seq.processing_description.md).
+
+### miRNA-Seq QC
+
+Analysis details [`miRNA-Seq_QC.DCC_analysis_summary.dat`](miRNA-Seq_QC.DCC_analysis_summary.dat) 
+
+[QC pipeline documentation](https://github.com/ding-lab/CPTAC3_QC)
 
 ## RNA-Seq
 
-### RNA-Seq_Expression
+### RNA-Seq Expression
 
-1474 samples across 965 cases (consisting of all Y1 and Y2 cases) have been analyzed, as described in `RNA-Seq_Expression.DCC_analysis_summary.dat`
+965 cases (consisting of all Y1 and Y2 cases) been analyzed
+
+Analysis details [`RNA-Seq_Expression.DCC_analysis_summary.dat`](RNA-Seq_Expression.DCC_analysis_summary.dat)
 
 [CPTAC3 RNA-Seq Expression pipeline](https://github.com/ding-lab/cptac_rna_expression)
 
 ### RNA-Seq Fusion
 
-1259 samples across 817 cases analyzed, including all of Y2 cases and LUAD from Y1.  Analysis summary `RNA-Seq_Fusion.DCC_analysis_summary.dat`
-Earlier Y1 work from older v2.1 version of pipeline.  [RNA-Seq Fusion pipeline on GitHub](https://github.com/cuidaniel/Fusion_hg38)
+1259 samples across 817 cases analyzed, including all of Y2 cases and LUAD from Y1.  
 
-### RNA-Seq Splicing + Transcript
+Analysis details [`RNA-Seq_Fusion.DCC_analysis_summary.dat`](RNA-Seq_Fusion.DCC_analysis_summary.dat), and 
+[pipeline documentation on GitHub](https://github.com/cuidaniel/Fusion_hg38)
 
-995 cases analyzed and uploaded to DCC.  Analysis summary not complete
+### RNA-Seq Transcript + Splicing
+
+Analysis details [`RNA-Seq_Transcript.DCC_analysis_summary.dat`](RNA-Seq_Transcript.DCC_analysis_summary.dat)
+
+[Pipeline documentation on GitHub](https://github.com/ding-lab/CPTAC3_splicing)
 
 ### RNA-Seq QC
 
-706 cases analyzed and uploaded to DCC.  Analysis summary not complete
+Analysis details [`RNA-Seq_QC.DCC_analysis_summary.dat`](RNA-Seq_QC.DCC_analysis_summary.dat)
+
+[QC pipeline documentation](https://github.com/ding-lab/CPTAC3_QC)
+
+
+## WGS
+
+### WGS SV
+
+109 HNSCC cases aligned to a custom reference (`GRCh38_full_analysis_set_plus_decoy_hla`) for UMich group
+
+Harmonized CPTAC3 Y2 case counts:
+
+[CPTAC3 SomaticSV pipeline on GitHub](https://github.com/ding-lab/somatic_sv_workflow)
+
+### WGS CNV Somatic
+
+Analysis details [`WGS_CNV_Somatic.DCC_analysis_summary.dat`](WGS_CNV_Somatic.DCC_analysis_summary.dat)
+
+[WGS CNV pipeline](https://github.com/ding-lab/BICSEQ2)
+
+### WGS QC
+
+Analysis details [`WGS_QC.DCC_analysis_summary.dat`](WGS_QC.DCC_analysis_summary.dat)
+
+[CPTAC3 QC pipeline](https://github.com/ding-lab/CPTAC3_QC)
 
 ## WXS
 
 ### WXS MSI
 
-381 cases analyzed and uploaded to DCC.  Analysis summary not complete
+Analysis details [`WXS_MSI.DCC_analysis_summary.dat`](WXS_MSI.DCC_analysis_summary.dat)
+
+[WXS MSI pipeline on GitHub](https://github.com/cuidaniel/MSI_hg38)
+
+### WXS Normal Adjacent
+
+Analysis details [`WXS_Normal_Adjacent.DCC_analysis_summary.dat`](WXS_Normal_Adjacent.DCC_analysis_summary.dat)
+
+WXS Normal Adjacent analysis generated using [TinDaisy pipeline](https://github.com/ding-lab/TinDaisy)
 
 ### WXS QC
 
-643 cases analyzed and uploaded to DCC.  Analysis summary not complete
-
-### WXS_Somatic_Variant
-
-113 LSCC cases currently in `WXS_Somatic.DCC_analysis_summary.dat`, updated to TinDaisy v2.1.  Additional Y2 cases to be analyzed.
-
-[TinDaisy somatic variant caller](https://github.com/ding-lab/TinDaisy)
-
-### WXS_Somatic_Variant_SW
-
-113 LSCC cases in `WXS_Somatic_Variant_SW.DCC_analysis_summary.dat`.  This is an ad hoc upload of calls generated by
-[SomaticWrapper v1.5](https://github.com/ding-lab/somaticwrapper) and is provided for backwards compatiblity with 
-prior SomaticWrapper calls.  `WXS_Somatic_Variant` pipeline above (based on TinDaisy) is expected to ultimately replace these calls.
-
-### WXS_Adjacent_Somatic
-
-229 cases analyzed and uploaded to DCC.  Additional analyses to be completed.  Analysis summary not complete
-
-## WGS
-
-### WGS QC
-
-309 cases (confirm) analyzed and uploaded to DCC.  
-
-85 LSCC cases currently in `QC.DCC_analysis_summary.dat`.  Additional Y2 cases to be added
+Analysis details [`WXS_QC.DCC_analysis_summary.dat`](WXS_QC.DCC_analysis_summary.dat)
 
 [CPTAC3 QC pipeline](https://github.com/ding-lab/CPTAC3_QC)
 
+### WXS Somatic
 
-## WGS_SV
+WXS Somatic analysis is new for CPTAC3 Year 3.  So far only 113 LSCC cases have been analyzed using 
+[TinDaisy variant caller v2.1](https://github.com/ding-lab/TinDaisy)
 
-309 (confirm) cases analyzed and uploaded to DCC.  
+Analysis details [`WXS_Somatic.DCC_analysis_summary.dat`](WXS_Somatic.DCC_analysis_summary.dat)
 
-File `WGS_SV.DCC_analysis_summary.dat` has the following:
-* 85 LSCC cases 
-* 109 HNSCC cases aligned to a custom reference (`GRCh38_full_analysis_set_plus_decoy_hla`) by UMich group
+### WXS Somatic SW
 
-Addititional Y2 cases to be added.
+113 LSCC cases in [`WXS_Somatic_Variant_SW.DCC_analysis_summary.dat`]()WXS_Somatic_Variant_SW.DCC_analysis_summary.dat.  
 
-
-[CPTAC3 somatic_sv_workflow pipeline](https://github.com/ding-lab/somatic_sv_workflow)
-
-## WGS_CNV_Somatic
-
-309 CPTAC3 Year 2 cases in `WGS_CNV_Somatic.DCC_analysis_summary.dat`.
-
-[DingLab BICSeq2 WGS CNV pipeline](https://github.com/ding-lab/BICSEQ2)
-
+This is an ad hoc upload of calls generated by [SomaticWrapper
+v1.5](https://github.com/ding-lab/somaticwrapper) and is provided for backwards
+compatiblity with prior SomaticWrapper calls.  `WXS_Somatic_Variant` pipeline
+above (based on TinDaisy) is expected to ultimately replace these calls.
 
