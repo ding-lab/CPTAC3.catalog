@@ -58,8 +58,8 @@ data files on DCC.
 
 ## Methylation_Array
 
-Methylation array analysis has been performed for all cases available on DCC through December 2019 but results have not yet been downloaded to DCC.
-[`Methylation_Array.DCC_analysis_summary.dat`](Methylation_Array.DCC_analysis_summary.dat) has not yet been completed.
+Methylation array analysis has been performed for all cases available on DCC through December 2019, details in 
+[`Methylation_Array.DCC_analysis_summary.dat`](Methylation_Array.DCC_analysis_summary.dat)
 
 
 [CPTAC3 Methylation pipeline details](https://github.com/ding-lab/cptac_methylation)
