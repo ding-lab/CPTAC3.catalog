@@ -12,11 +12,14 @@ DCC Analysis Summary files have the following initial columns:
  3. pipeline_name
  4. pipeline_version
  5. timestamp
- 6. DCC_path
- 7. filesize
- 8. file_format
- 9. md5sum
+ 6. C3Y 
+ 7. DCC_path
+ 8. filesize
+ 9. file_format
+10. md5sum
 ```
+
+NEW: Column C3Y indicates "CPTAC3 Year" and takes values `Y1`, `Y2`, etc.  It is used for administrative purposes.
 
 Additional columns are specific to individual pipelines and will typically indicate the input data associated with this analysis.
 Pipelines which generate multiple result files per case will have multiple entries in the analysis summary file.
