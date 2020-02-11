@@ -26,14 +26,7 @@ Pipelines which generate multiple result files per case will have multiple entri
 
 ## Analysis Summaries
 
-### Year 1
-
-Processing performed during CPTAC3 Year 1 consisted analyses for CCRCC, LUAD, and UCEC discovery cohort.
-No analysis summary files were generated, and a visual summary of processing per batch can be found in this [processing update description](doc/ProcessingUpdate.2.1.19.png).
-
-### Year 2
-
-Counts of cases processed per disease and pipeline, based on analysis summary files.  Last update: 1/16/20
+Counts of cases processed per disease and pipeline, based on analysis summary files.  
 
 Pipeline | AML | CCRCC | CM | GBM | HNSCC | LSCC | LUAD | PDA | SAR | UCEC | Total
 --- | --- | ----- | --- | --- | ---- | --- | --- | --- | --- | --- | ---
@@ -45,7 +38,7 @@ RNA-Seq Fusion | 11 | 112 | 8 | 119 | 111 | 113 | 164 | 83 | 19 | 77 | 817
 RNA-Seq Transcript + Splicing | 1 | 112 | 3 | 119 | 111 | 113 | 53 | 107 | 0 | 87 | 706 
 RNA-Seq QC | 11 | 112 | 8 | 119 | 111 | 113 | 53 | 83 | 19 | 77 | 706 
 WGS SV | 0 | 0 | 0 | 59 | 21 | 113 | 0 | 77 | 0 | 39 | 309
-WGS CNV Somatic | 0   |     0 |  0 | 59  | 21    | 113 |   0 |  77 |  0  | 39  | 309
+WGS CNV Somatic | 0   |   117 |  0 | 59  | 21    | 113 | 121 |  77 |  0  | 39  | 547
 WGS QC | 0   |     0 |  0 | 60  | 21    | 113 |   0 |  77 |  0  | 39  | 310
 WXS MSI | 0   | 0     | 0  | 118 | 111   | 113  | 0    | 0   | 0   | 39  | 381
 WXS Normal Adjacent |  0  | 80    | 0  | 0   | 5     | 22   | 101  | 0   | 0   | 21   | 229
@@ -53,6 +46,13 @@ WXS QC | 5 | 87 | 4 | 118 | 111 | 113 | 101 | 44 | 9 | 51 | 643
 WXS Somatic | 0   | 0     | 0  |   0 |     0 | 113  |    0 |   0 |   0 |   0 | 113
 WXS Somatic SW | 0   | 0     | 0  |   0 |     0 | 113  |    0 |   0 |   0 |   0 | 113
 
+Last update: 2/11/20
+
+## Year 1
+
+Processing performed during CPTAC3 Year 1 consisted analyses for CCRCC, LUAD, and UCEC discovery cohort, and
+a visual summary of processing per batch can be found in this [processing update description](doc/ProcessingUpdate.2.1.19.png).
+Year 1 analyses can be identified by "Y1" in C3Y column, and do not have details about input data.
 
 # Pipeline details
 
@@ -127,6 +127,8 @@ Harmonized CPTAC3 Y2 case counts:
 Analysis details [`WGS_CNV_Somatic.DCC_analysis_summary.dat`](WGS_CNV_Somatic.DCC_analysis_summary.dat)
 
 [WGS CNV pipeline](https://github.com/ding-lab/BICSEQ2)
+
+All Y1 analyses with pipeline version v2.0 have been added to the analysis summary.
 
 ### WGS QC
 
