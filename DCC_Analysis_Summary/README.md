@@ -26,7 +26,7 @@ Pipelines which generate multiple result files per case will have multiple entri
 
 ## Analysis Summaries
 
-Counts of cases processed per disease and pipeline, based on analysis summary files.  
+Counts of cases processed per disease and pipeline.  Counts of results to reference other than GDC hg38 excluded.
 
 Pipeline | AML | CCRCC | CM | GBM | HNSCC | LSCC | LUAD | PDA | SAR | UCEC | Total
 --- | --- | ----- | --- | --- | ---- | --- | --- | --- | --- | --- | ---
@@ -37,7 +37,7 @@ RNA-Seq Expression | 11 | 221 | 8 | 114 | 51 | 113 | 164 | 83 | 19 | 181 | 965
 RNA-Seq Fusion | 11 | 112 | 8 | 119 | 111 | 113 | 164 | 83 | 19 | 77 | 817 
 RNA-Seq Transcript + Splicing | 1 | 112 | 3 | 119 | 111 | 113 | 53 | 107 | 0 | 87 | 706 
 RNA-Seq QC | 11 | 112 | 8 | 119 | 111 | 113 | 53 | 83 | 19 | 77 | 706 
-WGS SV | 0 | 0 | 0 | 59 | 21 | 113 | 0 | 77 | 0 | 39 | 309
+WGS SV | 0 | 0 | 0 | 59 | 21 | 113 | 111 | 77 | 0 | 39 | 420
 WGS CNV Somatic | 0   |   117 |  0 | 59  | 21    | 113 | 121 |  77 |  0  | 39  | 547
 WGS QC | 0   |     0 |  0 | 60  | 21    | 113 |   0 |  77 |  0  | 39  | 310
 WXS MSI | 0   | 0     | 0  | 118 | 111   | 113  | 0    | 0   | 0   | 39  | 381
@@ -116,9 +116,9 @@ Analysis details [`RNA-Seq_QC.DCC_analysis_summary.dat`](RNA-Seq_QC.DCC_analysis
 
 ### WGS SV
 
-109 HNSCC cases aligned to a custom reference (`GRCh38_full_analysis_set_plus_decoy_hla`) for UMich group
-
-Harmonized CPTAC3 Y2 case counts:
+Year 1 LUAD analyses are included.  
+Also in the DCC analysis summary file are 109 HNSCC cases aligned to a custom reference (`GRCh38_full_analysis_set_plus_decoy_hla`) for UMich group
+Analysis details [`WGS_SV.DCC_analysis_summary.dat`](WGS_SV.DCC_analysis_summary.dat)
 
 [CPTAC3 SomaticSV pipeline on GitHub](https://github.com/ding-lab/somatic_sv_workflow)
 
