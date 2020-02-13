@@ -158,11 +158,23 @@ Lower case letters indicate which data are available at GDC but not at MGI.
 
 ## Custom sample names
 
-The file `SampleRename.dat` contains aliquot ID and sample name suffix as first and second columns, respectively.
-It is used to add ad hoc / custom suffixes to sample names according to either UUID or aliquot name, and is
-passed as `-s SUFFIX_LIST` to [CPTAC3 Case Discover `src/make_catalog.sh`](https://github.com/ding-lab/CPTAC3.case.discover/blob/master/src/make_catalog.sh)
+`SampleRename.dat` is a TSV file used to add suffixes based on matches to UUID,
+aliquot, and experimental strategy.  Input TSV file format is one of the
+following:
+  a) uuid, suffix
+  b) aliquot, experimental_strategy, suffix
+     * The wildcard * will be used to indicate all experimental strategies
+multiple matches will give multiple sequential suffixes
+It is parsed by [CPTAC3 Case Discover `src/make_catalog.sh`](https://github.com/ding-lab/CPTAC3.case.discover/blob/master/src/make_catalog.sh)
 
-Currently, it is used to add suffixes `-bulk` and `-core` to select PDA WXS cases.
+Currently, it is used to add suffixes `.core` and `.high_cov` to select PDA samples.
+* Aliquots associated with core biopsies are obtained from
+  * DeepCoverage_Broad_PDA.xlsx for WXS
+  * PDA_Bulk_WGS_2_13.xlsx for WGS
+* Aliquots for high coverage WXS samples are obtained from 
+  * DeepCoverage_Broad_PDA.xlsx
+  * CPTAC_SupplementalData_WGS&WES_renamingneeded_Aug2019_93samples_check.xlsx
+All files from Mathangi Thiagarajan and Ana Robles
 
 ## Contact
 
