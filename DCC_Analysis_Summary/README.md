@@ -28,8 +28,8 @@ Pipelines which generate multiple result files per case will have multiple entri
 
 Counts of cases processed per disease and pipeline.  Counts of results to reference other than GDC hg38 excluded.
 
-                       Pipeline | AML | CCRCC | CM  | GBM | HNSCC | LSCC | LUAD | PDA | SAR | UCEC | Total
-                            --- | --- | ----- | --- | --- | ----- | ---- | ---- | --- | --- | ---- | ---
+Pipeline                        | AML | CCRCC | CM  | GBM | HNSCC | LSCC | LUAD | PDA | SAR | UCEC | Total
+---                             | --- | ----- | --- | --- | ----- | ---- | ---- | --- | --- | ---- | ---
 Methylation Array               | 43  | 222   | 8   | 116 | 111   |  113 | 229  | 164 | 19  | 246  | 1271
 miRNA-Seq                       | 38  | 221   | 5   | 101 | 103   | 111  | 163  | 83  | 19  | 220  | 1064
 miRNA-Seq QC                    | 11  | 28    | 5   | 52  | 17    | 27   | 10   | 77  | 19  | 39   | 285 
