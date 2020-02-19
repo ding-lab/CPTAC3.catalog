@@ -3,6 +3,10 @@
 # Matthew Wyczalkowski <m.wyczalkowski@wustl.edu>
 # https://dinglab.wustl.edu/
 
+# TODO:
+# * Allow multiple DCC_analysis_summary entries, loop over them all
+# * Allow filters by year (e.g., -f Y1 )
+
 read -r -d '' USAGE <<'EOF'
 Evaluate number of cases in DCC analysis summary file
 
@@ -69,6 +73,7 @@ if [ ! -e $DAS ]; then
     exit 1
 fi
 
+echo $DAS
 echo Cases per disease
 cut -f 1,2 $DAS | grep -v "case" | sort -u | cut -f 2 | sort | uniq -c
 echo Cases total
