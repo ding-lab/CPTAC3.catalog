@@ -28,25 +28,25 @@ Pipelines which generate multiple result files per case will have multiple entri
 
 Counts of cases processed per disease and pipeline.  Counts of results to reference other than GDC hg38 excluded.
 
-Pipeline | AML | CCRCC | CM | GBM | HNSCC | LSCC | LUAD | PDA | SAR | UCEC | Total
---- | --- | ----- | --- | --- | ---- | --- | --- | --- | --- | --- | ---
-Methylation Array | 43 | 222 | 8 | 116 | 111 | 113 | 229 | 164 | 19 | 246 | 1271
-miRNA-Seq | 38 | 221 | 5 | 101 | 103 | 111 | 163 | 83 | 19 | 220 | 1064
-miRNA-Seq QC | 11 | 28 | 5 | 52 | 17 | 27 | 10 | 77 | 19 | 39 | 285 
-RNA-Seq Expression | 11 | 221 | 8 | 114 | 51 | 113 | 164 | 83 | 19 | 181 | 965
-RNA-Seq Fusion | 11 | 112 | 8 | 119 | 111 | 113 | 164 | 83 | 19 | 77 | 817 
-RNA-Seq Transcript + Splicing | 1 | 112 | 3 | 119 | 111 | 113 | 53 | 107 | 0 | 87 | 706 
-RNA-Seq QC | 11 | 112 | 8 | 119 | 111 | 113 | 53 | 83 | 19 | 77 | 706 
-WGS SV | 0 | 0 | 0 | 59 | 21 | 113 | 111 | 77 | 0 | 39 | 420
-WGS CNV Somatic | 0   |   117 |  0 | 59  | 21    | 113 | 121 |  77 |  0  | 39  | 547
-WGS QC | 0   |     0 |  0 | 60  | 21    | 113 |   0 |  77 |  0  | 39  | 310
-WXS MSI | 0   | 0     | 0  | 118 | 111   | 113  | 0    | 0   | 0   | 39  | 381
-WXS Normal Adjacent |  0  | 80    | 0  | 0   | 5     | 22   | 101  | 0   | 0   | 21   | 229
-WXS QC | 5 | 87 | 4 | 118 | 111 | 113 | 101 | 44 | 9 | 51 | 643
-WXS Somatic | 0   | 0     | 0  |   0 |     0 | 113  |    0 |   0 |   0 |   0 | 113
-WXS Somatic SW | 0   | 0     | 0  |   0 |     0 | 113  |    0 |   0 |   0 |   0 | 113
+                       Pipeline | AML | CCRCC | CM  | GBM | HNSCC | LSCC | LUAD | PDA | SAR | UCEC | Total
+                            --- | --- | ----- | --- | --- | ----- | ---- | ---- | --- | --- | ---- | ---
+Methylation Array               | 43  | 222   | 8   | 116 | 111   |  113 | 229  | 164 | 19  | 246  | 1271
+miRNA-Seq                       | 38  | 221   | 5   | 101 | 103   | 111  | 163  | 83  | 19  | 220  | 1064
+miRNA-Seq QC                    | 11  | 28    | 5   | 52  | 17    | 27   | 10   | 77  | 19  | 39   | 285 
+RNA-Seq Expression              | 11  | 221   | 8   | 114 | 51    | 113  | 164  | 83  | 19  | 181  | 965
+RNA-Seq Fusion                  | 11  | 112   | 8   | 119 | 111   | 113  | 164  | 83  | 19  | 77   | 817 
+RNA-Seq Transcript + Splicing   | 1   | 112   | 3   | 119 | 111   | 113  | 53   | 107 | 0   | 87   | 706 
+RNA-Seq QC                      | 11  | 112   | 8   | 119 | 111   | 113  | 53   | 83  | 19  | 77   | 706 
+WGS SV                          | 0   | 0     | 0   | 59  | 21    | 113  | 111  | 77  | 0   | 39   | 420
+WGS CNV Somatic                 | 0   | 117   | 0   | 59  | 21    | 113  | 121  | 77  | 0   | 39   | 547
+WGS QC                          | 0   | 0     | 0   | 60  | 21    | 113  | 0    | 77  | 0   | 39   | 310
+WXS MSI                         | 0   | 0     | 0   | 118 | 111   | 113  | 0    | 0   | 0   | 39   | 381
+WXS Normal Adjacent             | 0   | 80    | 0   | 0   | 5     | 22   | 101  | 0   | 0   | 21   | 229
+WXS QC                          | 5   | 87    | 4   | 118 | 111   | 113  | 101  | 44  | 9   | 51   | 643
+WXS Somatic                     | 0   | 0     | 0   | 0   | 0     | 113  | 0    | 0   | 0   | 0    | 113
+WXS Somatic SW                  | 0   | 0     | 0   | 0   | 0     | 113  | 0    | 0   | 0   | 0    | 113
 
-Last update: 2/11/20
+Last update: 2/19/20
 
 ## Year 1
 
