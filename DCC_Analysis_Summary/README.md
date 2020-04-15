@@ -30,10 +30,10 @@ Counts of cases processed per disease and pipeline.  Counts of results to refere
 
 Pipeline                        | AML | CCRCC | CM  | GBM | HNSCC | LSCC | LUAD | PDA | SAR | UCEC | Total
 ---                             | --- | ----- | --- | --- | ----- | ---- | ---- | --- | --- | ---- | ---
-Methylation Array               | 43  | 222   | 8   | 116 | 111   |  113 | 229  | 164 | 19  | 246  | 1271
-miRNA-Seq                       | 38  | 221   | 5   | 101 | 103   | 111  | 163  | 83  | 19  | 220  | 1064
+Methylation Array               | 43  | 222   | 8   | 116 | 111   | 113  | 229  | 164 | 19  | 246  | 1271
+miRNA-Seq                       | 42  | 222   | 8   | 114 | 111   | 113  | 229  | 164 | 19  | 247  | 1269
 miRNA-Seq QC                    | 11  | 28    | 5   | 52  | 17    | 27   | 10   | 77  | 19  | 39   | 285 
-RNA-Seq Expression              | 11  | 221   | 8   | 114 | 51    | 113  | 164  | 83  | 19  | 181  | 965
+RNA-Seq Expression              | 11  | 221   | 8   | 114 | 111   | 113  | 164  | 164 | 19  | 181  | 1106
 RNA-Seq Fusion                  | 11  | 112   | 8   | 119 | 111   | 113  | 164  | 83  | 19  | 77   | 817 
 RNA-Seq Transcript + Splicing   | 1   | 112   | 3   | 119 | 111   | 113  | 53   | 107 | 0   | 87   | 706 
 RNA-Seq QC                      | 11  | 112   | 8   | 119 | 111   | 113  | 53   | 83  | 19  | 77   | 706 
