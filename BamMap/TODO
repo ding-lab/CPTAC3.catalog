@@ -1,0 +1,14 @@
+BamMaps for both storage1 and katmai have a number of issues:
+
+* some blank values for sample_type field (col 5)
+* katmai.BamMap.dat has some aliquot names in sample_type field
+* system field (col 11) has "docker" as a value in some cases
+* Duplicate entries
+    * same data path occurring twice
+    * example: 9fbbc31e-053a-4d23-8a67-2fdff79e1141
+* Duplicate downloads
+    * Same UUID, differnet path
+    * this indicates wasted disk space
+    * example: 9fbbc31e-053a-4d23-8a67-2fdff79e1141
+
+
