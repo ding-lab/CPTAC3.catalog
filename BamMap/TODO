@@ -1,0 +1,19 @@
+BamMap for katmai has a number of issues:
+
+* Duplicate downloads
+    * Same UUID, differnet path
+    * this indicates wasted disk space
+    * example: 9fbbc31e-053a-4d23-8a67-2fdff79e1141
+    * 107 files, 1847.33 Gb
+
+Do duplicate analysis for MGI too.
+
+Additional development - BamMap.fsck
+* scan BamMap for deviations from Catalog file
+    * Look for deprectated data vs. Catalog file
+* look for duplicates entries, identify whether these constitute double download
+    * Should add duplicate download check at Import time
+
+
+
+
