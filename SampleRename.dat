@@ -180,46 +180,46 @@ CPT0254680006	WXS	.high_cov
 CPT0256560006	WXS	.high_cov
 CPT0264150009	WXS	.high_cov
 CPT0275870006	WXS	.high_cov
-e156f077-b1c4-45a7-b838-4b94d0b7921d	.DO_NOT_USE		# duplicate unharmonized miRNA_Seq
-1094ea67-0da9-4835-b5c2-d207e30d8a26	.DO_NOT_USE		# duplicate unharmonized miRNA_Seq
-3d100197-9e71-45bd-962a-b12bef470313	.DO_NOT_USE		# duplicate unharmonized miRNA_Seq
-a13af603-73ce-4ed0-9dc2-20cf609a7397	.DO_NOT_USE		# duplicate unharmonized miRNA_Seq
-0cf0de75-cdd0-4928-b012-ca1f218966e8	.DO_NOT_USE		# duplicate unharmonized miRNA_Seq
-347ad43c-a905-4559-8b83-f32b5e9a1bc4	.DO_NOT_USE		# duplicate unharmonized miRNA_Seq
-CPT0116860009	*	.DO_NOT_USE	# Unredacted duplicate miRNA/RNA
-CPT0235720023	*	.DO_NOT_USE	# Duplicate unmerged miRNA/RNA 
-CPT0235730040	*	.DO_NOT_USE	# Duplicate unmerged miRNA/RNA 
-CPT0187540007 	*	.DO_NOT_USE	# Sample type inconsistency (NAT vs. tumor)
-CPT0209110009	*	.DO_NOT_USE	# Sample type inconsistency (NAT vs. tumor)
-CPT0008800006	*	.DO_NOT_USE	# Aliquot superceded with _1
-CPT0078160007	*	.DO_NOT_USE	# Aliquot superceded with _1
-CPT0077790007	*	.DO_NOT_USE	# Aliquot superceded with _1
-CPT0077930007	*	.DO_NOT_USE	# Aliquot superceded with _1
-CPT0078090007	*	.DO_NOT_USE	# Aliquot superceded with _1
-CPT0078000006	*	.DO_NOT_USE	# Aliquot superceded with _1
-CPT0065080013	*	.DO_NOT_USE	# Aliquot superceded with _1
-CPT0065640009	*	.DO_NOT_USE	# Aliquot superceded with _1
-CPT0088180010	*	.DO_NOT_USE	# Aliquot superceded with _1
-CPT0088320009	*	.DO_NOT_USE	# Aliquot superceded with _1
-CPT0088360009	*	.DO_NOT_USE	# Aliquot superceded with _1
-CPT0124360006	*	.DO_NOT_USE	# Aliquot superceded with _1
-CPT0125090006	*	.DO_NOT_USE	# Aliquot superceded with _1
-CPT0125130006	*	.DO_NOT_USE	# Aliquot superceded with _1
-CPT0138900010	*	.DO_NOT_USE	# Aliquot superceded with _1
-CPT0139000010	*	.DO_NOT_USE	# Aliquot superceded with _1
-CPT0146130010	*	.DO_NOT_USE	# Aliquot superceded with _1
-CPT0086360009	*	.DO_NOT_USE	# Aliquot marked as IGNORE per Mathangi
-CPT0229210006	*	.DO_NOT_USE	# Aliquot marked as IGNORE per Mathangi
-CPT0232670006	*	.DO_NOT_USE	# Aliquot marked as IGNORE per Mathangi
-CPT0066890006	*	.DO_NOT_USE	# Aliquot marked as IGNORE per Mathangi
-CPT0097710009	*	.DO_NOT_USE	# Aliquot marked as IGNORE per Mathangi
-CPT0125260005	*	.DO_NOT_USE	# Aliquot marked as IGNORE per Mathangi
-CPT0177700006	*	.DO_NOT_USE	# Aliquot marked as IGNORE per Mathangi
-CPT0206350009	*	.DO_NOT_USE	# Aliquot marked as IGNORE per Mathangi
-CPT0086360006	*	.DO_NOT_USE	# Aliquot marked as IGNORE per Mathangi
-CPT0229210013	*	.DO_NOT_USE	# Aliquot marked as IGNORE per Mathangi
-CPT0232670009	*	.DO_NOT_USE	# Aliquot marked as IGNORE per Mathangi
-CPT0066890009	*	.DO_NOT_USE	# Aliquot marked as IGNORE per Mathangi
-CPT0097710006	*	.DO_NOT_USE	# Aliquot marked as IGNORE per Mathangi
-CPT0177700009	*	.DO_NOT_USE	# Aliquot marked as IGNORE per Mathangi
-CPT0206350006	*	.DO_NOT_USE	# Aliquot marked as IGNORE per Mathangi
+e156f077-b1c4-45a7-b838-4b94d0b7921d	.deprecated		# duplicate unharmonized miRNA_Seq
+1094ea67-0da9-4835-b5c2-d207e30d8a26	.deprecated		# duplicate unharmonized miRNA_Seq
+3d100197-9e71-45bd-962a-b12bef470313	.deprecated		# duplicate unharmonized miRNA_Seq
+a13af603-73ce-4ed0-9dc2-20cf609a7397	.deprecated		# duplicate unharmonized miRNA_Seq
+0cf0de75-cdd0-4928-b012-ca1f218966e8	.deprecated		# duplicate unharmonized miRNA_Seq
+347ad43c-a905-4559-8b83-f32b5e9a1bc4	.deprecated		# duplicate unharmonized miRNA_Seq
+CPT0116860009	*	.deprecated	# Unredacted duplicate miRNA/RNA
+CPT0235720023	*	.deprecated	# Duplicate unmerged miRNA/RNA 
+CPT0235730040	*	.deprecated	# Duplicate unmerged miRNA/RNA 
+CPT0187540007 	*	.deprecated	# Sample type inconsistency (NAT vs. tumor)
+CPT0209110009	*	.deprecated	# Sample type inconsistency (NAT vs. tumor)
+CPT0008800006	*	.deprecated	# Aliquot superceded with _1
+CPT0078160007	*	.deprecated	# Aliquot superceded with _1
+CPT0077790007	*	.deprecated	# Aliquot superceded with _1
+CPT0077930007	*	.deprecated	# Aliquot superceded with _1
+CPT0078090007	*	.deprecated	# Aliquot superceded with _1
+CPT0078000006	*	.deprecated	# Aliquot superceded with _1
+CPT0065080013	*	.deprecated	# Aliquot superceded with _1
+CPT0065640009	*	.deprecated	# Aliquot superceded with _1
+CPT0088180010	*	.deprecated	# Aliquot superceded with _1
+CPT0088320009	*	.deprecated	# Aliquot superceded with _1
+CPT0088360009	*	.deprecated	# Aliquot superceded with _1
+CPT0124360006	*	.deprecated	# Aliquot superceded with _1
+CPT0125090006	*	.deprecated	# Aliquot superceded with _1
+CPT0125130006	*	.deprecated	# Aliquot superceded with _1
+CPT0138900010	*	.deprecated	# Aliquot superceded with _1
+CPT0139000010	*	.deprecated	# Aliquot superceded with _1
+CPT0146130010	*	.deprecated	# Aliquot superceded with _1
+CPT0086360009	*	.deprecated	# Aliquot marked as IGNORE per Mathangi
+CPT0229210006	*	.deprecated	# Aliquot marked as IGNORE per Mathangi
+CPT0232670006	*	.deprecated	# Aliquot marked as IGNORE per Mathangi
+CPT0066890006	*	.deprecated	# Aliquot marked as IGNORE per Mathangi
+CPT0097710009	*	.deprecated	# Aliquot marked as IGNORE per Mathangi
+CPT0125260005	*	.deprecated	# Aliquot marked as IGNORE per Mathangi
+CPT0177700006	*	.deprecated	# Aliquot marked as IGNORE per Mathangi
+CPT0206350009	*	.deprecated	# Aliquot marked as IGNORE per Mathangi
+CPT0086360006	*	.deprecated	# Aliquot marked as IGNORE per Mathangi
+CPT0229210013	*	.deprecated	# Aliquot marked as IGNORE per Mathangi
+CPT0232670009	*	.deprecated	# Aliquot marked as IGNORE per Mathangi
+CPT0066890009	*	.deprecated	# Aliquot marked as IGNORE per Mathangi
+CPT0097710006	*	.deprecated	# Aliquot marked as IGNORE per Mathangi
+CPT0177700009	*	.deprecated	# Aliquot marked as IGNORE per Mathangi
+CPT0206350006	*	.deprecated	# Aliquot marked as IGNORE per Mathangi
