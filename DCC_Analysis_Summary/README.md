@@ -46,7 +46,7 @@ WXS QC                          | 5   | 87    | 4   | 118 | 111   | 113  | 101  
 WXS Somatic                     | 0   | 0     | 0   | 0   | 0     | 113  | 0    | 0   | 0   | 0    | 113
 WXS Somatic SW                  | 0   | 0     | 0   | 0   | 0     | 113  | 109  | 0   | 0   | 0    | 222
 
-Last update: 5/25/20
+Last update: 6/18/20
 
 * HNSCC WGS SV analysis is ad hoc analysis of data aligned by UMich to custom reference.
 
