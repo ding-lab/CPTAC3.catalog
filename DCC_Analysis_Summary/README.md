@@ -32,23 +32,29 @@ Pipeline                        | AML | CCRCC | CM  | GBM | HNSCC | LSCC | LUAD 
 ---                             | --- | ----- | --- | --- | ----- | ---- | ---- | --- | --- | ---- | ---
 Methylation Array               | 43  | 222   | 8   | 116 | 111   | 113  | 229  | 164 | 19  | 246  | 1271
 miRNA-Seq                       | 42  | 222   | 8   | 114 | 111   | 113  | 229  | 164 | 19  | 247  | 1269
-miRNA-Seq QC                    | 11  | 28    | 5   | 52  | 17    | 27   | 10   | 77  | 19  | 39   | 285 
 RNA-Seq Expression              | 42  | 225   | 8   | 120 | 118   | 117  | 230  | 164 | 19  | 251  | 1275
 RNA-Seq Fusion                  | 11  | 112   | 8   | 119 | 111   | 113  | 164  | 164 | 19  | 77   | 898 
 RNA-Seq Transcript + Splicing   | 1   | 112   | 3   | 119 | 111   | 113  | 53   | 164 | 0   | 77   | 753 
-RNA-Seq QC                      | 11  | 112   | 8   | 119 | 111   | 113  | 53   | 83  | 19  | 77   | 706 
 WGS SV                          | 0   | 0     | 0   | 59  | 109 * | 113  | 111  | 166 | 0   | 39   | 597
 WGS CNV Somatic                 | 0   | 117   | 0   | 59  | 109   | 113  | 121  | 166 | 0   | 39   | 724
-WGS QC                          | 0   | 0     | 0   | 60  | 21    | 113  | 0    | 77  | 0   | 39   | 310
 WXS MSI                         | 0   | 222   | 0   | 118 | 111   | 113  | 111  | 0   | 0   | 143  | 818
 WXS Normal Adjacent             | 0   | 80    | 0   | 0   | 5     | 22   | 101  | 0   | 0   | 21   | 229
-WXS QC                          | 5   | 87    | 4   | 118 | 111   | 113  | 101  | 44  | 9   | 51   | 643
 WXS Somatic                     | 0   | 0     | 0   | 0   | 0     | 113  | 0    | 0   | 0   | 0    | 113
 WXS Somatic SW                  | 0   | 0     | 0   | 0   | 0     | 113  | 109  | 0   | 0   | 0    | 222
 
+\* HNSCC WGS SV analysis is ad hoc analysis of data aligned by UMich to custom reference.
+
+### QC Pipelines
+
+QC Pipelines                    | AML | CCRCC | CM  | GBM | HNSCC | LSCC | LUAD | PDA | SAR | UCEC | Total
+---                             | --- | ----- | --- | --- | ----- | ---- | ---- | --- | --- | ---- | ---
+miRNA-Seq QC                    | 11  | 28    | 5   | 52  | 17    | 27   | 10   | 77  | 19  | 39   | 285 
+RNA-Seq QC                      | 11  | 112   | 8   | 119 | 111   | 113  | 53   | 83  | 19  | 77   | 706 
+WGS QC                          | 0   | 0     | 0   | 60  | 21    | 113  | 0    | 77  | 0   | 39   | 310
+WXS QC                          | 5   | 87    | 4   | 118 | 111   | 113  | 101  | 44  | 9   | 51   | 643
+
 Last update: 6/18/20
 
-* HNSCC WGS SV analysis is ad hoc analysis of data aligned by UMich to custom reference.
 
 ## Year 1
 
