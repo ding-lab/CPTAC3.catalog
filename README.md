@@ -176,9 +176,9 @@ Currently, it is used to add suffixes `.core` and `.high_cov` to select PDA samp
   * CPTAC_SupplementalData_WGS&WES_renamingneeded_Aug2019_93samples_check.xlsx
 All files from Mathangi Thiagarajan and Ana Robles
 
-### `DO_NOT_USE` sample names
+### `deprecated` sample names
 
-A number of samples are marked with a suffix `.DO_NOT_USE`.  These labels are based on an analysis of duplicate aliquots,
+A number of samples are marked with a suffix `.deprecated`.  These labels are based on an analysis of duplicate aliquots,
 and correspond largely to instances where one aliquot has been superceded by another, with the original not removed
 from GDC.  Details of this analysis can be found on `shiso:/Users/mwyczalk/Projects/CPTAC3/CPTAC3.Cases/20200501.find_duplicates/README.md`
 
