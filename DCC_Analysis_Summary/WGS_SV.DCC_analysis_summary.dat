@@ -1,4 +1,4 @@
-# case	disease	pipeline_name	pipeline_version	timestamp	C3Y	DCC_path	filesize	file_format	md5sum	tumor_name	tumor_uuid	normal_name	normal_uuid
+# case	disease	pipeline_name	pipeline_version	timestamp	C3Y	DCC_path	filesize	file_format	md5sum	tumor_name	tumor_uuid	normal_name	normal_uuid	cromwell_workflow_id
 11LU013	LUAD	WGS_SV	v0.1.2	20190107	Y1	/CPTAC3_WashU_hg38/LUAD/WGS_SV.LUAD.b1-4.hg38_v1.2_20190107/11LU013.SV.WGS.vcf	165614	VCF	dddbc73b2edd711acea8f8d62a02abbd	Unknown.Y1	Unknown.Y1	Unknown.Y1	Unknown.Y1
 11LU016	LUAD	WGS_SV	v0.1.2	20190107	Y1	/CPTAC3_WashU_hg38/LUAD/WGS_SV.LUAD.b1-4.hg38_v1.2_20190107/11LU016.SV.WGS.vcf	156501	VCF	c33c41e6713be2ce1fec67a4693c751e	Unknown.Y1	Unknown.Y1	Unknown.Y1	Unknown.Y1
 11LU022	LUAD	WGS_SV	v0.1.2	20190107	Y1	/CPTAC3_WashU_hg38/LUAD/WGS_SV.LUAD.b1-4.hg38_v1.2_20190107/11LU022.SV.WGS.vcf	161174	VCF	089824c9810e6485008410aede72da41	Unknown.Y1	Unknown.Y1	Unknown.Y1	Unknown.Y1
