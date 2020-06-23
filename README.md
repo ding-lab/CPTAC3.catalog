@@ -163,7 +163,8 @@ aliquot, and experimental strategy.  Input TSV file format is one of the
 following:
   a) uuid, suffix
   b) aliquot, experimental_strategy, suffix
-     * The wildcard * will be used to indicate all experimental strategies
+
+The wildcard * will be used to indicate all experimental strategies
 multiple matches will give multiple sequential suffixes
 It is parsed by [CPTAC3 Case Discover `src/make_catalog.sh`](https://github.com/ding-lab/CPTAC3.case.discover/blob/master/src/make_catalog.sh)
 
