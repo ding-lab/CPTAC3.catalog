@@ -1,9 +1,5 @@
 ## Analysis Summaries - Y3 only
 
-```
-bash src/DCC_case_counts.sh -C Y3 RNA-Seq_Expression.DCC_analysis_summary.dat
-```
-
 Pipeline                        | AML | CCRCC | CM  | GBM | HNSCC | LSCC | LUAD | PDA | SAR | UCEC | Total
 ---                             | --- | ----- | --- | --- | ----- | ---- | ---- | --- | --- | ---- | ---
 Methylation Array               | 43  | 222   | 8   | 116 | 111   | 113  | 229  | 164 | 19  | 246  | 1271
@@ -32,3 +28,10 @@ WXS MSI                         | 0   | 222   | 0   | 118 | 111   | 113  | 111  
 WXS Normal Adjacent             | 0   | 80    | 0   | 0   | 5     | 22   | 101  | 0   | 0   | 21   | 229
 WXS Somatic                     | 0   | 0     | 0   | 0   | 0     | 113  | 0    | 0   | 0   | 0    | 113
 WXS Somatic SW                  | 0   | 0     | 0   | 0   | 0     | 113  | 109  | 0   | 0   | 0    | 222
+
+### Technical
+Generate Y3 counts with,
+```
+bash src/DCC_case_counts.sh -C Y3 RNA-Seq_Expression.DCC_analysis_summary.dat
+```
+
