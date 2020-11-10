@@ -19,39 +19,39 @@ Description of files in this project
           and lower-case symbol indicates that that sample is in GDC but not on system
 * [`./DCC_Analysis_Summary`](./DCC_Analysis_Summary) - has details about analyses uploaded to DCC
 
-## Versions
+## Updates
 
-### Version 2.2
-Flags datasets associated with heterogeneity studies based on GDC aliquot annotation note.  Heterogeneity studies
-will have multiple datasets for a given case, experimental strategy, and sample type (e.g. multiple WXS tumor BAMs for one case)
-
+### CPTAC3 Catalog Version 2.2
+Updates to deal with datasets associated with heterogeneity studies, which will
+have multiple datasets for a given case, experimental strategy, and sample type
+(e.g. multiple WXS tumor BAMs for one case)
 
 #### Fields added
 
 Adding the following columns to catalog file (terminal columns 15-17):
 
-    * `sample_id` - GDC sample name
-    * `sample_metadata` - Ad hoc metadata associated with this sample.  Identifies heterogeneity studies and any other tags obtained for custom sample names as described below
-    * `aliquot_annotation` - Annotation note associated with aliquot, from GDC
+* `sample_id` - GDC sample name
+* `sample_metadata` - Ad hoc metadata associated with this sample.  Identifies heterogeneity studies and any other tags obtained for custom sample names as described below
+* `aliquot_annotation` - Annotation note associated with aliquot, from GDC
 
 #### Heterogeneity study 
 
-Disambiguates  datasets associated with heterogeneity studies based on GDC aliquot annotation note.
+Disambiguates datasets associated with heterogeneity studies based on GDC aliquot annotation note.
 
-If aliquot_annotation is as follows:
+If `aliquot_annotation` has the value,
 ```
     Duplicate item: CCRCC Tumor heterogeneity study aliquot
 ```
-Then `sample_metadata` is updated with "heterogeneity HET-XXX"
-  * `XXX` is a hash ID generated with [bashids](https://github.com/benwilber/bashids)
+then `sample_metadata` has the value `heterogeneity HET_XXX`, where
+  * `XXX` is a hash ID generated with [bashids](https://github.com/benwilber/bashids).
     Input string is the aliquot name with "CPT" and any leading 0's removed
-  * sample_name has `HET-XXX` added as a suffix
+  * `sample_name` has `HET_XXX` added as a suffix. Example: `C3L-00103.miRNA-Seq.T.HET_qZq3G`
 
-### Version 2.1
+### CPTAC3 Catalog Version 2.1
 
 * Adding support for scRNA-Seq
 
-### Version 2.0 
+### CPTAC3 Catalog Version 2.0 
 
 * Added `experimental_strategies` "MethArray" and "Targeted Sequencing"
 * Aliquot information replaces sample information
@@ -162,7 +162,6 @@ Example line from BamMap with header names:
     10  UUID    7829f978-5fd7-436a-9ec2-2e58a7bcb1f7
     11  system  MGI
 ```
-
 
 ### BamMap summary
 As an example from `MGI.BamMap-summary.txt`:
