@@ -40,7 +40,7 @@ WGS CNV Somatic                 | 0   | 222   | 0   | 59  | 109   | 113  | 121  
 WXS MSI                         | 0   | 222   | 0   | 118 | 111   | 113  | 111  | 166 | 0   | 244  | 1085
 WXS Normal Adjacent             | 0   | 80    | 0   | 0   | 5     | 22   | 101  | 0   | 0   | 21   | 229
 WXS Somatic                     | 0   | 0     | 0   | 0   | 0     | 113  | 0    | 0   | 0   | 0    | 113
-WXS Somatic SW                  | 0   | 0     | 0   | 0   | 0     | 113  | 109  | 0   | 0   | 0    | 222
+WXS Somatic SW                  | 0   | 0     | 0   | 0   | 0     | 113  | 109  | 166 | 0   | 244  | 632
 
 \* HNSCC WGS SV analysis is ad hoc analysis of data aligned by UMich to custom reference.
 
