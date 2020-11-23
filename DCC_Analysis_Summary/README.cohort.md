@@ -12,7 +12,7 @@
 6|GBM|Confirmatory
 98|GBM|Discovery
 100|HNSCC|Discovery
-11|HNSCC|Discovery|B
+11|HNSCC|Discovery_B
 3|LSCC
 110|LSCC|Discovery
 11|LUAD
@@ -39,7 +39,7 @@
 3|GBM|Confirmatory
 99|GBM|Discovery
 100|HNSCC|Discovery
-11|HNSCC|Discovery|B
+11|HNSCC|Discovery_B
 3|LSCC
 110|LSCC|Discovery
 11|LUAD
@@ -66,7 +66,7 @@
 6|GBM|Confirmatory
 100|GBM|Discovery
 100|HNSCC|Discovery
-11|HNSCC|Discovery|B
+11|HNSCC|Discovery_B
 3|LSCC
 110|LSCC|Discovery
 11|LUAD
@@ -93,7 +93,7 @@
 7|GBM|Confirmatory
 100|GBM|Discovery
 100|HNSCC|Discovery
-11|HNSCC|Discovery|B
+11|HNSCC|Discovery_B
 3|LSCC
 110|LSCC|Discovery
 11|LUAD
@@ -119,7 +119,7 @@
 7|GBM|Confirmatory
 100|GBM|Discovery
 100|HNSCC|Discovery
-11|HNSCC|Discovery|B
+11|HNSCC|Discovery_B
 3|LSCC
 110|LSCC|Discovery
 53|LUAD|Confirmatory
@@ -139,7 +139,7 @@
 5|GBM|Confirmatory
 42|GBM|Discovery
 98|HNSCC|Discovery
-11|HNSCC|Discovery|B
+11|HNSCC|Discovery_B
 3|LSCC
 110|LSCC|Discovery
 11|LUAD
@@ -161,7 +161,7 @@
 5|GBM|Confirmatory
 42|GBM|Discovery
 98|HNSCC|Discovery
-11|HNSCC|Discovery|B
+11|HNSCC|Discovery_B
 3|LSCC
 110|LSCC|Discovery
 11|LUAD
@@ -189,7 +189,7 @@
 6|GBM|Confirmatory
 100|GBM|Discovery
 100|HNSCC|Discovery
-11|HNSCC|Discovery|B
+11|HNSCC|Discovery_B
 3|LSCC
 110|LSCC|Discovery
 11|LUAD
@@ -206,7 +206,7 @@
  --- | --- | --- 
 80|CCRCC|Discovery
 2|HNSCC|Discovery
-3|HNSCC|Discovery|B
+3|HNSCC|Discovery_B
 1|LSCC
 21|LSCC|Discovery
 6|LUAD
