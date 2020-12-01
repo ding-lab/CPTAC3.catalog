@@ -19,33 +19,21 @@ Description of files in this project
           and lower-case symbol indicates that that sample is in GDC but not on system
 * [`./DCC_Analysis_Summary`](./DCC_Analysis_Summary) - has details about analyses uploaded to DCC
 
+Additional details about catalog creation are found in [CPTAC3.case.discover](https://github.com/ding-lab/CPTAC3.case.discover).
+
 ## Updates
 
 ### CPTAC3 Catalog Version 2.2
-Updates to deal with datasets associated with heterogeneity studies, which will
-have multiple datasets for a given case, experimental strategy, and sample type
-(e.g. multiple WXS tumor BAMs for one case)
+Flags datasets associated with heterogeneity studies based on GDC aliquot annotation note.
 
 #### Fields added
 
-Adding the following columns to catalog file (terminal columns 15-17):
+Adding the following columns to catalog file:
+* `sample_id` - GDC sample name  
+* `sample_metadata` - Ad hoc metadata associated with this sample.  May be comma-separated list
+* `aliquot_annotation` - Annotation note associated with aliquot, from GDC 
 
-* `sample_id` - GDC sample name
-* `sample_metadata` - Ad hoc metadata associated with this sample.  Identifies heterogeneity studies and any other tags obtained for custom sample names as described below
-* `aliquot_annotation` - Annotation note associated with aliquot, from GDC
-
-#### Heterogeneity study 
-
-Disambiguates datasets associated with heterogeneity studies based on GDC aliquot annotation note.
-
-If `aliquot_annotation` has the value,
-```
-    Duplicate item: CCRCC Tumor heterogeneity study aliquot
-```
-then `sample_metadata` has the value `heterogeneity HET_XXX`, where
-  * `XXX` is a hash ID generated with [bashids](https://github.com/benwilber/bashids).
-    Input string is the aliquot name with "CPT" and any leading 0's removed
-  * `sample_name` has `HET_XXX` added as a suffix. Example: `C3L-00103.miRNA-Seq.T.HET_qZq3G`
+Also, `sample_name` has additional element based on `aliquot_annotation`. Details in Heterogeneity Studies section below.
 
 ### CPTAC3 Catalog Version 2.1
 
@@ -201,8 +189,38 @@ A number of samples are marked with a suffix `.deprecated`.  These labels are ba
 and correspond largely to instances where one aliquot has been superceded by another, with the original not removed
 from GDC.  Details of this analysis can be found on `shiso:/Users/mwyczalk/Projects/CPTAC3/CPTAC3.Cases/20200501.find_duplicates/README.md`
 
+## Heterogeneity Studies and duplicates
+
+GDC provides annotations associated with aliquots which contain additional
+context regarding cases with multiple tumor samples.  This information is
+stored in the field `aliquot_annotation` and is used to generate a convenient
+label used in the sample metadata and sample name fields.
+
+If `aliquot_annotation` is defined for a given data file, we generate sample label consisting of a label prefix followed
+by an ID code.  An example sample label may be `HET_qZq3G`, where the prefix `HET` indicates heterogeneity and 
+the ID code is `qZq3G`.  This code is hash ID generated with [bashids](https://github.com/benwilber/bashids), where
+the input numerical string is obtained from the aliquot name (`CPT0000650008`) with "CPT" and any leading 0's removed.
+The sample label used for the `sample_name` and `sample_metadata` fields
+
+Table below lists all known GDC aliquot annotations, the corresponding value written to the `sample_metadata` field, and 
+the prefix used to generate the sample label.
+
+| Aliquot annotation | Metadata label | Label prefix |
+| ------------------ | -------------- | ------------ |
+| Duplicate item: CCRCC Tumor heterogeneity study aliquot | heterogeneity | HET | 
+| Duplicate item: Additional DNA for PDA Deep Sequencing | deep_sequencing | DEEP | 
+| Duplicate item: Additional DNA requested | additional_DNA | ADNA
+| Duplicate item: Additional RNA requested | additional_RNA | ARNA
+| Duplicate item: PDA Pilot - bulk-derived DNA | bulk_DNA | BULK
+| Duplicate item: PDA Pilot - core-derived DNA | core_DNA | CORE
+| Duplicate item: Replacement DNA Distribution - original aliquot failed | replacement_DNA | RDNA
+| Duplicate item: Replacement RNA Distribution - original aliquot failed | replacement_RNA | RRNA
+| Duplicate item: UCEC BioTEXT Pilot | BioTEXT | BIOTEXT
+| Duplicate item: UCEC LMD Heterogeneity Pilot | LMD heterogeneity | LMD
+| unknown | unknown_annotation | UNK | 
+
+
+
 ## Contact
 
-Matthew Wyczalkowski <m.wyczalkowski@wustl.edu>
-[Ding Lab](http://dinglab.wustl.edu)
-Washinton University School of Medicine
+Matthew Wyczalkowski <m.wyczalkowski@wustl.edu>, [Ding Lab](http://dinglab.wustl.edu), Washinton University School of Medicine
