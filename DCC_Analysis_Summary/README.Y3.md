@@ -1,6 +1,8 @@
 ## Analysis Summaries - Y3 only
 
-TODO: Update with Germline
+TODO: 
+* Update with Germline
+* Update with RNA-Seq Fusion
 
 Pipeline                        | AML | CCRCC | CM  | GBM | HNSCC | LSCC | LUAD | PDA | SAR | UCEC | Total
 ---                             | --- | ----- | --- | --- | ----- | ---- | ---- | --- | --- | ---- | ---
