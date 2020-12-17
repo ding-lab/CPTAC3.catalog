@@ -6,6 +6,7 @@ TODO:
 * Update with RNA-Seq Expression
 * Update with Methylation
 * Update with RNA-Seq_Transcript
+* Update with WGS SV
 
 Pipeline                        | AML | CCRCC | CM  | GBM | HNSCC | LSCC | LUAD | PDA | SAR | UCEC | Total
 ---                             | --- | ----- | --- | --- | ----- | ---- | ---- | --- | --- | ---- | ---
