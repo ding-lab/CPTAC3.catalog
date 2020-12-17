@@ -33,17 +33,14 @@ Pipeline                        | AML | CCRCC | CM  | GBM | HNSCC | LSCC | LUAD 
 Methylation Array               | 43  | 222   | 8   | 116 | 111   | 113  | 229  | 164 | 19  | 246  | 1271
 miRNA-Seq                       | 42  | 222   | 8   | 114 | 111   | 113  | 229  | 164 | 19  | 247  | 1269
 RNA-Seq Expression              | 42  | 225   | 8   | 120 | 118   | 117  | 230  | 164 | 19  | 251  | 1275
-RNA-Seq Fusion                  | 11  | 222   | 8   | 119 | 111   | 113  | 164  | 164 | 19  | 222  | 1152
+RNA-Seq Fusion                  | 11  | 222   | 8   | 119 | 111   | 113  | 164  | 164 | 19  | 244  | 1174
 RNA-Seq Transcript + Splicing   | 1   | 222   | 3   | 119 | 111   | 113  | 53   | 164 | 0   | 222  | 1007
-WGS SV                          | 0   | 222   | 0   | 59  | 109 * | 113  | 111  | 166 | 0   | 217  | 997
+WGS SV                          | 0   | 222   | 0   | 115 | 132   | 113  | 111  | 166 | 0   | 239  | 1077
 WGS CNV Somatic                 |  0  | 222   | 0   |  59 | 109   | 113  | 121  | 166 |  0  | 217  | 1007
 WXS MSI                         | 0   | 222   | 0   | 118 | 111   | 113  | 111  | 166 | 0   | 244  | 1085
 WXS Normal Adjacent             | 0   | 80    | 0   | 0   | 5     | 22   | 101  | 0   | 0   | 21   | 229
-WXS Germline                    | 0   | 110   | 0   | 99  | 110   | 113  | 110  | 145 | 0   | 95   | 782
 WXS Somatic                     | 0   | 0     | 0   | 0   | 0     | 113  | 0    | 0   | 0   | 0    | 113
 WXS Somatic SW                  | 0   | 0     | 0   | 0   | 0     | 113  | 109  | 166 | 0   | 244  | 632
-
-\* HNSCC WGS SV analysis is ad hoc analysis of data aligned by UMich to custom reference.
 
 <!--
 ### QC Pipelines

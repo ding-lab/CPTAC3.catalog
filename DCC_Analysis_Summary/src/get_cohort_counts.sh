@@ -1,8 +1,16 @@
+# Ad hoc script for reporting cohort information 
+# Edit the output to avoid overwrites
+# Usage: bash src/get_cohort_counts.sh
 
+# Writes a document with two sections:
+# * Cohort Counts
+# * Heterogeneity Counts
+# 
+# In Cohort Count, for a given pipeline, list the number of cases per disease For
+# In Heterogeneity Count, for a given pipeline, list number of cases which have "HET_"
+# as part of sample name, broken out by disease
 
-#Pipeline                        | AML | CCRCC | CM  | GBM | HNSCC | LSCC | LUAD | PDA | SAR | UCEC | Total
-#---                             | --- | ----- | --- | --- | ----- | ---- | ---- | --- | --- | ---- | ---
-#Methylation Array               | 43  | 222   | 8   | 116 | 111   | 113  | 229  | 164 | 19  | 246  | 1271
+OUT="README.cohort.20201217.md"
 
 function get_cohort_count {
 
@@ -17,6 +25,9 @@ function get_cohort_count {
     echo 
 }
 
+# For a given pipeline,
+# returns the number of cases which have "HET_" as part of sample name,
+# broken out by disease
 function get_het_count {
 
     DCCAS=$1
@@ -30,7 +41,6 @@ function get_het_count {
     echo 
 }
 
-OUT="README.cohort.md"
 
 echo "# Cohort Counts " > $OUT
 
