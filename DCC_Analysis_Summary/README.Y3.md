@@ -5,6 +5,7 @@ TODO:
 * Update with RNA-Seq Fusion
 * Update with RNA-Seq Expression
 * Update with Methylation
+* Update with RNA-Seq_Transcript
 
 Pipeline                        | AML | CCRCC | CM  | GBM | HNSCC | LSCC | LUAD | PDA | SAR | UCEC | Total
 ---                             | --- | ----- | --- | --- | ----- | ---- | ---- | --- | --- | ---- | ---
