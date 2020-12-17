@@ -3,6 +3,7 @@
 TODO: 
 * Update with Germline
 * Update with RNA-Seq Fusion
+* Update with RNA-Seq Expression
 
 Pipeline                        | AML | CCRCC | CM  | GBM | HNSCC | LSCC | LUAD | PDA | SAR | UCEC | Total
 ---                             | --- | ----- | --- | --- | ----- | ---- | ---- | --- | --- | ---- | ---
