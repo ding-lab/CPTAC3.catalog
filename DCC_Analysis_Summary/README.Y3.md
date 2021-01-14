@@ -1,5 +1,9 @@
 ## Analysis Summaries - Y3 only
 
+TODO
+
+* add WGS CNV_Somatic
+
 Last updated: 12/17/20
 
 **Bold fields** are new since 20201119
