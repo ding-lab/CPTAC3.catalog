@@ -3,6 +3,7 @@
 TODO
 
 * add WGS CNV_Somatic
+* add RNA_Seq Transcript
 
 Last updated: 12/17/20
 
