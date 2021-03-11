@@ -10,7 +10,7 @@
 # In Heterogeneity Count, for a given pipeline, list number of cases which have "HET_"
 # as part of sample name, broken out by disease
 
-OUT="README.cohort.20201217.md"
+OUT="README.cohort.20220219.md"
 
 function get_cohort_count {
 
@@ -66,7 +66,7 @@ get_het_count RNA-Seq_Expression.DCC_analysis_summary.dat            >> $OUT
 get_het_count RNA-Seq_Fusion.DCC_analysis_summary.dat                >> $OUT
 get_het_count RNA-Seq_Transcript.DCC_analysis_summary.dat            >> $OUT
 get_het_count WGS_CNV_Somatic.DCC_analysis_summary.dat               >> $OUT
-get_het_count WGS_SV.DCC_analysis_summary.dat                        >> $OUT
+get_het_count WGS_SV.DCC_analysis_summary.dat                        >> $OUT        # This gives back bad counts
 get_het_count WXS_Germline.DCC_analysis_summary.dat                  >> $OUT
 get_het_count WXS_MSI.DCC_analysis_summary.dat                       >> $OUT
 get_het_count WXS_Normal_Adjacent.DCC_analysis_summary.dat           >> $OUT

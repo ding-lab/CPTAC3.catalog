@@ -81,6 +81,7 @@ fi
 # otherwise, if C3Y_FILTER is specified, filter out based on value of column 6, C3Y
 # otherwise, just filter out the column header ("case")
 # Note that this is pretty awkward and cannot filter both by CASE_LIST and C3Y_FILTER
+
 if [ $CASE_LIST ]; then
     FILTER="grep -f $CASE_LIST"
 elif [ $C3Y_FILTER ]; then
@@ -89,10 +90,14 @@ else
     FILTER="grep -v case "
 fi
 
+# Complication comes up when case has name like `C3L-00103.HET_oymKX`
+# This is strictly incorrect, but is used to keep the run name unique
+# in this case, need to strip off the .HET... to get at the real case name
+FILTER_CASE="awk 'BEGIN{FS=\"\t\";OFS=\"\t\"}{print substr(\$1,1,9), \$2, \$3}'"
 echo $DAS
 echo Cases per disease
-CMD="cut -f 1,2,6 $DAS | $FILTER | sort -u | cut -f 2 | sort | uniq -c"
-#echo Running: $CMD
+CMD="cut -f 1,2,6 $DAS | $FILTER | $FILTER_CASE | sort -u | cut -f 2 | sort | uniq -c"
+echo Running: $CMD
 eval $CMD
 
 echo Cases total
