@@ -189,8 +189,6 @@ a13af603-73ce-4ed0-9dc2-20cf609a7397	.deprecated		# duplicate unharmonized miRNA
 CPT0116860009	*	.deprecated	# Unredacted duplicate miRNA/RNA
 CPT0235720023	*	.deprecated	# Duplicate unmerged miRNA/RNA 
 CPT0235730040	*	.deprecated	# Duplicate unmerged miRNA/RNA 
-CPT0187540007 	*	.deprecated	# Sample type inconsistency (NAT vs. tumor)
-CPT0209110009	*	.deprecated	# Sample type inconsistency (NAT vs. tumor)
 CPT0008800006	*	.deprecated	# Aliquot superceded with _1
 CPT0078160007	*	.deprecated	# Aliquot superceded with _1
 CPT0077790007	*	.deprecated	# Aliquot superceded with _1
