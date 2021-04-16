@@ -28,19 +28,20 @@ Pipelines which generate multiple result files per case will have multiple entri
 
 Counts of cases processed per disease and pipeline.  Counts of results to reference other than GDC hg38 excluded.
 
-Pipeline                        | AML | CCRCC | CM  | GBM | HNSCC | LSCC | LUAD | PDA | SAR | UCEC | Total
+Pipeline (last updated 4/15/21) | AML | CCRCC | CM  | GBM | HNSCC | LSCC | LUAD | PDA | SAR | UCEC | Total
 ---                             | --- | ----- | --- | --- | ----- | ---- | ---- | --- | --- | ---- | ---
-Methylation Array               | 43  | 222   | 8   | 116 | 111   | 113  | 229  | 164 | 19  | 246  | 1271
-miRNA-Seq                       | 42  | 222   | 8   | 114 | 111   | 113  | 229  | 164 | 19  | 247  | 1269
-RNA-Seq Expression              | 42  | 225   | 8   | 120 | 118   | 117  | 230  | 164 | 19  | 251  | 1275
-RNA-Seq Fusion                  | 11  | 222   | 8   | 119 | 111   | 113  | 164  | 164 | 19  | 244  | 1174
-RNA-Seq Transcript + Splicing   | 1   | 222   | 3   | 119 | 111   | 113  | 53   | 164 | 0   | 244  | 1029
-WGS SV                          | 0   | 222   | 0   | 115 | 132   | 113  | 111  | 166 | 0   | 239  | 1077
-WGS CNV Somatic                 |  0  | 222   | 0   | 115 | 111   | 113  | 121  | 166 |  0  | 239  | 1087
-WXS MSI                         | 0   | 222   | 0   | 118 | 111   | 113  | 111  | 166 | 0   | 244  | 1085
-WXS Normal Adjacent             | 0   | 80    | 0   | 0   | 5     | 22   | 101  | 0   | 0   | 21   | 229
-WXS Somatic                     | 0   | 0     | 0   | 0   | 0     | 113  | 0    | 0   | 0   | 0    | 113
-WXS Somatic SW                  | 0   | 0     | 0   | 0   | 0     | 113  | 109  | 166 | 0   | 244  | 632
+Methylation Array               | 43  | 222   | 8   | 169 | 111   | 113  | 229  | 164 | 19  | 249  | 1327
+miRNA-Seq                       | 42  | 222   | 8   | 114 | 111   | 113  | 229  | 164 | 19  | 250  | 1272
+RNA-Seq Expression              | 42  | 222   | 8   | 176 | 111   | 113  | 229  | 164 | 19  | 252  | 1336
+RNA-Seq Fusion                  | 11  | 222   | 8   | 119 | 111   | 113  | 164  | 164 | 19  | 247  | 1177
+RNA-Seq Transcript + Splicing   | 1   | 222   | 3   | 188 | 111   | 113  | 162  | 164 | 0   | 247  | 1167
+WGS SV                          | 0   | 222   | 0   | 173 | 132   | 113  | 220  | 166 | 0   | 242  | 1337
+WGS CNV Somatic                 |  0  | 222   | 0   | 115 | 111   | 113  | 121  | 166 |  0  | 242  | 1090
+WXS MSI                         | 0   | 222   | 0   | 118 | 111   | 113  | 111  | 166 | 0   | 247  | 1088
+WXS Somatic TD                  | 0   |  0    | 0   | 57  | 0     | 113  | 109  | 0   | 0   | 0    | 279 
+WXS Somatic SW                  | 0   | 0     | 0   | 0   | 0     | 113  | 109  | 166 | 0   | 247  | 635
+WXS Germline                    | 0   | 110   | 0   | 157 |110    | 110  | 218  | 145 | 0   |  95  | 945
+
 
 <!--
 ### QC Pipelines
