@@ -187,8 +187,6 @@ a13af603-73ce-4ed0-9dc2-20cf609a7397	.deprecated		# duplicate unharmonized miRNA
 0cf0de75-cdd0-4928-b012-ca1f218966e8	.deprecated		# duplicate unharmonized miRNA_Seq
 347ad43c-a905-4559-8b83-f32b5e9a1bc4	.deprecated		# duplicate unharmonized miRNA_Seq
 CPT0116860009	*	.deprecated	# Unredacted duplicate miRNA/RNA
-CPT0235720023	*	.deprecated	# Duplicate unmerged miRNA/RNA 
-CPT0235730040	*	.deprecated	# Duplicate unmerged miRNA/RNA 
 CPT0008800006	*	.deprecated	# Aliquot superceded with _1
 CPT0078160007	*	.deprecated	# Aliquot superceded with _1
 CPT0077790007	*	.deprecated	# Aliquot superceded with _1
