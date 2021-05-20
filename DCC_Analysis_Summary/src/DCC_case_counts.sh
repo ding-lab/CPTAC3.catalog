@@ -96,10 +96,14 @@ fi
 FILTER_CASE="awk 'BEGIN{FS=\"\t\";OFS=\"\t\"}{print substr(\$1,1,9), \$2, \$3}'"
 echo $DAS
 echo Cases per disease
-CMD="cut -f 1,2,6 $DAS | $FILTER | $FILTER_CASE | sort -u | cut -f 2 | sort | uniq -c"
+
+# CMD="cut -f 1,2,6 $DAS | $FILTER | $FILTER_CASE | sort -u | cut -f 2 | sort | uniq -c"
+# Above is incorrect, since this double-counts case if processed in more than one year
+# Merge by year (retain case only once even if processed multiple years)
+CMD="cut -f 1,2,6 $DAS | $FILTER | $FILTER_CASE | cut -f 1,2 | sort -u | cut -f 2 | sort | uniq -c"
 echo Running: $CMD
 eval $CMD
 
 echo Cases total
-CMD="cut -f 1,2,6 $DAS | $FILTER | cut -f 1 | sort -u | wc -l"
+CMD="cut -f 1,2,6 $DAS | $FILTER | cut -f 1,2 | sort -u | cut -f 1 | sort -u | wc -l"
 eval $CMD
