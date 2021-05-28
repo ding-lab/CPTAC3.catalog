@@ -53,9 +53,6 @@ WGS QC                          | 0   | 0     | 0   | 60  | 21    | 113  | 0    
 WXS QC                          | 5   | 87    | 4   | 118 | 111   | 113  | 101  | 44  | 9   | 51   | 643
 -->
 
-Last update: 10/09/20
-
-
 ## Year 1
 
 Processing performed during CPTAC3 Year 1 consisted analyses for CCRCC, LUAD,
