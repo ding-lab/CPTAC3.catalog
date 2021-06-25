@@ -704,7 +704,7 @@ C3L-05326	AML	not reported	female	not reported	-25568
 C3L-05329	AML	not reported	female	not reported	-21212
 C3L-05331	AML	not reported	male	not reported	-23133
 C3L-05334	AML	not reported	male	not reported	-13916
-C3L-05335	TBD	not reported	female	not reported	-15545
+C3L-05335	AML	not reported	female	not reported	-15545
 C3L-05338	AML	not reported	male	not reported	-16793
 C3L-05369	LSCC	not reported	male	not reported	-21830
 C3L-05386	AML	not hispanic or latino	female	white	-15315
@@ -1528,12 +1528,12 @@ C3N-05039	GBM	not reported	male	not reported	null
 C3N-05078	LSCC	not reported	male	not reported	-23462
 C3N-05079	LSCC	not reported	male	not reported	-29263
 C3N-05080	LSCC	not reported	male	not reported	-29134
-C3N-05085	TBD	not reported	male	not reported	null
+C3N-05085	LSCC	not reported	male	not reported	null
 C3N-05100	LSCC	not reported	female	not reported	-22209
 C3N-05114	GBM	not reported	female	not reported	null
 C3N-05135	GBM	not reported	male	not reported	null
 C3N-05629	LSCC	not reported	male	not reported	-22763
-C3N-05911	TBD	not reported	male	not reported	null
+C3N-05911	LSCC	not reported	male	not reported	null
 C3N-05914	LSCC	not reported	female	not reported	-25700
 C3N-05915	LSCC	not reported	male	not reported	-21922
 C3N-05923	LSCC	not reported	female	not reported	-27298
