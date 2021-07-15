@@ -28,17 +28,17 @@ Pipelines which generate multiple result files per case will have multiple entri
 
 Counts of cases processed per disease and pipeline.  Counts of results to reference other than GDC hg38 excluded.
 
-Pipeline (last updated 5/25/21) | AML | CCRCC | CM  | GBM | HNSCC | LSCC | LUAD | PDA | SAR | UCEC | Total
+Pipeline (last updated 6/18/21) | AML | CCRCC | CM  | GBM | HNSCC | LSCC | LUAD | PDA | SAR | UCEC | Total
 ---                             | --- | ----- | --- | --- | ----- | ---- | ---- | --- | --- | ---- | ---
-Methylation Array               | 43  | 222   | 8   | 169 | 111   | 113  | 229  | 164 | 19  | 249  | 1327 
+Methylation Array               | 43  | 222   | 8   | 184 | 111   | 113  | 229  | 164 | 19  | 249  | 1342
 miRNA-Seq                       | 42  | 222   | 8   | 183 | 111   | 113  | 229  | 164 | 19  | 250  | 1341 
-RNA-Seq Expression              | 42  | 222   | 8   | 176 | 111   | 113  | 229  | 164 | 19  | 252  | 1336 
+RNA-Seq Expression              | 42  | 222   | 8   | 187 | 111   | 113  | 229  | 164 | 19  | 252  | 1347 
 RNA-Seq Fusion                  | 11  | 222   | 8   | 188 | 111   | 113  | 229  | 164 | 19  | 246  | 1311 
 RNA-Seq Transcript + Splicing   | 1   | 222   | 3   | 188 | 111   | 113  | 119  | 164 | 0   | 246  | 1167 
 WGS SV                          | 0   | 222   | 0   | 173 | 111   | 113  | 219  | 166 | 0   | 242  | 1337 
 WGS CNV Somatic                 |  0  | 222   | 0   | 115 | 111   | 113  | 121  | 166 |  0  | 242  | 1090 
-WXS MSI                         | 0   | 222   | 0   | 118 | 111   | 113  | 111  | 166 | 0   | 247  | 1088 
-WXS Somatic TD                  | 0   | 110   | 0   | 156 | 110   | 113  | 218  | 140 | 0   | 233  | 1080
+WXS MSI                         | 0   | 222   | 0   | 175 | 111   | 113  | 219  | 166 | 0   | 247  | 1253 
+WXS Somatic TD                  | 0   | 222   | 0   | 157 | 111   | 202  | 218  | 164 | 0   | 233  | 1319
 WXS Somatic SW                  | 0   | 0     | 0   | 57  | 0     | 113  | 217  | 166 | 0   | 247  | 800 
 WXS Germline                    | 0   | 110   | 0   | 157 |110    | 110  | 218  | 145 | 0   |  95  | 945
 
